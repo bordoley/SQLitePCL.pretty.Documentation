@@ -78,11 +78,6 @@
   <HelpKINode Title="Corrupt enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="CorruptVTab enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="Create enumeration member" Url="html/T_SQLitePCL_pretty_ConnectionFlags.htm" />
-  <HelpKINode Title="Create method">
-    <HelpKINode Title="DatabaseProfileEventArgs.Create Method " Url="html/M_SQLitePCL_pretty_DatabaseProfileEventArgs_Create.htm" />
-    <HelpKINode Title="DatabaseTraceEventArgs.Create Method " Url="html/M_SQLitePCL_pretty_DatabaseTraceEventArgs_Create.htm" />
-    <HelpKINode Title="DatabaseUpdateEventArgs.Create Method " Url="html/M_SQLitePCL_pretty_DatabaseUpdateEventArgs_Create.htm" />
-  </HelpKINode>
   <HelpKINode Title="CreateIndex enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="CreateTable enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="CreateTempIndex enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
@@ -104,7 +99,7 @@
   <HelpKINode Title="DatabaseConnection.GetFileName method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_GetFileName.htm" />
   <HelpKINode Title="DatabaseConnection.OpenBlob method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_OpenBlob.htm" />
   <HelpKINode Title="DatabaseConnection.PrepareAll method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_PrepareAll.htm" />
-  <HelpKINode Title="DatabaseConnection.PrepareStatement method" Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_PrepareStatement.htm" />
+  <HelpKINode Title="DatabaseConnection.PrepareStatement method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_PrepareStatement.htm" />
   <HelpKINode Title="DatabaseConnection.Query method" Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_Query.htm" />
   <HelpKINode Title="DatabaseConnection.RegisterAggregateFunc method" Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_RegisterAggregateFunc.htm" />
   <HelpKINode Title="DatabaseConnection.RegisterScalarFunc method" Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_RegisterScalarFunc.htm" />
@@ -115,7 +110,6 @@
     <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_DatabaseProfileEventArgs.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_SQLitePCL_pretty_DatabaseProfileEventArgs.htm" />
   </HelpKINode>
-  <HelpKINode Title="DatabaseProfileEventArgs.Create method" Url="html/M_SQLitePCL_pretty_DatabaseProfileEventArgs_Create.htm" />
   <HelpKINode Title="DatabaseProfileEventArgs.ExecutionTime property" Url="html/P_SQLitePCL_pretty_DatabaseProfileEventArgs_ExecutionTime.htm" />
   <HelpKINode Title="DatabaseProfileEventArgs.Statement property" Url="html/P_SQLitePCL_pretty_DatabaseProfileEventArgs_Statement.htm" />
   <HelpKINode Title="DatabaseTraceEventArgs class">
@@ -124,7 +118,6 @@
     <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_DatabaseTraceEventArgs.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_SQLitePCL_pretty_DatabaseTraceEventArgs.htm" />
   </HelpKINode>
-  <HelpKINode Title="DatabaseTraceEventArgs.Create method" Url="html/M_SQLitePCL_pretty_DatabaseTraceEventArgs_Create.htm" />
   <HelpKINode Title="DatabaseTraceEventArgs.Statement property" Url="html/P_SQLitePCL_pretty_DatabaseTraceEventArgs_Statement.htm" />
   <HelpKINode Title="DatabaseUpdateEventArgs class">
     <HelpKINode Title="DatabaseUpdateEventArgs Class" Url="html/T_SQLitePCL_pretty_DatabaseUpdateEventArgs.htm" />
@@ -133,7 +126,6 @@
     <HelpKINode Title="properties" Url="html/Properties_T_SQLitePCL_pretty_DatabaseUpdateEventArgs.htm" />
   </HelpKINode>
   <HelpKINode Title="DatabaseUpdateEventArgs.Action property" Url="html/P_SQLitePCL_pretty_DatabaseUpdateEventArgs_Action.htm" />
-  <HelpKINode Title="DatabaseUpdateEventArgs.Create method" Url="html/M_SQLitePCL_pretty_DatabaseUpdateEventArgs_Create.htm" />
   <HelpKINode Title="DatabaseUpdateEventArgs.Database property" Url="html/P_SQLitePCL_pretty_DatabaseUpdateEventArgs_Database.htm" />
   <HelpKINode Title="DatabaseUpdateEventArgs.RowId property" Url="html/P_SQLitePCL_pretty_DatabaseUpdateEventArgs_RowId.htm" />
   <HelpKINode Title="DatabaseUpdateEventArgs.Table property" Url="html/P_SQLitePCL_pretty_DatabaseUpdateEventArgs_Table.htm" />
@@ -372,7 +364,7 @@
   <HelpKINode Title="PrepareAll method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_PrepareAll.htm" />
   <HelpKINode Title="PrepareAllAsync method" Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_PrepareAllAsync.htm" />
   <HelpKINode Title="PrepareStatement method">
-    <HelpKINode Title="DatabaseConnection.PrepareStatement Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_PrepareStatement.htm" />
+    <HelpKINode Title="DatabaseConnection.PrepareStatement Method " Url="html/M_SQLitePCL_pretty_DatabaseConnection_PrepareStatement.htm" />
     <HelpKINode Title="IDatabaseConnection.PrepareStatement Method " Url="html/M_SQLitePCL_pretty_IDatabaseConnection_PrepareStatement.htm" />
     <HelpKINode Title="SQLiteDatabaseConnection.PrepareStatement Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_PrepareStatement.htm" />
   </HelpKINode>
