@@ -30,7 +30,7 @@
   <HelpKINode Title="Backup method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_Backup.htm" />
   <HelpKINode Title="BackupInit method" Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_BackupInit.htm" />
   <HelpKINode Title="Bind method">
-    <HelpKINode Title="BindParameter.Bind Method " Url="html/M_SQLitePCL_pretty_BindParameter_Bind.htm" />
+    <HelpKINode Title="BindParameter.Bind Method " Url="html/Overload_SQLitePCL_pretty_BindParameter_Bind.htm" />
     <HelpKINode Title="IBindParameter.Bind Method " Url="html/Overload_SQLitePCL_pretty_IBindParameter_Bind.htm" />
     <HelpKINode Title="Statement.Bind Method " Url="html/M_SQLitePCL_pretty_Statement_Bind.htm" />
   </HelpKINode>
@@ -40,7 +40,7 @@
     <HelpKINode Title="about BindParameter class" Url="html/T_SQLitePCL_pretty_BindParameter.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_BindParameter.htm" />
   </HelpKINode>
-  <HelpKINode Title="BindParameter.Bind method" Url="html/M_SQLitePCL_pretty_BindParameter_Bind.htm" />
+  <HelpKINode Title="BindParameter.Bind method" Url="html/Overload_SQLitePCL_pretty_BindParameter_Bind.htm" />
   <HelpKINode Title="BindParameters property" Url="html/P_SQLitePCL_pretty_IStatement_BindParameters.htm" />
   <HelpKINode Title="BindZeroBlob method" Url="html/M_SQLitePCL_pretty_IBindParameter_BindZeroBlob.htm" />
   <HelpKINode Title="Blob enumeration member" Url="html/T_SQLitePCL_pretty_SQLiteType.htm" />
@@ -68,6 +68,7 @@
   <HelpKINode Title="ColumnInfo property" Url="html/P_SQLitePCL_pretty_IResultSetValue_ColumnInfo.htm" />
   <HelpKINode Title="ColumnInfo.CompareTo method" Url="html/M_SQLitePCL_pretty_ColumnInfo_CompareTo.htm" />
   <HelpKINode Title="ColumnInfo.DatabaseName property" Url="html/P_SQLitePCL_pretty_ColumnInfo_DatabaseName.htm" />
+  <HelpKINode Title="ColumnInfo.DeclaredType property" Url="html/P_SQLitePCL_pretty_ColumnInfo_DeclaredType.htm" />
   <HelpKINode Title="ColumnInfo.Equality operator" Url="html/M_SQLitePCL_pretty_ColumnInfo_op_Equality.htm" />
   <HelpKINode Title="ColumnInfo.Equals method" Url="html/Overload_SQLitePCL_pretty_ColumnInfo_Equals.htm" />
   <HelpKINode Title="ColumnInfo.GetHashCode method" Url="html/M_SQLitePCL_pretty_ColumnInfo_GetHashCode.htm" />
@@ -157,6 +158,7 @@
   <HelpKINode Title="DatabaseUpdateEventArgs.Database property" Url="html/P_SQLitePCL_pretty_DatabaseUpdateEventArgs_Database.htm" />
   <HelpKINode Title="DatabaseUpdateEventArgs.RowId property" Url="html/P_SQLitePCL_pretty_DatabaseUpdateEventArgs_RowId.htm" />
   <HelpKINode Title="DatabaseUpdateEventArgs.Table property" Url="html/P_SQLitePCL_pretty_DatabaseUpdateEventArgs_Table.htm" />
+  <HelpKINode Title="DeclaredType property" Url="html/P_SQLitePCL_pretty_ColumnInfo_DeclaredType.htm" />
   <HelpKINode Title="DefaultScheduler property" Url="html/P_SQLitePCL_pretty_DatabaseConnection_DefaultScheduler.htm" />
   <HelpKINode Title="Delete enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="Detach enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
@@ -198,7 +200,10 @@
   <HelpKINode Title="ExtendedErrorCode property" Url="html/P_SQLitePCL_pretty_SQLiteException_ExtendedErrorCode.htm" />
   <HelpKINode Title="Float enumeration member" Url="html/T_SQLitePCL_pretty_SQLiteType.htm" />
   <HelpKINode Title="Format enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
-  <HelpKINode Title="Full enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
+  <HelpKINode Title="Full enumeration member">
+    <HelpKINode Title="ErrorCode Enumeration" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
+    <HelpKINode Title="WalCheckPointMode Enumeration" Url="html/T_SQLitePCL_pretty_WalCheckPointMode.htm" />
+  </HelpKINode>
   <HelpKINode Title="FullMutex enumeration member" Url="html/T_SQLitePCL_pretty_ConnectionFlags.htm" />
   <HelpKINode Title="Function enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="GetFileName method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_GetFileName.htm" />
@@ -261,12 +266,15 @@
   </HelpKINode>
   <HelpKINode Title="IDatabaseConnection.Changes property" Url="html/P_SQLitePCL_pretty_IDatabaseConnection_Changes.htm" />
   <HelpKINode Title="IDatabaseConnection.IsAutoCommit property" Url="html/P_SQLitePCL_pretty_IDatabaseConnection_IsAutoCommit.htm" />
+  <HelpKINode Title="IDatabaseConnection.IsDatabaseReadOnly method" Url="html/M_SQLitePCL_pretty_IDatabaseConnection_IsDatabaseReadOnly.htm" />
+  <HelpKINode Title="IDatabaseConnection.IsReadOnly property" Url="html/P_SQLitePCL_pretty_IDatabaseConnection_IsReadOnly.htm" />
   <HelpKINode Title="IDatabaseConnection.LastInsertedRowId property" Url="html/P_SQLitePCL_pretty_IDatabaseConnection_LastInsertedRowId.htm" />
   <HelpKINode Title="IDatabaseConnection.OpenBlob method" Url="html/M_SQLitePCL_pretty_IDatabaseConnection_OpenBlob.htm" />
   <HelpKINode Title="IDatabaseConnection.PrepareStatement method" Url="html/M_SQLitePCL_pretty_IDatabaseConnection_PrepareStatement.htm" />
   <HelpKINode Title="IDatabaseConnection.Profile event" Url="html/E_SQLitePCL_pretty_IDatabaseConnection_Profile.htm" />
   <HelpKINode Title="IDatabaseConnection.Rollback event" Url="html/E_SQLitePCL_pretty_IDatabaseConnection_Rollback.htm" />
   <HelpKINode Title="IDatabaseConnection.Statements property" Url="html/P_SQLitePCL_pretty_IDatabaseConnection_Statements.htm" />
+  <HelpKINode Title="IDatabaseConnection.TotalChanges property" Url="html/P_SQLitePCL_pretty_IDatabaseConnection_TotalChanges.htm" />
   <HelpKINode Title="IDatabaseConnection.Trace event" Url="html/E_SQLitePCL_pretty_IDatabaseConnection_Trace.htm" />
   <HelpKINode Title="IDatabaseConnection.Update event" Url="html/E_SQLitePCL_pretty_IDatabaseConnection_Update.htm" />
   <HelpKINode Title="Inequality operator">
@@ -277,6 +285,7 @@
   <HelpKINode Title="Integer enumeration member" Url="html/T_SQLitePCL_pretty_SQLiteType.htm" />
   <HelpKINode Title="Internal enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="Interrupt enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
+  <HelpKINode Title="Interrupt method" Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_Interrupt.htm" />
   <HelpKINode Title="IOError enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="IOErrorAccess enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="IOErrorBlocked enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
@@ -331,6 +340,10 @@
   </HelpKINode>
   <HelpKINode Title="IsBusy property" Url="html/P_SQLitePCL_pretty_IStatement_IsBusy.htm" />
   <HelpKINode Title="IsCompleteStatement method" Url="html/M_SQLitePCL_pretty_SQLite3_IsCompleteStatement.htm" />
+  <HelpKINode Title="IsDatabaseReadOnly method">
+    <HelpKINode Title="IDatabaseConnection.IsDatabaseReadOnly Method " Url="html/M_SQLitePCL_pretty_IDatabaseConnection_IsDatabaseReadOnly.htm" />
+    <HelpKINode Title="SQLiteDatabaseConnection.IsDatabaseReadOnly Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_IsDatabaseReadOnly.htm" />
+  </HelpKINode>
   <HelpKINode Title="ISQLiteValue interface">
     <HelpKINode Title="ISQLiteValue Interface" Url="html/T_SQLitePCL_pretty_ISQLiteValue.htm" />
     <HelpKINode Title="about ISQLiteValue interface" Url="html/T_SQLitePCL_pretty_ISQLiteValue.htm" />
@@ -344,7 +357,11 @@
   <HelpKINode Title="ISQLiteValue.ToInt method" Url="html/M_SQLitePCL_pretty_ISQLiteValue_ToInt.htm" />
   <HelpKINode Title="ISQLiteValue.ToInt64 method" Url="html/M_SQLitePCL_pretty_ISQLiteValue_ToInt64.htm" />
   <HelpKINode Title="ISQLiteValue.ToString method" Url="html/M_SQLitePCL_pretty_ISQLiteValue_ToString.htm" />
-  <HelpKINode Title="IsReadOnly property" Url="html/P_SQLitePCL_pretty_IStatement_IsReadOnly.htm" />
+  <HelpKINode Title="IsReadOnly property">
+    <HelpKINode Title="IDatabaseConnection.IsReadOnly Property " Url="html/P_SQLitePCL_pretty_IDatabaseConnection_IsReadOnly.htm" />
+    <HelpKINode Title="IStatement.IsReadOnly Property " Url="html/P_SQLitePCL_pretty_IStatement_IsReadOnly.htm" />
+    <HelpKINode Title="SQLiteDatabaseConnection.IsReadOnly Property " Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_IsReadOnly.htm" />
+  </HelpKINode>
   <HelpKINode Title="IStatement interface">
     <HelpKINode Title="IStatement Interface" Url="html/T_SQLitePCL_pretty_IStatement.htm" />
     <HelpKINode Title="about IStatement interface" Url="html/T_SQLitePCL_pretty_IStatement.htm" />
@@ -405,6 +422,7 @@
   <HelpKINode Title="OpenBlobAsync method" Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_OpenBlobAsync.htm" />
   <HelpKINode Title="OriginName property" Url="html/P_SQLitePCL_pretty_ColumnInfo_OriginName.htm" />
   <HelpKINode Title="PageCount property" Url="html/P_SQLitePCL_pretty_IDatabaseBackup_PageCount.htm" />
+  <HelpKINode Title="Passive enumeration member" Url="html/T_SQLitePCL_pretty_WalCheckPointMode.htm" />
   <HelpKINode Title="Perm enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="Pragma enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="PrepareAll method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_PrepareAll.htm" />
@@ -454,6 +472,7 @@
   <HelpKINode Title="RemoveCommitHook method" Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_RemoveCommitHook.htm" />
   <HelpKINode Title="RemoveFunc method" Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_RemoveFunc.htm" />
   <HelpKINode Title="ResetMemoryHighWater method" Url="html/M_SQLitePCL_pretty_SQLite3_ResetMemoryHighWater.htm" />
+  <HelpKINode Title="Restart enumeration member" Url="html/T_SQLitePCL_pretty_WalCheckPointMode.htm" />
   <HelpKINode Title="ResultSet class">
     <HelpKINode Title="ResultSet Class" Url="html/T_SQLitePCL_pretty_ResultSet.htm" />
     <HelpKINode Title="about ResultSet class" Url="html/T_SQLitePCL_pretty_ResultSet.htm" />
@@ -498,7 +517,10 @@
   <HelpKINode Title="SQLiteDatabaseConnection.BusyTimeout property" Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_BusyTimeout.htm" />
   <HelpKINode Title="SQLiteDatabaseConnection.Changes property" Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_Changes.htm" />
   <HelpKINode Title="SQLiteDatabaseConnection.Dispose method" Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_Dispose.htm" />
+  <HelpKINode Title="SQLiteDatabaseConnection.Interrupt method" Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_Interrupt.htm" />
   <HelpKINode Title="SQLiteDatabaseConnection.IsAutoCommit property" Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_IsAutoCommit.htm" />
+  <HelpKINode Title="SQLiteDatabaseConnection.IsDatabaseReadOnly method" Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_IsDatabaseReadOnly.htm" />
+  <HelpKINode Title="SQLiteDatabaseConnection.IsReadOnly property" Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_IsReadOnly.htm" />
   <HelpKINode Title="SQLiteDatabaseConnection.LastInsertedRowId property" Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_LastInsertedRowId.htm" />
   <HelpKINode Title="SQLiteDatabaseConnection.OpenBlob method" Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_OpenBlob.htm" />
   <HelpKINode Title="SQLiteDatabaseConnection.PrepareStatement method" Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_PrepareStatement.htm" />
@@ -513,6 +535,7 @@
   <HelpKINode Title="SQLiteDatabaseConnection.RemoveFunc method" Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_RemoveFunc.htm" />
   <HelpKINode Title="SQLiteDatabaseConnection.Rollback event" Url="html/E_SQLitePCL_pretty_SQLiteDatabaseConnection_Rollback.htm" />
   <HelpKINode Title="SQLiteDatabaseConnection.Statements property" Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_Statements.htm" />
+  <HelpKINode Title="SQLiteDatabaseConnection.TotalChanges property" Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_TotalChanges.htm" />
   <HelpKINode Title="SQLiteDatabaseConnection.Trace event" Url="html/E_SQLitePCL_pretty_SQLiteDatabaseConnection_Trace.htm" />
   <HelpKINode Title="SQLiteDatabaseConnection.TryGetFileName method" Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_TryGetFileName.htm" />
   <HelpKINode Title="SQLiteDatabaseConnection.Update event" Url="html/E_SQLitePCL_pretty_SQLiteDatabaseConnection_Update.htm" />
@@ -555,6 +578,7 @@
   <HelpKINode Title="SQLitePCL.pretty.SQLiteValue class" Url="html/T_SQLitePCL_pretty_SQLiteValue.htm" />
   <HelpKINode Title="SQLitePCL.pretty.SQLiteVersion structure" Url="html/T_SQLitePCL_pretty_SQLiteVersion.htm" />
   <HelpKINode Title="SQLitePCL.pretty.Statement class" Url="html/T_SQLitePCL_pretty_Statement.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.WalCheckPointMode enumeration" Url="html/T_SQLitePCL_pretty_WalCheckPointMode.htm" />
   <HelpKINode Title="SQLiteType enumeration" Url="html/T_SQLitePCL_pretty_SQLiteType.htm" />
   <HelpKINode Title="SQLiteType property" Url="html/P_SQLitePCL_pretty_ISQLiteValue_SQLiteType.htm" />
   <HelpKINode Title="SQLiteValue class">
@@ -565,6 +589,7 @@
   </HelpKINode>
   <HelpKINode Title="SQLiteValue.Null property" Url="html/P_SQLitePCL_pretty_SQLiteValue_Null.htm" />
   <HelpKINode Title="SQLiteValue.ToSQLiteValue method" Url="html/Overload_SQLitePCL_pretty_SQLiteValue_ToSQLiteValue.htm" />
+  <HelpKINode Title="SQLiteValue.ZeroBlob method" Url="html/M_SQLitePCL_pretty_SQLiteValue_ZeroBlob.htm" />
   <HelpKINode Title="SQLiteVersion structure">
     <HelpKINode Title="SQLiteVersion Structure" Url="html/T_SQLitePCL_pretty_SQLiteVersion.htm" />
     <HelpKINode Title="about SQLiteVersion structure" Url="html/T_SQLitePCL_pretty_SQLiteVersion.htm" />
@@ -619,6 +644,10 @@
     <HelpKINode Title="SQLiteException.ToString Method " Url="html/M_SQLitePCL_pretty_SQLiteException_ToString.htm" />
     <HelpKINode Title="SQLiteVersion.ToString Method " Url="html/M_SQLitePCL_pretty_SQLiteVersion_ToString.htm" />
   </HelpKINode>
+  <HelpKINode Title="TotalChanges property">
+    <HelpKINode Title="IDatabaseConnection.TotalChanges Property " Url="html/P_SQLitePCL_pretty_IDatabaseConnection_TotalChanges.htm" />
+    <HelpKINode Title="SQLiteDatabaseConnection.TotalChanges Property " Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_TotalChanges.htm" />
+  </HelpKINode>
   <HelpKINode Title="Trace event">
     <HelpKINode Title="IDatabaseConnection.Trace Event" Url="html/E_SQLitePCL_pretty_IDatabaseConnection_Trace.htm" />
     <HelpKINode Title="SQLiteDatabaseConnection.Trace Event" Url="html/E_SQLitePCL_pretty_SQLiteDatabaseConnection_Trace.htm" />
@@ -646,6 +675,8 @@
     <HelpKINode Title="IAsyncStatement.Use(T) Method " Url="html/M_SQLitePCL_pretty_IAsyncStatement_Use__1.htm" />
   </HelpKINode>
   <HelpKINode Title="Version property" Url="html/P_SQLitePCL_pretty_SQLite3_Version.htm" />
+  <HelpKINode Title="WalCheckPointMode enumeration" Url="html/T_SQLitePCL_pretty_WalCheckPointMode.htm" />
   <HelpKINode Title="Warning enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="WarningAutoIndex enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
+  <HelpKINode Title="ZeroBlob method" Url="html/M_SQLitePCL_pretty_SQLiteValue_ZeroBlob.htm" />
 </HelpKI>
