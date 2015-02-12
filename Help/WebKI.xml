@@ -25,6 +25,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_AsyncStatement.htm" />
   </HelpKINode>
   <HelpKINode Title="AsyncStatement.ExecuteAsync method" Url="html/Overload_SQLitePCL_pretty_AsyncStatement_ExecuteAsync.htm" />
+  <HelpKINode Title="AsyncStatement.Query method" Url="html/Overload_SQLitePCL_pretty_AsyncStatement_Query.htm" />
   <HelpKINode Title="AsyncStatement.Use method" Url="html/Overload_SQLitePCL_pretty_AsyncStatement_Use.htm" />
   <HelpKINode Title="Attach enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="AutoIndex enumeration member" Url="html/T_SQLitePCL_pretty_StatementStatusCode.htm" />
@@ -488,7 +489,9 @@
   <HelpKINode Title="Protocol enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="Query method">
     <HelpKINode Title="AsyncDatabaseConnection.Query Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_Query.htm" />
+    <HelpKINode Title="AsyncStatement.Query Method " Url="html/Overload_SQLitePCL_pretty_AsyncStatement_Query.htm" />
     <HelpKINode Title="DatabaseConnection.Query Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_Query.htm" />
+    <HelpKINode Title="Statement.Query Method " Url="html/Overload_SQLitePCL_pretty_Statement_Query.htm" />
   </HelpKINode>
   <HelpKINode Title="Range enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="Read enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
@@ -689,6 +692,7 @@
   </HelpKINode>
   <HelpKINode Title="Statement.Bind method" Url="html/M_SQLitePCL_pretty_Statement_Bind.htm" />
   <HelpKINode Title="Statement.Execute method" Url="html/M_SQLitePCL_pretty_Statement_Execute.htm" />
+  <HelpKINode Title="Statement.Query method" Url="html/Overload_SQLitePCL_pretty_Statement_Query.htm" />
   <HelpKINode Title="Statements property">
     <HelpKINode Title="IDatabaseConnection.Statements Property " Url="html/P_SQLitePCL_pretty_IDatabaseConnection_Statements.htm" />
     <HelpKINode Title="SQLiteDatabaseConnection.Statements Property " Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_Statements.htm" />
