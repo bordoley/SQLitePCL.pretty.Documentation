@@ -9,15 +9,27 @@
   <HelpKINode Title="AsAsyncDatabaseConnection method" Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_AsAsyncDatabaseConnection.htm" />
   <HelpKINode Title="AsyncDatabaseConnection class">
     <HelpKINode Title="AsyncDatabaseConnection Class" Url="html/T_SQLitePCL_pretty_AsyncDatabaseConnection.htm" />
+    <HelpKINode Title="AsyncDatabaseConnection Class" Url="html/T_SQLitePCL_pretty_Orm_AsyncDatabaseConnection.htm" />
     <HelpKINode Title="about AsyncDatabaseConnection class" Url="html/T_SQLitePCL_pretty_AsyncDatabaseConnection.htm" />
+    <HelpKINode Title="about AsyncDatabaseConnection class" Url="html/T_SQLitePCL_pretty_Orm_AsyncDatabaseConnection.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_AsyncDatabaseConnection.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_AsyncDatabaseConnection.htm" />
   </HelpKINode>
+  <HelpKINode Title="AsyncDatabaseConnection.DeleteAllAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DeleteAllAsync.htm" />
+  <HelpKINode Title="AsyncDatabaseConnection.DeleteAllRowsAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DeleteAllRowsAsync.htm" />
+  <HelpKINode Title="AsyncDatabaseConnection.DropTableIfExistsAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DropTableIfExistsAsync.htm" />
   <HelpKINode Title="AsyncDatabaseConnection.ExecuteAllAsync method" Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_ExecuteAllAsync.htm" />
   <HelpKINode Title="AsyncDatabaseConnection.ExecuteAsync method" Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_ExecuteAsync.htm" />
+  <HelpKINode Title="AsyncDatabaseConnection.FindAllAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_FindAllAsync.htm" />
+  <HelpKINode Title="AsyncDatabaseConnection.InitTableAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_InitTableAsync.htm" />
+  <HelpKINode Title="AsyncDatabaseConnection.InsertOrReplaceAllAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_InsertOrReplaceAllAsync.htm" />
   <HelpKINode Title="AsyncDatabaseConnection.OpenBlobAsync method" Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_OpenBlobAsync.htm" />
   <HelpKINode Title="AsyncDatabaseConnection.PrepareAllAsync method" Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_PrepareAllAsync.htm" />
   <HelpKINode Title="AsyncDatabaseConnection.PrepareStatementAsync method" Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_PrepareStatementAsync.htm" />
-  <HelpKINode Title="AsyncDatabaseConnection.Query method" Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_Query.htm" />
+  <HelpKINode Title="AsyncDatabaseConnection.Query method">
+    <HelpKINode Title="AsyncDatabaseConnection.Query Method " Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_Query.htm" />
+    <HelpKINode Title="AsyncDatabaseConnection.Query Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_Query.htm" />
+  </HelpKINode>
   <HelpKINode Title="AsyncDatabaseConnection.Use method" Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_Use.htm" />
   <HelpKINode Title="AsyncStatement class">
     <HelpKINode Title="AsyncStatement Class" Url="html/T_SQLitePCL_pretty_AsyncStatement.htm" />
@@ -36,8 +48,6 @@
     <HelpKINode Title="IBindParameter.Bind Method " Url="html/Overload_SQLitePCL_pretty_IBindParameter_Bind.htm" />
     <HelpKINode Title="Statement.Bind Method " Url="html/M_SQLitePCL_pretty_Statement_Bind.htm" />
   </HelpKINode>
-  <HelpKINode Title="Bind(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMappedStatement_Bind__1.htm" />
-  <HelpKINode Title="Bind&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMappedStatement_Bind__1.htm" />
   <HelpKINode Title="BindNull method" Url="html/M_SQLitePCL_pretty_IBindParameter_BindNull.htm" />
   <HelpKINode Title="BindParameter class">
     <HelpKINode Title="BindParameter Class" Url="html/T_SQLitePCL_pretty_BindParameter.htm" />
@@ -46,6 +56,8 @@
   </HelpKINode>
   <HelpKINode Title="BindParameter.Bind method" Url="html/Overload_SQLitePCL_pretty_BindParameter_Bind.htm" />
   <HelpKINode Title="BindParameters property" Url="html/P_SQLitePCL_pretty_IStatement_BindParameters.htm" />
+  <HelpKINode Title="BindProperties(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_Statement_BindProperties__1.htm" />
+  <HelpKINode Title="BindProperties&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_Statement_BindProperties__1.htm" />
   <HelpKINode Title="BindZeroBlob method" Url="html/M_SQLitePCL_pretty_IBindParameter_BindZeroBlob.htm" />
   <HelpKINode Title="Blob enumeration member" Url="html/T_SQLitePCL_pretty_SQLiteType.htm" />
   <HelpKINode Title="Busy enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
@@ -65,7 +77,6 @@
     <HelpKINode Title="SQLiteDatabaseConnection.Changes Property " Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_Changes.htm" />
   </HelpKINode>
   <HelpKINode Title="ClearBindings method" Url="html/M_SQLitePCL_pretty_IStatement_ClearBindings.htm" />
-  <HelpKINode Title="ClrType property" Url="html/P_SQLitePCL_pretty_Orm_ColumnMapping_ClrType.htm" />
   <HelpKINode Title="CollationAttribute class">
     <HelpKINode Title="CollationAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_CollationAttribute.htm" />
     <HelpKINode Title="about CollationAttribute class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_CollationAttribute.htm" />
@@ -107,28 +118,11 @@
   <HelpKINode Title="ColumnInfo.Name property" Url="html/P_SQLitePCL_pretty_ColumnInfo_Name.htm" />
   <HelpKINode Title="ColumnInfo.OriginName property" Url="html/P_SQLitePCL_pretty_ColumnInfo_OriginName.htm" />
   <HelpKINode Title="ColumnInfo.TableName property" Url="html/P_SQLitePCL_pretty_ColumnInfo_TableName.htm" />
-  <HelpKINode Title="ColumnMapping class">
-    <HelpKINode Title="ColumnMapping Class" Url="html/T_SQLitePCL_pretty_Orm_ColumnMapping.htm" />
-    <HelpKINode Title="about ColumnMapping class" Url="html/T_SQLitePCL_pretty_Orm_ColumnMapping.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_ColumnMapping.htm" />
-    <HelpKINode Title="operators" Url="html/Operators_T_SQLitePCL_pretty_Orm_ColumnMapping.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_ColumnMapping.htm" />
-  </HelpKINode>
-  <HelpKINode Title="ColumnMapping.ClrType property" Url="html/P_SQLitePCL_pretty_Orm_ColumnMapping_ClrType.htm" />
-  <HelpKINode Title="ColumnMapping.DefaultValue property" Url="html/P_SQLitePCL_pretty_Orm_ColumnMapping_DefaultValue.htm" />
-  <HelpKINode Title="ColumnMapping.Equality operator" Url="html/M_SQLitePCL_pretty_Orm_ColumnMapping_op_Equality.htm" />
-  <HelpKINode Title="ColumnMapping.Equals method" Url="html/Overload_SQLitePCL_pretty_Orm_ColumnMapping_Equals.htm" />
-  <HelpKINode Title="ColumnMapping.GetHashCode method" Url="html/M_SQLitePCL_pretty_Orm_ColumnMapping_GetHashCode.htm" />
-  <HelpKINode Title="ColumnMapping.Inequality operator" Url="html/M_SQLitePCL_pretty_Orm_ColumnMapping_op_Inequality.htm" />
-  <HelpKINode Title="ColumnMapping.Metadata property" Url="html/P_SQLitePCL_pretty_Orm_ColumnMapping_Metadata.htm" />
-  <HelpKINode Title="ColumnMapping.Property property" Url="html/P_SQLitePCL_pretty_Orm_ColumnMapping_Property.htm" />
-  <HelpKINode Title="ColumnMapping.ToString method" Url="html/M_SQLitePCL_pretty_Orm_ColumnMapping_ToString.htm" />
+  <HelpKINode Title="ColumnName property" Url="html/P_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute_ColumnName.htm" />
   <HelpKINode Title="Columns method" Url="html/M_SQLitePCL_pretty_ResultSet_Columns.htm" />
   <HelpKINode Title="Columns property">
     <HelpKINode Title="CompositeIndexAttribute.Columns Property " Url="html/P_SQLitePCL_pretty_Orm_Attributes_CompositeIndexAttribute_Columns.htm" />
-    <HelpKINode Title="IndexInfo.Columns Property " Url="html/P_SQLitePCL_pretty_Orm_IndexInfo_Columns.htm" />
     <HelpKINode Title="IStatement.Columns Property " Url="html/P_SQLitePCL_pretty_IStatement_Columns.htm" />
-    <HelpKINode Title="ITableMapping.Columns Property " Url="html/P_SQLitePCL_pretty_Orm_ITableMapping_Columns.htm" />
   </HelpKINode>
   <HelpKINode Title="CompareTo method">
     <HelpKINode Title="ColumnInfo.CompareTo Method " Url="html/M_SQLitePCL_pretty_ColumnInfo_CompareTo.htm" />
@@ -164,7 +158,6 @@
   <HelpKINode Title="Corrupt enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="CorruptVTab enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="Create enumeration member" Url="html/T_SQLitePCL_pretty_ConnectionFlags.htm" />
-  <HelpKINode Title="Create method" Url="html/Overload_SQLitePCL_pretty_Orm_TableMapping_Create.htm" />
   <HelpKINode Title="CreateIndex enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="CreateTable enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="CreateTempIndex enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
@@ -177,23 +170,56 @@
   <HelpKINode Title="Database property" Url="html/P_SQLitePCL_pretty_DatabaseUpdateEventArgs_Database.htm" />
   <HelpKINode Title="DatabaseConnection class">
     <HelpKINode Title="DatabaseConnection Class" Url="html/T_SQLitePCL_pretty_DatabaseConnection.htm" />
+    <HelpKINode Title="DatabaseConnection Class" Url="html/T_SQLitePCL_pretty_Orm_DatabaseConnection.htm" />
+    <HelpKINode Title="about DatabaseConnection class" Url="html/T_SQLitePCL_pretty_Orm_DatabaseConnection.htm" />
     <HelpKINode Title="about DatabaseConnection class" Url="html/T_SQLitePCL_pretty_DatabaseConnection.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_DatabaseConnection.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_DatabaseConnection.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_SQLitePCL_pretty_DatabaseConnection.htm" />
   </HelpKINode>
   <HelpKINode Title="DatabaseConnection.AsAsyncDatabaseConnection method" Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_AsAsyncDatabaseConnection.htm" />
   <HelpKINode Title="DatabaseConnection.Backup method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_Backup.htm" />
   <HelpKINode Title="DatabaseConnection.DefaultScheduler property" Url="html/P_SQLitePCL_pretty_DatabaseConnection_DefaultScheduler.htm" />
+  <HelpKINode Title="DatabaseConnection.DeleteAll(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_DeleteAll__1.htm" />
+  <HelpKINode Title="DatabaseConnection.DeleteAll&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_DeleteAll__1.htm" />
+  <HelpKINode Title="DatabaseConnection.DeleteAllRows(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_DeleteAllRows__1.htm" />
+  <HelpKINode Title="DatabaseConnection.DeleteAllRows&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_DeleteAllRows__1.htm" />
+  <HelpKINode Title="DatabaseConnection.DropTableIfExists(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_DropTableIfExists__1.htm" />
+  <HelpKINode Title="DatabaseConnection.DropTableIfExists&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_DropTableIfExists__1.htm" />
   <HelpKINode Title="DatabaseConnection.Execute method" Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_Execute.htm" />
   <HelpKINode Title="DatabaseConnection.ExecuteAll method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_ExecuteAll.htm" />
+  <HelpKINode Title="DatabaseConnection.FindAll(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_FindAll__1.htm" />
+  <HelpKINode Title="DatabaseConnection.FindAll&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_FindAll__1.htm" />
   <HelpKINode Title="DatabaseConnection.GetFileName method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_GetFileName.htm" />
+  <HelpKINode Title="DatabaseConnection.InitTable(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_InitTable__1.htm" />
+  <HelpKINode Title="DatabaseConnection.InitTable&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_InitTable__1.htm" />
+  <HelpKINode Title="DatabaseConnection.InsertOrReplace(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_InsertOrReplace__1.htm" />
+  <HelpKINode Title="DatabaseConnection.InsertOrReplace&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_InsertOrReplace__1.htm" />
+  <HelpKINode Title="DatabaseConnection.InsertOrReplaceAll(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_InsertOrReplaceAll__1.htm" />
+  <HelpKINode Title="DatabaseConnection.InsertOrReplaceAll&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_InsertOrReplaceAll__1.htm" />
   <HelpKINode Title="DatabaseConnection.OpenBlob method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_OpenBlob.htm" />
   <HelpKINode Title="DatabaseConnection.PrepareAll method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_PrepareAll.htm" />
-  <HelpKINode Title="DatabaseConnection.PrepareStatement method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_PrepareStatement.htm" />
-  <HelpKINode Title="DatabaseConnection.Query method" Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_Query.htm" />
+  <HelpKINode Title="DatabaseConnection.PrepareDeleteStatement(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareDeleteStatement__1.htm" />
+  <HelpKINode Title="DatabaseConnection.PrepareDeleteStatement&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareDeleteStatement__1.htm" />
+  <HelpKINode Title="DatabaseConnection.PrepareFindStatement(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareFindStatement__1.htm" />
+  <HelpKINode Title="DatabaseConnection.PrepareFindStatement&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareFindStatement__1.htm" />
+  <HelpKINode Title="DatabaseConnection.PrepareInsertOrReplaceStatement(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareInsertOrReplaceStatement__1.htm" />
+  <HelpKINode Title="DatabaseConnection.PrepareInsertOrReplaceStatement&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareInsertOrReplaceStatement__1.htm" />
+  <HelpKINode Title="DatabaseConnection.PrepareStatement method">
+    <HelpKINode Title="DatabaseConnection.PrepareStatement Method " Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareStatement.htm" />
+    <HelpKINode Title="DatabaseConnection.PrepareStatement Method " Url="html/M_SQLitePCL_pretty_DatabaseConnection_PrepareStatement.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DatabaseConnection.Query method">
+    <HelpKINode Title="DatabaseConnection.Query Method " Url="html/Overload_SQLitePCL_pretty_Orm_DatabaseConnection_Query.htm" />
+    <HelpKINode Title="DatabaseConnection.Query Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_Query.htm" />
+  </HelpKINode>
   <HelpKINode Title="DatabaseConnection.RegisterAggregateFunc method" Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_RegisterAggregateFunc.htm" />
   <HelpKINode Title="DatabaseConnection.RegisterScalarFunc method" Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_RegisterScalarFunc.htm" />
   <HelpKINode Title="DatabaseConnection.RunInTransaction method" Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_RunInTransaction.htm" />
+  <HelpKINode Title="DatabaseConnection.TryDelete(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_TryDelete__1.htm" />
+  <HelpKINode Title="DatabaseConnection.TryDelete&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_TryDelete__1.htm" />
+  <HelpKINode Title="DatabaseConnection.TryFind(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_TryFind__1.htm" />
+  <HelpKINode Title="DatabaseConnection.TryFind&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_TryFind__1.htm" />
   <HelpKINode Title="DatabaseConnection.TryRunInTransaction method" Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_TryRunInTransaction.htm" />
   <HelpKINode Title="DatabaseConnection.Vacuum method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_Vacuum.htm" />
   <HelpKINode Title="DatabaseConnection.WalCheckPoint method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_WalCheckPoint.htm" />
@@ -229,19 +255,16 @@
     <HelpKINode Title="TableColumnMetadata.DeclaredType Property " Url="html/P_SQLitePCL_pretty_TableColumnMetadata_DeclaredType.htm" />
   </HelpKINode>
   <HelpKINode Title="DefaultScheduler property" Url="html/P_SQLitePCL_pretty_DatabaseConnection_DefaultScheduler.htm" />
-  <HelpKINode Title="DefaultValue property">
-    <HelpKINode Title="ColumnMapping.DefaultValue Property " Url="html/P_SQLitePCL_pretty_Orm_ColumnMapping_DefaultValue.htm" />
-    <HelpKINode Title="NotNullAttribute.DefaultValue Property " Url="html/P_SQLitePCL_pretty_Orm_Attributes_NotNullAttribute_DefaultValue.htm" />
-  </HelpKINode>
+  <HelpKINode Title="DefaultValue property" Url="html/P_SQLitePCL_pretty_Orm_Attributes_NotNullAttribute_DefaultValue.htm" />
   <HelpKINode Title="DeferedFKS enumeration member" Url="html/T_SQLitePCL_pretty_DatabaseConnectionStatusCode.htm" />
   <HelpKINode Title="Deferred enumeration member" Url="html/T_SQLitePCL_pretty_TransactionMode.htm" />
   <HelpKINode Title="Delete enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
-  <HelpKINode Title="DeleteAll(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_DeleteAll__1.htm" />
-  <HelpKINode Title="DeleteAll&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_DeleteAll__1.htm" />
-  <HelpKINode Title="DeleteAllAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_TableMapping_DeleteAllAsync.htm" />
-  <HelpKINode Title="DeleteAllRows(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_DeleteAllRows__1.htm" />
-  <HelpKINode Title="DeleteAllRows&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_DeleteAllRows__1.htm" />
-  <HelpKINode Title="DeleteAllRowsAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_TableMapping_DeleteAllRowsAsync.htm" />
+  <HelpKINode Title="DeleteAll(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_DeleteAll__1.htm" />
+  <HelpKINode Title="DeleteAll&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_DeleteAll__1.htm" />
+  <HelpKINode Title="DeleteAllAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DeleteAllAsync.htm" />
+  <HelpKINode Title="DeleteAllRows(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_DeleteAllRows__1.htm" />
+  <HelpKINode Title="DeleteAllRows&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_DeleteAllRows__1.htm" />
+  <HelpKINode Title="DeleteAllRowsAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DeleteAllRowsAsync.htm" />
   <HelpKINode Title="Detach enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="DisableAutoCheckPoint method" Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_DisableAutoCheckPoint.htm" />
   <HelpKINode Title="Dispose method" Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_Dispose.htm" />
@@ -249,9 +272,9 @@
   <HelpKINode Title="Done enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="DropIndex enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="DropTable enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
-  <HelpKINode Title="DropTableIfExists(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_DropTableIfExists__1.htm" />
-  <HelpKINode Title="DropTableIfExists&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_DropTableIfExists__1.htm" />
-  <HelpKINode Title="DropTableIfExistsAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_TableMapping_DropTableIfExistsAsync.htm" />
+  <HelpKINode Title="DropTableIfExists(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_DropTableIfExists__1.htm" />
+  <HelpKINode Title="DropTableIfExists&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_DropTableIfExists__1.htm" />
+  <HelpKINode Title="DropTableIfExistsAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DropTableIfExistsAsync.htm" />
   <HelpKINode Title="DropTempIndex enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="DropTempTable enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="DropTempTrigger enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
@@ -259,20 +282,21 @@
   <HelpKINode Title="DropTrigger enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="DropView enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="DropVTable enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
+  <HelpKINode Title="ElementAt method">
+    <HelpKINode Title="SqlQuery.OrderByClause(T).ElementAt Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_ElementAt.htm" />
+    <HelpKINode Title="SqlQuery.SelectClause(T).ElementAt Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_ElementAt.htm" />
+    <HelpKINode Title="SqlQuery.WhereClause(T).ElementAt Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_ElementAt.htm" />
+  </HelpKINode>
   <HelpKINode Title="Empty enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="EnableAutoCheckPoint method" Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_EnableAutoCheckPoint.htm" />
   <HelpKINode Title="EnableSharedCache property" Url="html/P_SQLitePCL_pretty_SQLite3_EnableSharedCache.htm" />
   <HelpKINode Title="Equality operator">
     <HelpKINode Title="ColumnInfo.Equality Operator " Url="html/M_SQLitePCL_pretty_ColumnInfo_op_Equality.htm" />
-    <HelpKINode Title="ColumnMapping.Equality Operator " Url="html/M_SQLitePCL_pretty_Orm_ColumnMapping_op_Equality.htm" />
-    <HelpKINode Title="IndexInfo.Equality Operator " Url="html/M_SQLitePCL_pretty_Orm_IndexInfo_op_Equality.htm" />
     <HelpKINode Title="SQLiteVersion.Equality Operator " Url="html/M_SQLitePCL_pretty_SQLiteVersion_op_Equality.htm" />
     <HelpKINode Title="TableColumnMetadata.Equality Operator " Url="html/M_SQLitePCL_pretty_TableColumnMetadata_op_Equality.htm" />
   </HelpKINode>
   <HelpKINode Title="Equals method">
     <HelpKINode Title="ColumnInfo.Equals Method " Url="html/Overload_SQLitePCL_pretty_ColumnInfo_Equals.htm" />
-    <HelpKINode Title="ColumnMapping.Equals Method " Url="html/Overload_SQLitePCL_pretty_Orm_ColumnMapping_Equals.htm" />
-    <HelpKINode Title="IndexInfo.Equals Method " Url="html/Overload_SQLitePCL_pretty_Orm_IndexInfo_Equals.htm" />
     <HelpKINode Title="SQLiteVersion.Equals Method " Url="html/Overload_SQLitePCL_pretty_SQLiteVersion_Equals.htm" />
     <HelpKINode Title="TableColumnMetadata.Equals Method " Url="html/Overload_SQLitePCL_pretty_TableColumnMetadata_Equals.htm" />
   </HelpKINode>
@@ -284,21 +308,39 @@
     <HelpKINode Title="DatabaseConnection.Execute Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_Execute.htm" />
     <HelpKINode Title="Statement.Execute Method " Url="html/M_SQLitePCL_pretty_Statement_Execute.htm" />
   </HelpKINode>
-  <HelpKINode Title="Execute(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMappedStatement_Execute__1.htm" />
-  <HelpKINode Title="Execute&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMappedStatement_Execute__1.htm" />
   <HelpKINode Title="ExecuteAll method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_ExecuteAll.htm" />
   <HelpKINode Title="ExecuteAllAsync method" Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_ExecuteAllAsync.htm" />
   <HelpKINode Title="ExecuteAsync method">
     <HelpKINode Title="AsyncDatabaseConnection.ExecuteAsync Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_ExecuteAsync.htm" />
     <HelpKINode Title="AsyncStatement.ExecuteAsync Method " Url="html/Overload_SQLitePCL_pretty_AsyncStatement_ExecuteAsync.htm" />
   </HelpKINode>
+  <HelpKINode Title="ExecuteWithProperties(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_Statement_ExecuteWithProperties__1.htm" />
+  <HelpKINode Title="ExecuteWithProperties&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_Statement_ExecuteWithProperties__1.htm" />
   <HelpKINode Title="ExecutionTime property" Url="html/P_SQLitePCL_pretty_DatabaseProfileEventArgs_ExecutionTime.htm" />
   <HelpKINode Title="ExtendedErrorCode property" Url="html/P_SQLitePCL_pretty_SQLiteException_ExtendedErrorCode.htm" />
-  <HelpKINode Title="FindAll(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_FindAll__1.htm" />
-  <HelpKINode Title="FindAll&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_FindAll__1.htm" />
-  <HelpKINode Title="FindAllAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_TableMapping_FindAllAsync.htm" />
+  <HelpKINode Title="FindAll(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_FindAll__1.htm" />
+  <HelpKINode Title="FindAll&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_FindAll__1.htm" />
+  <HelpKINode Title="FindAllAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_FindAllAsync.htm" />
   <HelpKINode Title="Float enumeration member" Url="html/T_SQLitePCL_pretty_SQLiteType.htm" />
+  <HelpKINode Title="ForeignKeyAttribute class">
+    <HelpKINode Title="ForeignKeyAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute.htm" />
+    <HelpKINode Title="about ForeignKeyAttribute class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ForeignKeyAttribute.ColumnName property" Url="html/P_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute_ColumnName.htm" />
+  <HelpKINode Title="ForeignKeyAttribute.ForeignKeyAttribute constructor" Url="html/Overload_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute__ctor.htm" />
+  <HelpKINode Title="ForeignKeyAttribute.TableName property" Url="html/P_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute_TableName.htm" />
   <HelpKINode Title="Format enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
+  <HelpKINode Title="From(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_From__1.htm" />
+  <HelpKINode Title="From&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_From__1.htm" />
+  <HelpKINode Title="FromClause(Of T) class">
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_SqlQuery_FromClause_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FromClause&lt;T&gt; class">
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_SqlQuery_FromClause_1.htm" />
+  </HelpKINode>
   <HelpKINode Title="Full enumeration member">
     <HelpKINode Title="ErrorCode Enumeration" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
     <HelpKINode Title="WalCheckPointMode Enumeration" Url="html/T_SQLitePCL_pretty_WalCheckPointMode.htm" />
@@ -309,8 +351,6 @@
   <HelpKINode Title="GetFileName method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_GetFileName.htm" />
   <HelpKINode Title="GetHashCode method">
     <HelpKINode Title="ColumnInfo.GetHashCode Method " Url="html/M_SQLitePCL_pretty_ColumnInfo_GetHashCode.htm" />
-    <HelpKINode Title="ColumnMapping.GetHashCode Method " Url="html/M_SQLitePCL_pretty_Orm_ColumnMapping_GetHashCode.htm" />
-    <HelpKINode Title="IndexInfo.GetHashCode Method " Url="html/M_SQLitePCL_pretty_Orm_IndexInfo_GetHashCode.htm" />
     <HelpKINode Title="SQLiteVersion.GetHashCode Method " Url="html/M_SQLitePCL_pretty_SQLiteVersion_GetHashCode.htm" />
     <HelpKINode Title="TableColumnMetadata.GetHashCode Method " Url="html/M_SQLitePCL_pretty_TableColumnMetadata_GetHashCode.htm" />
   </HelpKINode>
@@ -408,37 +448,20 @@
   </HelpKINode>
   <HelpKINode Title="IndexedAttribute.IndexedAttribute constructor" Url="html/Overload_SQLitePCL_pretty_Orm_Attributes_IndexedAttribute__ctor.htm" />
   <HelpKINode Title="IndexedAttribute.Unique property" Url="html/P_SQLitePCL_pretty_Orm_Attributes_IndexedAttribute_Unique.htm" />
-  <HelpKINode Title="Indexes property" Url="html/P_SQLitePCL_pretty_Orm_ITableMapping_Indexes.htm" />
-  <HelpKINode Title="IndexInfo class">
-    <HelpKINode Title="IndexInfo Class" Url="html/T_SQLitePCL_pretty_Orm_IndexInfo.htm" />
-    <HelpKINode Title="about IndexInfo class" Url="html/T_SQLitePCL_pretty_Orm_IndexInfo.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_IndexInfo.htm" />
-    <HelpKINode Title="operators" Url="html/Operators_T_SQLitePCL_pretty_Orm_IndexInfo.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_IndexInfo.htm" />
-  </HelpKINode>
-  <HelpKINode Title="IndexInfo.Columns property" Url="html/P_SQLitePCL_pretty_Orm_IndexInfo_Columns.htm" />
-  <HelpKINode Title="IndexInfo.Equality operator" Url="html/M_SQLitePCL_pretty_Orm_IndexInfo_op_Equality.htm" />
-  <HelpKINode Title="IndexInfo.Equals method" Url="html/Overload_SQLitePCL_pretty_Orm_IndexInfo_Equals.htm" />
-  <HelpKINode Title="IndexInfo.GetHashCode method" Url="html/M_SQLitePCL_pretty_Orm_IndexInfo_GetHashCode.htm" />
-  <HelpKINode Title="IndexInfo.Inequality operator" Url="html/M_SQLitePCL_pretty_Orm_IndexInfo_op_Inequality.htm" />
-  <HelpKINode Title="IndexInfo.ToString method" Url="html/M_SQLitePCL_pretty_Orm_IndexInfo_ToString.htm" />
-  <HelpKINode Title="IndexInfo.Unique property" Url="html/P_SQLitePCL_pretty_Orm_IndexInfo_Unique.htm" />
   <HelpKINode Title="Inequality operator">
     <HelpKINode Title="ColumnInfo.Inequality Operator " Url="html/M_SQLitePCL_pretty_ColumnInfo_op_Inequality.htm" />
-    <HelpKINode Title="ColumnMapping.Inequality Operator " Url="html/M_SQLitePCL_pretty_Orm_ColumnMapping_op_Inequality.htm" />
-    <HelpKINode Title="IndexInfo.Inequality Operator " Url="html/M_SQLitePCL_pretty_Orm_IndexInfo_op_Inequality.htm" />
     <HelpKINode Title="SQLiteVersion.Inequality Operator " Url="html/M_SQLitePCL_pretty_SQLiteVersion_op_Inequality.htm" />
     <HelpKINode Title="TableColumnMetadata.Inequality Operator " Url="html/M_SQLitePCL_pretty_TableColumnMetadata_op_Inequality.htm" />
   </HelpKINode>
-  <HelpKINode Title="InitTable(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_InitTable__1.htm" />
-  <HelpKINode Title="InitTable&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_InitTable__1.htm" />
-  <HelpKINode Title="InitTableAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_TableMapping_InitTableAsync.htm" />
+  <HelpKINode Title="InitTable(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_InitTable__1.htm" />
+  <HelpKINode Title="InitTable&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_InitTable__1.htm" />
+  <HelpKINode Title="InitTableAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_InitTableAsync.htm" />
   <HelpKINode Title="Insert enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
-  <HelpKINode Title="InsertOrReplace(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_InsertOrReplace__1.htm" />
-  <HelpKINode Title="InsertOrReplace&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_InsertOrReplace__1.htm" />
-  <HelpKINode Title="InsertOrReplaceAll(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_InsertOrReplaceAll__1.htm" />
-  <HelpKINode Title="InsertOrReplaceAll&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_InsertOrReplaceAll__1.htm" />
-  <HelpKINode Title="InsertOrReplaceAllAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_TableMapping_InsertOrReplaceAllAsync.htm" />
+  <HelpKINode Title="InsertOrReplace(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_InsertOrReplace__1.htm" />
+  <HelpKINode Title="InsertOrReplace&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_InsertOrReplace__1.htm" />
+  <HelpKINode Title="InsertOrReplaceAll(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_InsertOrReplaceAll__1.htm" />
+  <HelpKINode Title="InsertOrReplaceAll&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_InsertOrReplaceAll__1.htm" />
+  <HelpKINode Title="InsertOrReplaceAllAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_InsertOrReplaceAllAsync.htm" />
   <HelpKINode Title="Integer enumeration member" Url="html/T_SQLitePCL_pretty_SQLiteType.htm" />
   <HelpKINode Title="Internal enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="Interrupt enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
@@ -491,6 +514,7 @@
     <HelpKINode Title="properties" Url="html/Properties_T_SQLitePCL_pretty_IResultSetValue.htm" />
   </HelpKINode>
   <HelpKINode Title="IResultSetValue.ColumnInfo property" Url="html/P_SQLitePCL_pretty_IResultSetValue_ColumnInfo.htm" />
+  <HelpKINode Title="Is method" Url="html/Overload_SQLitePCL_pretty_Orm_SqlMethods_Is.htm" />
   <HelpKINode Title="IsAutoCommit property">
     <HelpKINode Title="IDatabaseConnection.IsAutoCommit Property " Url="html/P_SQLitePCL_pretty_IDatabaseConnection_IsAutoCommit.htm" />
     <HelpKINode Title="SQLiteDatabaseConnection.IsAutoCommit Property " Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_IsAutoCommit.htm" />
@@ -502,6 +526,7 @@
     <HelpKINode Title="IDatabaseConnection.IsDatabaseReadOnly Method " Url="html/M_SQLitePCL_pretty_IDatabaseConnection_IsDatabaseReadOnly.htm" />
     <HelpKINode Title="SQLiteDatabaseConnection.IsDatabaseReadOnly Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_IsDatabaseReadOnly.htm" />
   </HelpKINode>
+  <HelpKINode Title="IsNot method" Url="html/Overload_SQLitePCL_pretty_Orm_SqlMethods_IsNot.htm" />
   <HelpKINode Title="IsPrimaryKeyPart property" Url="html/P_SQLitePCL_pretty_TableColumnMetadata_IsPrimaryKeyPart.htm" />
   <HelpKINode Title="ISQLiteValue interface">
     <HelpKINode Title="ISQLiteValue Interface" Url="html/T_SQLitePCL_pretty_ISQLiteValue.htm" />
@@ -516,6 +541,10 @@
   <HelpKINode Title="ISQLiteValue.ToInt method" Url="html/M_SQLitePCL_pretty_ISQLiteValue_ToInt.htm" />
   <HelpKINode Title="ISQLiteValue.ToInt64 method" Url="html/M_SQLitePCL_pretty_ISQLiteValue_ToInt64.htm" />
   <HelpKINode Title="ISQLiteValue.ToString method" Url="html/M_SQLitePCL_pretty_ISQLiteValue_ToString.htm" />
+  <HelpKINode Title="ISqlQuery interface">
+    <HelpKINode Title="ISqlQuery Interface" Url="html/T_SQLitePCL_pretty_Orm_ISqlQuery.htm" />
+    <HelpKINode Title="about ISqlQuery interface" Url="html/T_SQLitePCL_pretty_Orm_ISqlQuery.htm" />
+  </HelpKINode>
   <HelpKINode Title="IsReadOnly property">
     <HelpKINode Title="IDatabaseConnection.IsReadOnly Property " Url="html/P_SQLitePCL_pretty_IDatabaseConnection_IsReadOnly.htm" />
     <HelpKINode Title="IStatement.IsReadOnly Property " Url="html/P_SQLitePCL_pretty_IStatement_IsReadOnly.htm" />
@@ -534,42 +563,6 @@
   <HelpKINode Title="IStatement.IsReadOnly property" Url="html/P_SQLitePCL_pretty_IStatement_IsReadOnly.htm" />
   <HelpKINode Title="IStatement.SQL property" Url="html/P_SQLitePCL_pretty_IStatement_SQL.htm" />
   <HelpKINode Title="IStatement.Status method" Url="html/M_SQLitePCL_pretty_IStatement_Status.htm" />
-  <HelpKINode Title="ITableMappedStatement(Of T) interface">
-    <HelpKINode Title="ITableMappedStatement(T) Interface" Url="html/T_SQLitePCL_pretty_Orm_ITableMappedStatement_1.htm" />
-    <HelpKINode Title="about ITableMappedStatement(Of T) interface" Url="html/T_SQLitePCL_pretty_Orm_ITableMappedStatement_1.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_ITableMappedStatement_1.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_ITableMappedStatement_1.htm" />
-  </HelpKINode>
-  <HelpKINode Title="ITableMappedStatement(Of T).Mapping property" Url="html/P_SQLitePCL_pretty_Orm_ITableMappedStatement_1_Mapping.htm" />
-  <HelpKINode Title="ITableMappedStatement&lt;T&gt; interface">
-    <HelpKINode Title="ITableMappedStatement(T) Interface" Url="html/T_SQLitePCL_pretty_Orm_ITableMappedStatement_1.htm" />
-    <HelpKINode Title="about ITableMappedStatement&lt;T&gt; interface" Url="html/T_SQLitePCL_pretty_Orm_ITableMappedStatement_1.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_ITableMappedStatement_1.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_ITableMappedStatement_1.htm" />
-  </HelpKINode>
-  <HelpKINode Title="ITableMappedStatement&lt;T&gt;.Mapping property" Url="html/P_SQLitePCL_pretty_Orm_ITableMappedStatement_1_Mapping.htm" />
-  <HelpKINode Title="ITableMapping interface">
-    <HelpKINode Title="ITableMapping Interface" Url="html/T_SQLitePCL_pretty_Orm_ITableMapping.htm" />
-    <HelpKINode Title="about ITableMapping interface" Url="html/T_SQLitePCL_pretty_Orm_ITableMapping.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_ITableMapping.htm" />
-  </HelpKINode>
-  <HelpKINode Title="ITableMapping(Of T) interface">
-    <HelpKINode Title="ITableMapping(T) Interface" Url="html/T_SQLitePCL_pretty_Orm_ITableMapping_1.htm" />
-    <HelpKINode Title="about ITableMapping(Of T) interface" Url="html/T_SQLitePCL_pretty_Orm_ITableMapping_1.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_ITableMapping_1.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_ITableMapping_1.htm" />
-  </HelpKINode>
-  <HelpKINode Title="ITableMapping(Of T).ToObject method" Url="html/M_SQLitePCL_pretty_Orm_ITableMapping_1_ToObject.htm" />
-  <HelpKINode Title="ITableMapping.Columns property" Url="html/P_SQLitePCL_pretty_Orm_ITableMapping_Columns.htm" />
-  <HelpKINode Title="ITableMapping.Indexes property" Url="html/P_SQLitePCL_pretty_Orm_ITableMapping_Indexes.htm" />
-  <HelpKINode Title="ITableMapping.TableName property" Url="html/P_SQLitePCL_pretty_Orm_ITableMapping_TableName.htm" />
-  <HelpKINode Title="ITableMapping&lt;T&gt; interface">
-    <HelpKINode Title="ITableMapping(T) Interface" Url="html/T_SQLitePCL_pretty_Orm_ITableMapping_1.htm" />
-    <HelpKINode Title="about ITableMapping&lt;T&gt; interface" Url="html/T_SQLitePCL_pretty_Orm_ITableMapping_1.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_ITableMapping_1.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_ITableMapping_1.htm" />
-  </HelpKINode>
-  <HelpKINode Title="ITableMapping&lt;T&gt;.ToObject method" Url="html/M_SQLitePCL_pretty_Orm_ITableMapping_1_ToObject.htm" />
   <HelpKINode Title="Item property" Url="html/Overload_SQLitePCL_pretty_IReadOnlyOrderedDictionary_2_Item.htm" />
   <HelpKINode Title="LastInsertedRowId property">
     <HelpKINode Title="IDatabaseConnection.LastInsertedRowId Property " Url="html/P_SQLitePCL_pretty_IDatabaseConnection_LastInsertedRowId.htm" />
@@ -586,6 +579,12 @@
     <HelpKINode Title="SQLiteVersion.LessThanOrEqual Operator " Url="html/M_SQLitePCL_pretty_SQLiteVersion_op_LessThanOrEqual.htm" />
     <HelpKINode Title="TableColumnMetadata.LessThanOrEqual Operator " Url="html/M_SQLitePCL_pretty_TableColumnMetadata_op_LessThanOrEqual.htm" />
   </HelpKINode>
+  <HelpKINode Title="LimitClause(Of T) class">
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LimitClause&lt;T&gt; class">
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1.htm" />
+  </HelpKINode>
   <HelpKINode Title="Locked enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="LockSharedCache enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="LookAsideHit enumeration member" Url="html/T_SQLitePCL_pretty_DatabaseConnectionStatusCode.htm" />
@@ -595,12 +594,10 @@
   <HelpKINode Title="Major property" Url="html/P_SQLitePCL_pretty_SQLiteVersion_Major.htm" />
   <HelpKINode Title="MallocCount enumeration member" Url="html/T_SQLitePCL_pretty_SQLiteStatusCode.htm" />
   <HelpKINode Title="MallocSize enumeration member" Url="html/T_SQLitePCL_pretty_SQLiteStatusCode.htm" />
-  <HelpKINode Title="Mapping property" Url="html/P_SQLitePCL_pretty_Orm_ITableMappedStatement_1_Mapping.htm" />
   <HelpKINode Title="Memory enumeration member" Url="html/T_SQLitePCL_pretty_ConnectionFlags.htm" />
   <HelpKINode Title="MemoryHighWater property" Url="html/P_SQLitePCL_pretty_SQLite3_MemoryHighWater.htm" />
   <HelpKINode Title="MemoryUsed enumeration member" Url="html/T_SQLitePCL_pretty_SQLiteStatusCode.htm" />
   <HelpKINode Title="MemoryUsed property" Url="html/P_SQLitePCL_pretty_SQLite3_MemoryUsed.htm" />
-  <HelpKINode Title="Metadata property" Url="html/P_SQLitePCL_pretty_Orm_ColumnMapping_Metadata.htm" />
   <HelpKINode Title="Minor property" Url="html/P_SQLitePCL_pretty_SQLiteVersion_Minor.htm" />
   <HelpKINode Title="Mismatch enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="Misuse enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
@@ -641,6 +638,28 @@
   </HelpKINode>
   <HelpKINode Title="OpenBlobAsync method" Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_OpenBlobAsync.htm" />
   <HelpKINode Title="OpenInMemory method" Url="html/M_SQLitePCL_pretty_SQLite3_OpenInMemory.htm" />
+  <HelpKINode Title="OrderBy(Of TValue) method">
+    <HelpKINode Title="SqlQuery.SelectClause(T).OrderBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_OrderBy__1.htm" />
+    <HelpKINode Title="SqlQuery.WhereClause(T).OrderBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_OrderBy__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OrderBy&lt;TValue&gt; method">
+    <HelpKINode Title="SqlQuery.SelectClause(T).OrderBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_OrderBy__1.htm" />
+    <HelpKINode Title="SqlQuery.WhereClause(T).OrderBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_OrderBy__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OrderByClause(Of T) class">
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OrderByClause&lt;T&gt; class">
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OrderByDescending(Of TValue) method">
+    <HelpKINode Title="SqlQuery.SelectClause(T).OrderByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_OrderByDescending__1.htm" />
+    <HelpKINode Title="SqlQuery.WhereClause(T).OrderByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_OrderByDescending__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OrderByDescending&lt;TValue&gt; method">
+    <HelpKINode Title="SqlQuery.SelectClause(T).OrderByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_OrderByDescending__1.htm" />
+    <HelpKINode Title="SqlQuery.WhereClause(T).OrderByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_OrderByDescending__1.htm" />
+  </HelpKINode>
   <HelpKINode Title="OriginName property" Url="html/P_SQLitePCL_pretty_ColumnInfo_OriginName.htm" />
   <HelpKINode Title="PageCacheOverflow enumeration member" Url="html/T_SQLitePCL_pretty_SQLiteStatusCode.htm" />
   <HelpKINode Title="PageCacheSize enumeration member" Url="html/T_SQLitePCL_pretty_SQLiteStatusCode.htm" />
@@ -652,13 +671,14 @@
   <HelpKINode Title="Pragma enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="PrepareAll method" Url="html/M_SQLitePCL_pretty_DatabaseConnection_PrepareAll.htm" />
   <HelpKINode Title="PrepareAllAsync method" Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_PrepareAllAsync.htm" />
-  <HelpKINode Title="PrepareDeleteStatement(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_PrepareDeleteStatement__1.htm" />
-  <HelpKINode Title="PrepareDeleteStatement&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_PrepareDeleteStatement__1.htm" />
-  <HelpKINode Title="PrepareFindStatement(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_PrepareFindStatement__1.htm" />
-  <HelpKINode Title="PrepareFindStatement&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_PrepareFindStatement__1.htm" />
-  <HelpKINode Title="PrepareInsertOrReplaceStatement(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_PrepareInsertOrReplaceStatement__1.htm" />
-  <HelpKINode Title="PrepareInsertOrReplaceStatement&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_PrepareInsertOrReplaceStatement__1.htm" />
+  <HelpKINode Title="PrepareDeleteStatement(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareDeleteStatement__1.htm" />
+  <HelpKINode Title="PrepareDeleteStatement&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareDeleteStatement__1.htm" />
+  <HelpKINode Title="PrepareFindStatement(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareFindStatement__1.htm" />
+  <HelpKINode Title="PrepareFindStatement&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareFindStatement__1.htm" />
+  <HelpKINode Title="PrepareInsertOrReplaceStatement(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareInsertOrReplaceStatement__1.htm" />
+  <HelpKINode Title="PrepareInsertOrReplaceStatement&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareInsertOrReplaceStatement__1.htm" />
   <HelpKINode Title="PrepareStatement method">
+    <HelpKINode Title="DatabaseConnection.PrepareStatement Method " Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareStatement.htm" />
     <HelpKINode Title="DatabaseConnection.PrepareStatement Method " Url="html/M_SQLitePCL_pretty_DatabaseConnection_PrepareStatement.htm" />
     <HelpKINode Title="IDatabaseConnection.PrepareStatement Method " Url="html/M_SQLitePCL_pretty_IDatabaseConnection_PrepareStatement.htm" />
     <HelpKINode Title="SQLiteDatabaseConnection.PrepareStatement Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_PrepareStatement.htm" />
@@ -678,14 +698,14 @@
     <HelpKINode Title="SQLiteDatabaseConnection.Profile Event" Url="html/E_SQLitePCL_pretty_SQLiteDatabaseConnection_Profile.htm" />
   </HelpKINode>
   <HelpKINode Title="Profile property" Url="html/P_SQLitePCL_pretty_IAsyncDatabaseConnection_Profile.htm" />
-  <HelpKINode Title="Property property" Url="html/P_SQLitePCL_pretty_Orm_ColumnMapping_Property.htm" />
   <HelpKINode Title="Protocol enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="Query method">
     <HelpKINode Title="AsyncDatabaseConnection.Query Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_Query.htm" />
+    <HelpKINode Title="AsyncDatabaseConnection.Query Method " Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_Query.htm" />
     <HelpKINode Title="AsyncStatement.Query Method " Url="html/Overload_SQLitePCL_pretty_AsyncStatement_Query.htm" />
     <HelpKINode Title="DatabaseConnection.Query Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_Query.htm" />
+    <HelpKINode Title="DatabaseConnection.Query Method " Url="html/Overload_SQLitePCL_pretty_Orm_DatabaseConnection_Query.htm" />
     <HelpKINode Title="Statement.Query Method " Url="html/Overload_SQLitePCL_pretty_Statement_Query.htm" />
-    <HelpKINode Title="TableMappedStatement.Query Method " Url="html/Overload_SQLitePCL_pretty_Orm_TableMappedStatement_Query.htm" />
   </HelpKINode>
   <HelpKINode Title="Range enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="Read enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
@@ -720,10 +740,14 @@
   <HelpKINode Title="Restart enumeration member" Url="html/T_SQLitePCL_pretty_WalCheckPointMode.htm" />
   <HelpKINode Title="ResultSet class">
     <HelpKINode Title="ResultSet Class" Url="html/T_SQLitePCL_pretty_ResultSet.htm" />
+    <HelpKINode Title="ResultSet Class" Url="html/T_SQLitePCL_pretty_Orm_ResultSet.htm" />
+    <HelpKINode Title="about ResultSet class" Url="html/T_SQLitePCL_pretty_Orm_ResultSet.htm" />
     <HelpKINode Title="about ResultSet class" Url="html/T_SQLitePCL_pretty_ResultSet.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_ResultSet.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_ResultSet.htm" />
   </HelpKINode>
   <HelpKINode Title="ResultSet.Columns method" Url="html/M_SQLitePCL_pretty_ResultSet_Columns.htm" />
+  <HelpKINode Title="ResultSet.RowToObject method" Url="html/Overload_SQLitePCL_pretty_Orm_ResultSet_RowToObject.htm" />
   <HelpKINode Title="ResultSet.SelectScalar method" Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalar.htm" />
   <HelpKINode Title="ResultSet.SelectScalarBlob method" Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarBlob.htm" />
   <HelpKINode Title="ResultSet.SelectScalarBool method" Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarBool.htm" />
@@ -749,6 +773,7 @@
   </HelpKINode>
   <HelpKINode Title="Row enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="RowId property" Url="html/P_SQLitePCL_pretty_DatabaseUpdateEventArgs_RowId.htm" />
+  <HelpKINode Title="RowToObject method" Url="html/Overload_SQLitePCL_pretty_Orm_ResultSet_RowToObject.htm" />
   <HelpKINode Title="RunInTransaction method" Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_RunInTransaction.htm" />
   <HelpKINode Title="SavePoint enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="Schema enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
@@ -757,6 +782,13 @@
   <HelpKINode Title="ScratchSize enumeration member" Url="html/T_SQLitePCL_pretty_SQLiteStatusCode.htm" />
   <HelpKINode Title="ScratchUsed enumeration member" Url="html/T_SQLitePCL_pretty_SQLiteStatusCode.htm" />
   <HelpKINode Title="Select enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
+  <HelpKINode Title="Select method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_FromClause_1_Select.htm" />
+  <HelpKINode Title="SelectClause(Of T) class">
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SelectClause&lt;T&gt; class">
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1.htm" />
+  </HelpKINode>
   <HelpKINode Title="SelectScalar method" Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalar.htm" />
   <HelpKINode Title="SelectScalarBlob method" Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarBlob.htm" />
   <HelpKINode Title="SelectScalarBool method" Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarBool.htm" />
@@ -777,6 +809,12 @@
   <HelpKINode Title="SelectScalarUInt32 method" Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarUInt32.htm" />
   <HelpKINode Title="SelectScalarUri method" Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarUri.htm" />
   <HelpKINode Title="SharedCached enumeration member" Url="html/T_SQLitePCL_pretty_ConnectionFlags.htm" />
+  <HelpKINode Title="Skip method">
+    <HelpKINode Title="SqlQuery.LimitClause(T).Skip Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1_Skip.htm" />
+    <HelpKINode Title="SqlQuery.OrderByClause(T).Skip Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_Skip.htm" />
+    <HelpKINode Title="SqlQuery.SelectClause(T).Skip Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_Skip.htm" />
+    <HelpKINode Title="SqlQuery.WhereClause(T).Skip Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_Skip.htm" />
+  </HelpKINode>
   <HelpKINode Title="Sort enumeration member" Url="html/T_SQLitePCL_pretty_StatementStatusCode.htm" />
   <HelpKINode Title="SourceId property" Url="html/P_SQLitePCL_pretty_SQLite3_SourceId.htm" />
   <HelpKINode Title="SQL property" Url="html/P_SQLitePCL_pretty_IStatement_SQL.htm" />
@@ -871,24 +909,33 @@
   <HelpKINode Title="SQLitePCL.pretty.ISQLiteValue interface" Url="html/T_SQLitePCL_pretty_ISQLiteValue.htm" />
   <HelpKINode Title="SQLitePCL.pretty.IStatement interface" Url="html/T_SQLitePCL_pretty_IStatement.htm" />
   <HelpKINode Title="SQLitePCL.pretty.Orm namespace" Url="html/N_SQLitePCL_pretty_Orm.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.AsyncDatabaseConnection class" Url="html/T_SQLitePCL_pretty_Orm_AsyncDatabaseConnection.htm" />
   <HelpKINode Title="SQLitePCL.pretty.Orm.Attributes namespace" Url="html/N_SQLitePCL_pretty_Orm_Attributes.htm" />
   <HelpKINode Title="SQLitePCL.pretty.Orm.Attributes.CollationAttribute class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_CollationAttribute.htm" />
   <HelpKINode Title="SQLitePCL.pretty.Orm.Attributes.ColumnAttribute class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_ColumnAttribute.htm" />
   <HelpKINode Title="SQLitePCL.pretty.Orm.Attributes.CompositeIndexAttribute class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_CompositeIndexAttribute.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.Attributes.ForeignKeyAttribute class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute.htm" />
   <HelpKINode Title="SQLitePCL.pretty.Orm.Attributes.IgnoreAttribute class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_IgnoreAttribute.htm" />
   <HelpKINode Title="SQLitePCL.pretty.Orm.Attributes.IndexedAttribute class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_IndexedAttribute.htm" />
   <HelpKINode Title="SQLitePCL.pretty.Orm.Attributes.NotNullAttribute class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_NotNullAttribute.htm" />
   <HelpKINode Title="SQLitePCL.pretty.Orm.Attributes.PrimaryKeyAttribute class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_PrimaryKeyAttribute.htm" />
   <HelpKINode Title="SQLitePCL.pretty.Orm.Attributes.TableAttribute class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_TableAttribute.htm" />
-  <HelpKINode Title="SQLitePCL.pretty.Orm.ColumnMapping class" Url="html/T_SQLitePCL_pretty_Orm_ColumnMapping.htm" />
-  <HelpKINode Title="SQLitePCL.pretty.Orm.IndexInfo class" Url="html/T_SQLitePCL_pretty_Orm_IndexInfo.htm" />
-  <HelpKINode Title="SQLitePCL.pretty.Orm.ITableMappedStatement(Of T) interface" Url="html/T_SQLitePCL_pretty_Orm_ITableMappedStatement_1.htm" />
-  <HelpKINode Title="SQLitePCL.pretty.Orm.ITableMappedStatement&lt;T&gt; interface" Url="html/T_SQLitePCL_pretty_Orm_ITableMappedStatement_1.htm" />
-  <HelpKINode Title="SQLitePCL.pretty.Orm.ITableMapping interface" Url="html/T_SQLitePCL_pretty_Orm_ITableMapping.htm" />
-  <HelpKINode Title="SQLitePCL.pretty.Orm.ITableMapping(Of T) interface" Url="html/T_SQLitePCL_pretty_Orm_ITableMapping_1.htm" />
-  <HelpKINode Title="SQLitePCL.pretty.Orm.ITableMapping&lt;T&gt; interface" Url="html/T_SQLitePCL_pretty_Orm_ITableMapping_1.htm" />
-  <HelpKINode Title="SQLitePCL.pretty.Orm.TableMappedStatement class" Url="html/T_SQLitePCL_pretty_Orm_TableMappedStatement.htm" />
-  <HelpKINode Title="SQLitePCL.pretty.Orm.TableMapping class" Url="html/T_SQLitePCL_pretty_Orm_TableMapping.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.DatabaseConnection class" Url="html/T_SQLitePCL_pretty_Orm_DatabaseConnection.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.ISqlQuery interface" Url="html/T_SQLitePCL_pretty_Orm_ISqlQuery.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.ResultSet class" Url="html/T_SQLitePCL_pretty_Orm_ResultSet.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.SqlMethods class" Url="html/T_SQLitePCL_pretty_Orm_SqlMethods.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.SqlQuery class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.SqlQuery.FromClause(Of T) class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_FromClause_1.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.SqlQuery.FromClause&lt;T&gt; class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_FromClause_1.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.SqlQuery.LimitClause(Of T) class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.SqlQuery.LimitClause&lt;T&gt; class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.SqlQuery.OrderByClause(Of T) class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.SqlQuery.OrderByClause&lt;T&gt; class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.SqlQuery.SelectClause(Of T) class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.SqlQuery.SelectClause&lt;T&gt; class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.SqlQuery.WhereClause(Of T) class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.SqlQuery.WhereClause&lt;T&gt; class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1.htm" />
+  <HelpKINode Title="SQLitePCL.pretty.Orm.Statement class" Url="html/T_SQLitePCL_pretty_Orm_Statement.htm" />
   <HelpKINode Title="SQLitePCL.pretty.ResultSet class" Url="html/T_SQLitePCL_pretty_ResultSet.htm" />
   <HelpKINode Title="SQLitePCL.pretty.SQLite3 class" Url="html/T_SQLitePCL_pretty_SQLite3.htm" />
   <HelpKINode Title="SQLitePCL.pretty.SQLiteDatabaseConnection class" Url="html/T_SQLitePCL_pretty_SQLiteDatabaseConnection.htm" />
@@ -948,9 +995,126 @@
   <HelpKINode Title="SQLiteVersion.Release property" Url="html/P_SQLitePCL_pretty_SQLiteVersion_Release.htm" />
   <HelpKINode Title="SQLiteVersion.ToInt method" Url="html/M_SQLitePCL_pretty_SQLiteVersion_ToInt.htm" />
   <HelpKINode Title="SQLiteVersion.ToString method" Url="html/M_SQLitePCL_pretty_SQLiteVersion_ToString.htm" />
+  <HelpKINode Title="SqlMethods class">
+    <HelpKINode Title="SqlMethods Class" Url="html/T_SQLitePCL_pretty_Orm_SqlMethods.htm" />
+    <HelpKINode Title="about SqlMethods class" Url="html/T_SQLitePCL_pretty_Orm_SqlMethods.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_SqlMethods.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlMethods.Is method" Url="html/Overload_SQLitePCL_pretty_Orm_SqlMethods_Is.htm" />
+  <HelpKINode Title="SqlMethods.IsNot method" Url="html/Overload_SQLitePCL_pretty_Orm_SqlMethods_IsNot.htm" />
+  <HelpKINode Title="SqlQuery class">
+    <HelpKINode Title="SqlQuery Class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery.htm" />
+    <HelpKINode Title="about SqlQuery class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_SqlQuery.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.From(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_From__1.htm" />
+  <HelpKINode Title="SqlQuery.From&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_From__1.htm" />
+  <HelpKINode Title="SqlQuery.FromClause(Of T) class">
+    <HelpKINode Title="SqlQuery.FromClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_FromClause_1.htm" />
+    <HelpKINode Title="about SqlQuery.FromClause(Of T) class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_FromClause_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.FromClause(Of T).Select method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_FromClause_1_Select.htm" />
+  <HelpKINode Title="SqlQuery.FromClause(Of T).ToString method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_FromClause_1_ToString.htm" />
+  <HelpKINode Title="SqlQuery.FromClause&lt;T&gt; class">
+    <HelpKINode Title="SqlQuery.FromClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_FromClause_1.htm" />
+    <HelpKINode Title="about SqlQuery.FromClause&lt;T&gt; class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_FromClause_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.FromClause&lt;T&gt;.Select method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_FromClause_1_Select.htm" />
+  <HelpKINode Title="SqlQuery.FromClause&lt;T&gt;.ToString method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_FromClause_1_ToString.htm" />
+  <HelpKINode Title="SqlQuery.LimitClause(Of T) class">
+    <HelpKINode Title="SqlQuery.LimitClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1.htm" />
+    <HelpKINode Title="about SqlQuery.LimitClause(Of T) class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.LimitClause(Of T).Skip method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1_Skip.htm" />
+  <HelpKINode Title="SqlQuery.LimitClause(Of T).Take method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1_Take.htm" />
+  <HelpKINode Title="SqlQuery.LimitClause(Of T).ToString method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1_ToString.htm" />
+  <HelpKINode Title="SqlQuery.LimitClause&lt;T&gt; class">
+    <HelpKINode Title="SqlQuery.LimitClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1.htm" />
+    <HelpKINode Title="about SqlQuery.LimitClause&lt;T&gt; class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.LimitClause&lt;T&gt;.Skip method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1_Skip.htm" />
+  <HelpKINode Title="SqlQuery.LimitClause&lt;T&gt;.Take method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1_Take.htm" />
+  <HelpKINode Title="SqlQuery.LimitClause&lt;T&gt;.ToString method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1_ToString.htm" />
+  <HelpKINode Title="SqlQuery.OrderByClause(Of T) class">
+    <HelpKINode Title="SqlQuery.OrderByClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1.htm" />
+    <HelpKINode Title="about SqlQuery.OrderByClause(Of T) class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.OrderByClause(Of T). method">
+    <HelpKINode Title="SqlQuery.OrderByClause(T).ThenBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_ThenBy__1.htm" />
+    <HelpKINode Title="SqlQuery.OrderByClause(T).ThenByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_ThenByDescending__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.OrderByClause(Of T).ElementAt method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_ElementAt.htm" />
+  <HelpKINode Title="SqlQuery.OrderByClause(Of T).Skip method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_Skip.htm" />
+  <HelpKINode Title="SqlQuery.OrderByClause(Of T).Take method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_Take.htm" />
+  <HelpKINode Title="SqlQuery.OrderByClause(Of T).ToString method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_ToString.htm" />
+  <HelpKINode Title="SqlQuery.OrderByClause&lt;T&gt; class">
+    <HelpKINode Title="SqlQuery.OrderByClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1.htm" />
+    <HelpKINode Title="about SqlQuery.OrderByClause&lt;T&gt; class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.OrderByClause&lt;T&gt;. method">
+    <HelpKINode Title="SqlQuery.OrderByClause(T).ThenBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_ThenBy__1.htm" />
+    <HelpKINode Title="SqlQuery.OrderByClause(T).ThenByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_ThenByDescending__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.OrderByClause&lt;T&gt;.ElementAt method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_ElementAt.htm" />
+  <HelpKINode Title="SqlQuery.OrderByClause&lt;T&gt;.Skip method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_Skip.htm" />
+  <HelpKINode Title="SqlQuery.OrderByClause&lt;T&gt;.Take method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_Take.htm" />
+  <HelpKINode Title="SqlQuery.OrderByClause&lt;T&gt;.ToString method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_ToString.htm" />
+  <HelpKINode Title="SqlQuery.SelectClause(Of T) class">
+    <HelpKINode Title="SqlQuery.SelectClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1.htm" />
+    <HelpKINode Title="about SqlQuery.SelectClause(Of T) class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.SelectClause(Of T). method">
+    <HelpKINode Title="SqlQuery.SelectClause(T).OrderBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_OrderBy__1.htm" />
+    <HelpKINode Title="SqlQuery.SelectClause(T).OrderByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_OrderByDescending__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.SelectClause(Of T).ElementAt method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_ElementAt.htm" />
+  <HelpKINode Title="SqlQuery.SelectClause(Of T).Skip method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_Skip.htm" />
+  <HelpKINode Title="SqlQuery.SelectClause(Of T).Take method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_Take.htm" />
+  <HelpKINode Title="SqlQuery.SelectClause(Of T).ToString method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_ToString.htm" />
+  <HelpKINode Title="SqlQuery.SelectClause(Of T).Where method" Url="html/Overload_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_Where.htm" />
+  <HelpKINode Title="SqlQuery.SelectClause&lt;T&gt; class">
+    <HelpKINode Title="SqlQuery.SelectClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1.htm" />
+    <HelpKINode Title="about SqlQuery.SelectClause&lt;T&gt; class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.SelectClause&lt;T&gt;. method">
+    <HelpKINode Title="SqlQuery.SelectClause(T).OrderBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_OrderBy__1.htm" />
+    <HelpKINode Title="SqlQuery.SelectClause(T).OrderByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_OrderByDescending__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.SelectClause&lt;T&gt;.ElementAt method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_ElementAt.htm" />
+  <HelpKINode Title="SqlQuery.SelectClause&lt;T&gt;.Skip method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_Skip.htm" />
+  <HelpKINode Title="SqlQuery.SelectClause&lt;T&gt;.Take method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_Take.htm" />
+  <HelpKINode Title="SqlQuery.SelectClause&lt;T&gt;.ToString method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_ToString.htm" />
+  <HelpKINode Title="SqlQuery.SelectClause&lt;T&gt;.Where method" Url="html/Overload_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_Where.htm" />
+  <HelpKINode Title="SqlQuery.WhereClause(Of T) class">
+    <HelpKINode Title="SqlQuery.WhereClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1.htm" />
+    <HelpKINode Title="about SqlQuery.WhereClause(Of T) class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.WhereClause(Of T). method">
+    <HelpKINode Title="SqlQuery.WhereClause(T).OrderBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_OrderBy__1.htm" />
+    <HelpKINode Title="SqlQuery.WhereClause(T).OrderByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_OrderByDescending__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.WhereClause(Of T).ElementAt method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_ElementAt.htm" />
+  <HelpKINode Title="SqlQuery.WhereClause(Of T).Skip method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_Skip.htm" />
+  <HelpKINode Title="SqlQuery.WhereClause(Of T).Take method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_Take.htm" />
+  <HelpKINode Title="SqlQuery.WhereClause(Of T).ToString method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_ToString.htm" />
+  <HelpKINode Title="SqlQuery.WhereClause&lt;T&gt; class">
+    <HelpKINode Title="SqlQuery.WhereClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1.htm" />
+    <HelpKINode Title="about SqlQuery.WhereClause&lt;T&gt; class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.WhereClause&lt;T&gt;. method">
+    <HelpKINode Title="SqlQuery.WhereClause(T).OrderBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_OrderBy__1.htm" />
+    <HelpKINode Title="SqlQuery.WhereClause(T).OrderByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_OrderByDescending__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlQuery.WhereClause&lt;T&gt;.ElementAt method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_ElementAt.htm" />
+  <HelpKINode Title="SqlQuery.WhereClause&lt;T&gt;.Skip method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_Skip.htm" />
+  <HelpKINode Title="SqlQuery.WhereClause&lt;T&gt;.Take method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_Take.htm" />
+  <HelpKINode Title="SqlQuery.WhereClause&lt;T&gt;.ToString method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_ToString.htm" />
   <HelpKINode Title="Statement class">
     <HelpKINode Title="Statement Class" Url="html/T_SQLitePCL_pretty_Statement.htm" />
+    <HelpKINode Title="Statement Class" Url="html/T_SQLitePCL_pretty_Orm_Statement.htm" />
+    <HelpKINode Title="about Statement class" Url="html/T_SQLitePCL_pretty_Orm_Statement.htm" />
     <HelpKINode Title="about Statement class" Url="html/T_SQLitePCL_pretty_Statement.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Statement.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Statement.htm" />
   </HelpKINode>
   <HelpKINode Title="Statement property">
@@ -958,7 +1122,11 @@
     <HelpKINode Title="DatabaseTraceEventArgs.Statement Property " Url="html/P_SQLitePCL_pretty_DatabaseTraceEventArgs_Statement.htm" />
   </HelpKINode>
   <HelpKINode Title="Statement.Bind method" Url="html/M_SQLitePCL_pretty_Statement_Bind.htm" />
+  <HelpKINode Title="Statement.BindProperties(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_Statement_BindProperties__1.htm" />
+  <HelpKINode Title="Statement.BindProperties&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_Statement_BindProperties__1.htm" />
   <HelpKINode Title="Statement.Execute method" Url="html/M_SQLitePCL_pretty_Statement_Execute.htm" />
+  <HelpKINode Title="Statement.ExecuteWithProperties(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_Statement_ExecuteWithProperties__1.htm" />
+  <HelpKINode Title="Statement.ExecuteWithProperties&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_Statement_ExecuteWithProperties__1.htm" />
   <HelpKINode Title="Statement.Query method" Url="html/Overload_SQLitePCL_pretty_Statement_Query.htm" />
   <HelpKINode Title="Statements property">
     <HelpKINode Title="IDatabaseConnection.Statements Property " Url="html/P_SQLitePCL_pretty_IDatabaseConnection_Statements.htm" />
@@ -1005,57 +1173,21 @@
   <HelpKINode Title="TableColumnMetadata.LessThan operator" Url="html/M_SQLitePCL_pretty_TableColumnMetadata_op_LessThan.htm" />
   <HelpKINode Title="TableColumnMetadata.LessThanOrEqual operator" Url="html/M_SQLitePCL_pretty_TableColumnMetadata_op_LessThanOrEqual.htm" />
   <HelpKINode Title="TableColumnMetadata.ToString method" Url="html/M_SQLitePCL_pretty_TableColumnMetadata_ToString.htm" />
-  <HelpKINode Title="TableMappedStatement class">
-    <HelpKINode Title="TableMappedStatement Class" Url="html/T_SQLitePCL_pretty_Orm_TableMappedStatement.htm" />
-    <HelpKINode Title="about TableMappedStatement class" Url="html/T_SQLitePCL_pretty_Orm_TableMappedStatement.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_TableMappedStatement.htm" />
-  </HelpKINode>
-  <HelpKINode Title="TableMappedStatement.Bind(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMappedStatement_Bind__1.htm" />
-  <HelpKINode Title="TableMappedStatement.Bind&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMappedStatement_Bind__1.htm" />
-  <HelpKINode Title="TableMappedStatement.Execute(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMappedStatement_Execute__1.htm" />
-  <HelpKINode Title="TableMappedStatement.Execute&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMappedStatement_Execute__1.htm" />
-  <HelpKINode Title="TableMappedStatement.Query method" Url="html/Overload_SQLitePCL_pretty_Orm_TableMappedStatement_Query.htm" />
-  <HelpKINode Title="TableMapping class">
-    <HelpKINode Title="TableMapping Class" Url="html/T_SQLitePCL_pretty_Orm_TableMapping.htm" />
-    <HelpKINode Title="about TableMapping class" Url="html/T_SQLitePCL_pretty_Orm_TableMapping.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_TableMapping.htm" />
-  </HelpKINode>
-  <HelpKINode Title="TableMapping.Create method" Url="html/Overload_SQLitePCL_pretty_Orm_TableMapping_Create.htm" />
-  <HelpKINode Title="TableMapping.DeleteAll(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_DeleteAll__1.htm" />
-  <HelpKINode Title="TableMapping.DeleteAll&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_DeleteAll__1.htm" />
-  <HelpKINode Title="TableMapping.DeleteAllAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_TableMapping_DeleteAllAsync.htm" />
-  <HelpKINode Title="TableMapping.DeleteAllRows(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_DeleteAllRows__1.htm" />
-  <HelpKINode Title="TableMapping.DeleteAllRows&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_DeleteAllRows__1.htm" />
-  <HelpKINode Title="TableMapping.DeleteAllRowsAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_TableMapping_DeleteAllRowsAsync.htm" />
-  <HelpKINode Title="TableMapping.DropTableIfExists(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_DropTableIfExists__1.htm" />
-  <HelpKINode Title="TableMapping.DropTableIfExists&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_DropTableIfExists__1.htm" />
-  <HelpKINode Title="TableMapping.DropTableIfExistsAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_TableMapping_DropTableIfExistsAsync.htm" />
-  <HelpKINode Title="TableMapping.FindAll(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_FindAll__1.htm" />
-  <HelpKINode Title="TableMapping.FindAll&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_FindAll__1.htm" />
-  <HelpKINode Title="TableMapping.FindAllAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_TableMapping_FindAllAsync.htm" />
-  <HelpKINode Title="TableMapping.InitTable(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_InitTable__1.htm" />
-  <HelpKINode Title="TableMapping.InitTable&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_InitTable__1.htm" />
-  <HelpKINode Title="TableMapping.InitTableAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_TableMapping_InitTableAsync.htm" />
-  <HelpKINode Title="TableMapping.InsertOrReplace(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_InsertOrReplace__1.htm" />
-  <HelpKINode Title="TableMapping.InsertOrReplace&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_InsertOrReplace__1.htm" />
-  <HelpKINode Title="TableMapping.InsertOrReplaceAll(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_InsertOrReplaceAll__1.htm" />
-  <HelpKINode Title="TableMapping.InsertOrReplaceAll&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_InsertOrReplaceAll__1.htm" />
-  <HelpKINode Title="TableMapping.InsertOrReplaceAllAsync method" Url="html/Overload_SQLitePCL_pretty_Orm_TableMapping_InsertOrReplaceAllAsync.htm" />
-  <HelpKINode Title="TableMapping.PrepareDeleteStatement(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_PrepareDeleteStatement__1.htm" />
-  <HelpKINode Title="TableMapping.PrepareDeleteStatement&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_PrepareDeleteStatement__1.htm" />
-  <HelpKINode Title="TableMapping.PrepareFindStatement(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_PrepareFindStatement__1.htm" />
-  <HelpKINode Title="TableMapping.PrepareFindStatement&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_PrepareFindStatement__1.htm" />
-  <HelpKINode Title="TableMapping.PrepareInsertOrReplaceStatement(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_PrepareInsertOrReplaceStatement__1.htm" />
-  <HelpKINode Title="TableMapping.PrepareInsertOrReplaceStatement&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_PrepareInsertOrReplaceStatement__1.htm" />
-  <HelpKINode Title="TableMapping.TryDelete(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_TryDelete__1.htm" />
-  <HelpKINode Title="TableMapping.TryDelete&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_TryDelete__1.htm" />
-  <HelpKINode Title="TableMapping.TryFind(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_TryFind__1.htm" />
-  <HelpKINode Title="TableMapping.TryFind&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_TryFind__1.htm" />
   <HelpKINode Title="TableName property">
     <HelpKINode Title="ColumnInfo.TableName Property " Url="html/P_SQLitePCL_pretty_ColumnInfo_TableName.htm" />
-    <HelpKINode Title="ITableMapping.TableName Property " Url="html/P_SQLitePCL_pretty_Orm_ITableMapping_TableName.htm" />
+    <HelpKINode Title="ForeignKeyAttribute.TableName Property " Url="html/P_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute_TableName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Take method">
+    <HelpKINode Title="SqlQuery.LimitClause(T).Take Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1_Take.htm" />
+    <HelpKINode Title="SqlQuery.OrderByClause(T).Take Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_Take.htm" />
+    <HelpKINode Title="SqlQuery.SelectClause(T).Take Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_Take.htm" />
+    <HelpKINode Title="SqlQuery.WhereClause(T).Take Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_Take.htm" />
   </HelpKINode>
   <HelpKINode Title="Text enumeration member" Url="html/T_SQLitePCL_pretty_SQLiteType.htm" />
+  <HelpKINode Title="ThenBy(Of TValue) method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_ThenBy__1.htm" />
+  <HelpKINode Title="ThenBy&lt;TValue&gt; method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_ThenBy__1.htm" />
+  <HelpKINode Title="ThenByDescending(Of TValue) method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_ThenByDescending__1.htm" />
+  <HelpKINode Title="ThenByDescending&lt;TValue&gt; method" Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_ThenByDescending__1.htm" />
   <HelpKINode Title="ToBlob method" Url="html/M_SQLitePCL_pretty_ISQLiteValue_ToBlob.htm" />
   <HelpKINode Title="ToBool method" Url="html/M_SQLitePCL_pretty_SQLiteValue_ToBool.htm" />
   <HelpKINode Title="ToByte method" Url="html/M_SQLitePCL_pretty_SQLiteValue_ToByte.htm" />
@@ -1071,16 +1203,18 @@
   </HelpKINode>
   <HelpKINode Title="ToInt64 method" Url="html/M_SQLitePCL_pretty_ISQLiteValue_ToInt64.htm" />
   <HelpKINode Title="TooBig enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
-  <HelpKINode Title="ToObject method" Url="html/M_SQLitePCL_pretty_Orm_ITableMapping_1_ToObject.htm" />
   <HelpKINode Title="ToSByte method" Url="html/M_SQLitePCL_pretty_SQLiteValue_ToSByte.htm" />
   <HelpKINode Title="ToShort method" Url="html/M_SQLitePCL_pretty_SQLiteValue_ToShort.htm" />
   <HelpKINode Title="ToSQLiteValue method" Url="html/Overload_SQLitePCL_pretty_SQLiteValue_ToSQLiteValue.htm" />
   <HelpKINode Title="ToString method">
-    <HelpKINode Title="ColumnMapping.ToString Method " Url="html/M_SQLitePCL_pretty_Orm_ColumnMapping_ToString.htm" />
-    <HelpKINode Title="IndexInfo.ToString Method " Url="html/M_SQLitePCL_pretty_Orm_IndexInfo_ToString.htm" />
     <HelpKINode Title="ISQLiteValue.ToString Method " Url="html/M_SQLitePCL_pretty_ISQLiteValue_ToString.htm" />
     <HelpKINode Title="SQLiteException.ToString Method " Url="html/M_SQLitePCL_pretty_SQLiteException_ToString.htm" />
     <HelpKINode Title="SQLiteVersion.ToString Method " Url="html/M_SQLitePCL_pretty_SQLiteVersion_ToString.htm" />
+    <HelpKINode Title="SqlQuery.FromClause(T).ToString Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_FromClause_1_ToString.htm" />
+    <HelpKINode Title="SqlQuery.LimitClause(T).ToString Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_LimitClause_1_ToString.htm" />
+    <HelpKINode Title="SqlQuery.OrderByClause(T).ToString Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_OrderByClause_1_ToString.htm" />
+    <HelpKINode Title="SqlQuery.SelectClause(T).ToString Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_ToString.htm" />
+    <HelpKINode Title="SqlQuery.WhereClause(T).ToString Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1_ToString.htm" />
     <HelpKINode Title="TableColumnMetadata.ToString Method " Url="html/M_SQLitePCL_pretty_TableColumnMetadata_ToString.htm" />
   </HelpKINode>
   <HelpKINode Title="TotalChanges property">
@@ -1098,16 +1232,15 @@
   <HelpKINode Title="Trace property" Url="html/P_SQLitePCL_pretty_IAsyncDatabaseConnection_Trace.htm" />
   <HelpKINode Title="Transaction enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="TransactionMode enumeration" Url="html/T_SQLitePCL_pretty_TransactionMode.htm" />
-  <HelpKINode Title="TryDelete(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_TryDelete__1.htm" />
-  <HelpKINode Title="TryDelete&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_TryDelete__1.htm" />
-  <HelpKINode Title="TryFind(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_TryFind__1.htm" />
-  <HelpKINode Title="TryFind&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_TableMapping_TryFind__1.htm" />
+  <HelpKINode Title="TryDelete(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_TryDelete__1.htm" />
+  <HelpKINode Title="TryDelete&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_TryDelete__1.htm" />
+  <HelpKINode Title="TryFind(Of T) method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_TryFind__1.htm" />
+  <HelpKINode Title="TryFind&lt;T&gt; method" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_TryFind__1.htm" />
   <HelpKINode Title="TryGetFileName method" Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_TryGetFileName.htm" />
   <HelpKINode Title="TryRunInTransaction method" Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_TryRunInTransaction.htm" />
   <HelpKINode Title="Unique property">
     <HelpKINode Title="CompositeIndexAttribute.Unique Property " Url="html/P_SQLitePCL_pretty_Orm_Attributes_CompositeIndexAttribute_Unique.htm" />
     <HelpKINode Title="IndexedAttribute.Unique Property " Url="html/P_SQLitePCL_pretty_Orm_Attributes_IndexedAttribute_Unique.htm" />
-    <HelpKINode Title="IndexInfo.Unique Property " Url="html/P_SQLitePCL_pretty_Orm_IndexInfo_Unique.htm" />
   </HelpKINode>
   <HelpKINode Title="Update enumeration member" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
   <HelpKINode Title="Update event">
@@ -1139,5 +1272,12 @@
   <HelpKINode Title="WalCheckPointMode enumeration" Url="html/T_SQLitePCL_pretty_WalCheckPointMode.htm" />
   <HelpKINode Title="Warning enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
   <HelpKINode Title="WarningAutoIndex enumeration member" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
+  <HelpKINode Title="Where method" Url="html/Overload_SQLitePCL_pretty_Orm_SqlQuery_SelectClause_1_Where.htm" />
+  <HelpKINode Title="WhereClause(Of T) class">
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WhereClause&lt;T&gt; class">
+    <HelpKINode Title="methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_SqlQuery_WhereClause_1.htm" />
+  </HelpKINode>
   <HelpKINode Title="ZeroBlob method" Url="html/M_SQLitePCL_pretty_SQLiteValue_ZeroBlob.htm" />
 </HelpKI>
