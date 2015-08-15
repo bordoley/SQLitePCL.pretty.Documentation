@@ -1,40 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="47b67fd2-a9ef-4a3e-967a-6446b799d31b" Title="Namespaces" Url="html/R_Project_Documentation.htm">
-    <HelpTOCNode Id="cf9a45e5-b122-4295-9bf1-49243b69a8a2" Title="SQLitePCL.pretty" Url="html/N_SQLitePCL_pretty.htm">
+  <HelpTOCNode Id="2d42e9b3-ef43-42fd-a61a-d0e511851b0f" Title="Namespaces" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="d071c364-882d-42ad-a41f-0bd3f51f981e" Title="SQLitePCL.pretty" Url="html/N_SQLitePCL_pretty.htm">
       <HelpTOCNode Title="ActionCode Enumeration" Url="html/T_SQLitePCL_pretty_ActionCode.htm" />
-      <HelpTOCNode Id="eab96983-5af2-48d4-83aa-9b3213fe3660" Title="AsyncDatabaseConnection Class" Url="html/T_SQLitePCL_pretty_AsyncDatabaseConnection.htm">
-        <HelpTOCNode Id="b300823f-6608-403c-9c01-3d4adb653563" Title="AsyncDatabaseConnection Methods" Url="html/Methods_T_SQLitePCL_pretty_AsyncDatabaseConnection.htm">
-          <HelpTOCNode Id="d695ccf2-7e99-4335-9aae-480019e57479" Title="ExecuteAllAsync Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_ExecuteAllAsync.htm">
+      <HelpTOCNode Id="cf9a47c8-2d2b-4711-9546-7d3025f68e8c" Title="AsyncDatabaseConnection Class" Url="html/T_SQLitePCL_pretty_AsyncDatabaseConnection.htm">
+        <HelpTOCNode Id="ee631e04-e9d7-486f-90e5-f1e07bf19f67" Title="AsyncDatabaseConnection Methods" Url="html/Methods_T_SQLitePCL_pretty_AsyncDatabaseConnection.htm">
+          <HelpTOCNode Id="9b96a06b-5493-4b0c-ba1e-6bfeeab09987" Title="ExecuteAllAsync Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_ExecuteAllAsync.htm">
             <HelpTOCNode Title="ExecuteAllAsync Method (IAsyncDatabaseConnection, String)" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_ExecuteAllAsync.htm" />
             <HelpTOCNode Title="ExecuteAllAsync Method (IAsyncDatabaseConnection, String, CancellationToken)" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_ExecuteAllAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="53b3cd8f-6990-436b-a590-0b435d9a765f" Title="ExecuteAsync Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_ExecuteAsync.htm">
+          <HelpTOCNode Id="6814dd5c-c360-4408-9201-8846a21182d8" Title="ExecuteAsync Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_ExecuteAsync.htm">
             <HelpTOCNode Title="ExecuteAsync Method (IAsyncDatabaseConnection, String)" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_ExecuteAsync.htm" />
             <HelpTOCNode Title="ExecuteAsync Method (IAsyncDatabaseConnection, String, Object[])" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_ExecuteAsync_1.htm" />
             <HelpTOCNode Title="ExecuteAsync Method (IAsyncDatabaseConnection, String, CancellationToken)" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_ExecuteAsync_2.htm" />
             <HelpTOCNode Title="ExecuteAsync Method (IAsyncDatabaseConnection, String, CancellationToken, Object[])" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_ExecuteAsync_3.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="1be8f5cd-0fd8-441f-817d-dd2786ff8f19" Title="OpenBlobAsync Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_OpenBlobAsync.htm">
+          <HelpTOCNode Id="f6c925fd-b019-4ca8-9808-8046f29d744f" Title="OpenBlobAsync Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_OpenBlobAsync.htm">
             <HelpTOCNode Title="OpenBlobAsync Method (IAsyncDatabaseConnection, ColumnInfo, Int64, Boolean)" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_OpenBlobAsync.htm" />
             <HelpTOCNode Title="OpenBlobAsync Method (IAsyncDatabaseConnection, ColumnInfo, Int64, Boolean, CancellationToken)" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_OpenBlobAsync_1.htm" />
             <HelpTOCNode Title="OpenBlobAsync Method (IAsyncDatabaseConnection, String, String, String, Int64, Boolean)" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_OpenBlobAsync_2.htm" />
             <HelpTOCNode Title="OpenBlobAsync Method (IAsyncDatabaseConnection, String, String, String, Int64, Boolean, CancellationToken)" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_OpenBlobAsync_3.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="3c320ff2-b9d2-49cc-bd7e-a8202e8cdea1" Title="PrepareAllAsync Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_PrepareAllAsync.htm">
+          <HelpTOCNode Id="6ad03f13-dba1-41cd-8434-1a7899612a2d" Title="PrepareAllAsync Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_PrepareAllAsync.htm">
             <HelpTOCNode Title="PrepareAllAsync Method (IAsyncDatabaseConnection, String)" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_PrepareAllAsync.htm" />
             <HelpTOCNode Title="PrepareAllAsync Method (IAsyncDatabaseConnection, String, CancellationToken)" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_PrepareAllAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="a09c5cfb-6382-4b8c-904c-04e823f42f96" Title="PrepareStatementAsync Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_PrepareStatementAsync.htm">
+          <HelpTOCNode Id="a19a45a7-55ed-459c-83dc-649658f557d8" Title="PrepareStatementAsync Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_PrepareStatementAsync.htm">
             <HelpTOCNode Title="PrepareStatementAsync Method (IAsyncDatabaseConnection, String)" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_PrepareStatementAsync.htm" />
             <HelpTOCNode Title="PrepareStatementAsync Method (IAsyncDatabaseConnection, String, CancellationToken)" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_PrepareStatementAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="4fe81426-a666-4d5e-9591-406262cf8ac9" Title="Query Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_Query.htm">
+          <HelpTOCNode Id="76a10100-b8e1-4335-a3ba-be3b556c9fa4" Title="Query Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_Query.htm">
             <HelpTOCNode Title="Query Method (IAsyncDatabaseConnection, String)" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_Query.htm" />
             <HelpTOCNode Title="Query Method (IAsyncDatabaseConnection, String, Object[])" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_Query_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="34b22860-5dbd-4f42-85d6-59a2bc5eba15" Title="Use Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_Use.htm">
+          <HelpTOCNode Id="2bf15fbf-833e-49bc-845a-b3f60e052a2c" Title="Use Method " Url="html/Overload_SQLitePCL_pretty_AsyncDatabaseConnection_Use.htm">
             <HelpTOCNode Title="Use Method (IAsyncDatabaseConnection, Action(IDatabaseConnection))" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_Use.htm" />
             <HelpTOCNode Title="Use(T) Method (IAsyncDatabaseConnection, Func(IDatabaseConnection, IEnumerable(T)))" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_Use__1.htm" />
             <HelpTOCNode Title="Use(T) Method (IAsyncDatabaseConnection, Func(IDatabaseConnection, T))" Url="html/M_SQLitePCL_pretty_AsyncDatabaseConnection_Use__1_1.htm" />
@@ -43,17 +43,17 @@
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="a6428ccf-60f1-4b98-bd23-9cfb8c16a648" Title="AsyncStatement Class" Url="html/T_SQLitePCL_pretty_AsyncStatement.htm">
-        <HelpTOCNode Id="dfe28e43-117d-4c66-a50f-ff2ae42709ed" Title="AsyncStatement Methods" Url="html/Methods_T_SQLitePCL_pretty_AsyncStatement.htm">
-          <HelpTOCNode Id="0d121512-f1c5-4f9c-8db9-fc4a5d3c135f" Title="ExecuteAsync Method " Url="html/Overload_SQLitePCL_pretty_AsyncStatement_ExecuteAsync.htm">
+      <HelpTOCNode Id="5640d430-1bd6-4111-b0da-845ac1e4ff8a" Title="AsyncStatement Class" Url="html/T_SQLitePCL_pretty_AsyncStatement.htm">
+        <HelpTOCNode Id="06b34ac4-2dc8-4164-95a0-b44ce944f3c2" Title="AsyncStatement Methods" Url="html/Methods_T_SQLitePCL_pretty_AsyncStatement.htm">
+          <HelpTOCNode Id="7ee9ee66-c03c-40f9-983f-c2a389a4f690" Title="ExecuteAsync Method " Url="html/Overload_SQLitePCL_pretty_AsyncStatement_ExecuteAsync.htm">
             <HelpTOCNode Title="ExecuteAsync Method (IAsyncStatement, Object[])" Url="html/M_SQLitePCL_pretty_AsyncStatement_ExecuteAsync.htm" />
             <HelpTOCNode Title="ExecuteAsync Method (IAsyncStatement, CancellationToken, Object[])" Url="html/M_SQLitePCL_pretty_AsyncStatement_ExecuteAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="263ad417-81aa-444c-9bf6-942fd49f9071" Title="Query Method " Url="html/Overload_SQLitePCL_pretty_AsyncStatement_Query.htm">
+          <HelpTOCNode Id="5cdb3dc4-f0f6-47d9-b762-6d1048af01da" Title="Query Method " Url="html/Overload_SQLitePCL_pretty_AsyncStatement_Query.htm">
             <HelpTOCNode Title="Query Method (IAsyncStatement)" Url="html/M_SQLitePCL_pretty_AsyncStatement_Query.htm" />
             <HelpTOCNode Title="Query Method (IAsyncStatement, Object[])" Url="html/M_SQLitePCL_pretty_AsyncStatement_Query_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="29ba9ead-7229-4642-bd15-544975a5715f" Title="Use Method " Url="html/Overload_SQLitePCL_pretty_AsyncStatement_Use.htm">
+          <HelpTOCNode Id="50c5e5d3-ffcf-46c2-b483-6d019f2c8d15" Title="Use Method " Url="html/Overload_SQLitePCL_pretty_AsyncStatement_Use.htm">
             <HelpTOCNode Title="Use Method (IAsyncStatement, Action(IStatement))" Url="html/M_SQLitePCL_pretty_AsyncStatement_Use.htm" />
             <HelpTOCNode Title="Use(T) Method (IAsyncStatement, Func(IStatement, IEnumerable(T)))" Url="html/M_SQLitePCL_pretty_AsyncStatement_Use__1.htm" />
             <HelpTOCNode Title="Use(T) Method (IAsyncStatement, Func(IStatement, T))" Url="html/M_SQLitePCL_pretty_AsyncStatement_Use__1_1.htm" />
@@ -62,9 +62,10 @@
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="d5ebc43b-b144-4cdf-8eb3-dec6c5a99021" Title="BindParameter Class" Url="html/T_SQLitePCL_pretty_BindParameter.htm">
-        <HelpTOCNode Id="ab72bd33-130d-4052-b16e-f201a06eda3f" Title="BindParameter Methods" Url="html/Methods_T_SQLitePCL_pretty_BindParameter.htm">
-          <HelpTOCNode Id="116b7b38-7294-4ac0-9a62-690c5494c53a" Title="Bind Method " Url="html/Overload_SQLitePCL_pretty_BindParameter_Bind.htm">
+      <HelpTOCNode Title="AuthorizerReturnCode Enumeration" Url="html/T_SQLitePCL_pretty_AuthorizerReturnCode.htm" />
+      <HelpTOCNode Id="3873a0fa-1bb3-4f46-a995-0c4fca2fa0ea" Title="BindParameter Class" Url="html/T_SQLitePCL_pretty_BindParameter.htm">
+        <HelpTOCNode Id="80f9700b-a036-4c8f-8dae-792eb504ce0d" Title="BindParameter Methods" Url="html/Methods_T_SQLitePCL_pretty_BindParameter.htm">
+          <HelpTOCNode Id="7292c6c3-077f-460d-b781-3d561ca471eb" Title="Bind Method " Url="html/Overload_SQLitePCL_pretty_BindParameter_Bind.htm">
             <HelpTOCNode Title="Bind Method (IBindParameter, ISQLiteValue)" Url="html/M_SQLitePCL_pretty_BindParameter_Bind.htm" />
             <HelpTOCNode Title="Bind Method (IBindParameter, Boolean)" Url="html/M_SQLitePCL_pretty_BindParameter_Bind_1.htm" />
             <HelpTOCNode Title="Bind Method (IBindParameter, DateTime)" Url="html/M_SQLitePCL_pretty_BindParameter_Bind_2.htm" />
@@ -78,16 +79,16 @@
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="5bc4bfb1-4391-4b70-b413-24d966144f72" Title="ColumnInfo Class" Url="html/T_SQLitePCL_pretty_ColumnInfo.htm">
-        <HelpTOCNode Id="55649334-7aed-4d6f-accc-83a31eafba81" Title="ColumnInfo Methods" Url="html/Methods_T_SQLitePCL_pretty_ColumnInfo.htm">
+      <HelpTOCNode Id="c9d4f51c-f4ae-41d6-8cf8-2085dc7cf2be" Title="ColumnInfo Class" Url="html/T_SQLitePCL_pretty_ColumnInfo.htm">
+        <HelpTOCNode Id="00cecc5c-ee08-4f0c-a8b2-fa4dcfb82c2d" Title="ColumnInfo Methods" Url="html/Methods_T_SQLitePCL_pretty_ColumnInfo.htm">
           <HelpTOCNode Title="CompareTo Method " Url="html/M_SQLitePCL_pretty_ColumnInfo_CompareTo.htm" />
-          <HelpTOCNode Id="568968f8-a11c-473e-bc25-e163575e5f78" Title="Equals Method " Url="html/Overload_SQLitePCL_pretty_ColumnInfo_Equals.htm">
+          <HelpTOCNode Id="701f56aa-299c-469c-9d4c-58499074fe6f" Title="Equals Method " Url="html/Overload_SQLitePCL_pretty_ColumnInfo_Equals.htm">
             <HelpTOCNode Title="Equals Method (Object)" Url="html/M_SQLitePCL_pretty_ColumnInfo_Equals_1.htm" />
             <HelpTOCNode Title="Equals Method (ColumnInfo)" Url="html/M_SQLitePCL_pretty_ColumnInfo_Equals.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="GetHashCode Method " Url="html/M_SQLitePCL_pretty_ColumnInfo_GetHashCode.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="9e1c557a-21b5-4f81-bd7a-553927adbfbd" Title="ColumnInfo Operators" Url="html/Operators_T_SQLitePCL_pretty_ColumnInfo.htm">
+        <HelpTOCNode Id="d5885b20-6bf5-4d6d-9a12-5792b25f8440" Title="ColumnInfo Operators" Url="html/Operators_T_SQLitePCL_pretty_ColumnInfo.htm">
           <HelpTOCNode Title="Equality Operator " Url="html/M_SQLitePCL_pretty_ColumnInfo_op_Equality.htm" />
           <HelpTOCNode Title="GreaterThan Operator " Url="html/M_SQLitePCL_pretty_ColumnInfo_op_GreaterThan.htm" />
           <HelpTOCNode Title="GreaterThanOrEqual Operator " Url="html/M_SQLitePCL_pretty_ColumnInfo_op_GreaterThanOrEqual.htm" />
@@ -95,7 +96,7 @@
           <HelpTOCNode Title="LessThan Operator " Url="html/M_SQLitePCL_pretty_ColumnInfo_op_LessThan.htm" />
           <HelpTOCNode Title="LessThanOrEqual Operator " Url="html/M_SQLitePCL_pretty_ColumnInfo_op_LessThanOrEqual.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0028a4d3-9471-4542-aebb-7cce7008c47d" Title="ColumnInfo Properties" Url="html/Properties_T_SQLitePCL_pretty_ColumnInfo.htm">
+        <HelpTOCNode Id="dfa92f66-bf79-407b-9daf-8450773aea78" Title="ColumnInfo Properties" Url="html/Properties_T_SQLitePCL_pretty_ColumnInfo.htm">
           <HelpTOCNode Title="DatabaseName Property " Url="html/P_SQLitePCL_pretty_ColumnInfo_DatabaseName.htm" />
           <HelpTOCNode Title="DeclaredType Property " Url="html/P_SQLitePCL_pretty_ColumnInfo_DeclaredType.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_SQLitePCL_pretty_ColumnInfo_Name.htm" />
@@ -104,14 +105,14 @@
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="ConnectionFlags Enumeration" Url="html/T_SQLitePCL_pretty_ConnectionFlags.htm" />
-      <HelpTOCNode Id="c3cabd0a-d08c-4c73-a4a8-6be134649d77" Title="DatabaseConnection Class" Url="html/T_SQLitePCL_pretty_DatabaseConnection.htm">
-        <HelpTOCNode Id="58dfa7ee-3451-4765-8991-6e05354cd4bb" Title="DatabaseConnection Methods" Url="html/Methods_T_SQLitePCL_pretty_DatabaseConnection.htm">
-          <HelpTOCNode Id="9a6a6609-2401-4a09-af51-6289145cdb28" Title="AsAsyncDatabaseConnection Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_AsAsyncDatabaseConnection.htm">
+      <HelpTOCNode Id="c03b7555-c216-416a-9e3d-9422da7e2bde" Title="DatabaseConnection Class" Url="html/T_SQLitePCL_pretty_DatabaseConnection.htm">
+        <HelpTOCNode Id="1c3e6ec4-8b7a-4250-9ded-6706b8db6145" Title="DatabaseConnection Methods" Url="html/Methods_T_SQLitePCL_pretty_DatabaseConnection.htm">
+          <HelpTOCNode Id="2c0054f8-4bce-4c2c-9dd9-e3e999b09421" Title="AsAsyncDatabaseConnection Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_AsAsyncDatabaseConnection.htm">
             <HelpTOCNode Title="AsAsyncDatabaseConnection Method (SQLiteDatabaseConnection)" Url="html/M_SQLitePCL_pretty_DatabaseConnection_AsAsyncDatabaseConnection.htm" />
             <HelpTOCNode Title="AsAsyncDatabaseConnection Method (SQLiteDatabaseConnection, IScheduler)" Url="html/M_SQLitePCL_pretty_DatabaseConnection_AsAsyncDatabaseConnection_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="Backup Method " Url="html/M_SQLitePCL_pretty_DatabaseConnection_Backup.htm" />
-          <HelpTOCNode Id="2c16b94b-13b3-4578-a2dc-fa5025148967" Title="Execute Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_Execute.htm">
+          <HelpTOCNode Id="ec1c2dbc-1aa0-4c6e-b759-ba486890d59a" Title="Execute Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_Execute.htm">
             <HelpTOCNode Title="Execute Method (IDatabaseConnection, String)" Url="html/M_SQLitePCL_pretty_DatabaseConnection_Execute.htm" />
             <HelpTOCNode Title="Execute Method (IDatabaseConnection, String, Object[])" Url="html/M_SQLitePCL_pretty_DatabaseConnection_Execute_1.htm" />
           </HelpTOCNode>
@@ -120,11 +121,11 @@
           <HelpTOCNode Title="OpenBlob Method " Url="html/M_SQLitePCL_pretty_DatabaseConnection_OpenBlob.htm" />
           <HelpTOCNode Title="PrepareAll Method " Url="html/M_SQLitePCL_pretty_DatabaseConnection_PrepareAll.htm" />
           <HelpTOCNode Title="PrepareStatement Method " Url="html/M_SQLitePCL_pretty_DatabaseConnection_PrepareStatement.htm" />
-          <HelpTOCNode Id="6f8ab474-8384-4fec-be3d-ea543faa80fc" Title="Query Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_Query.htm">
+          <HelpTOCNode Id="f3c3f875-df46-473b-8117-94aac4c8c5e5" Title="Query Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_Query.htm">
             <HelpTOCNode Title="Query Method (IDatabaseConnection, String)" Url="html/M_SQLitePCL_pretty_DatabaseConnection_Query.htm" />
             <HelpTOCNode Title="Query Method (IDatabaseConnection, String, Object[])" Url="html/M_SQLitePCL_pretty_DatabaseConnection_Query_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="7150c3ce-4af2-405b-833d-ff7f3cde5085" Title="RegisterAggregateFunc Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_RegisterAggregateFunc.htm">
+          <HelpTOCNode Id="ef1ba1e6-0b97-4a52-b06d-b5212a3b3ea6" Title="RegisterAggregateFunc Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_RegisterAggregateFunc.htm">
             <HelpTOCNode Title="RegisterAggregateFunc(T) Method (SQLiteDatabaseConnection, String, T, Func(T, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, T), Func(T, ISQLiteValue))" Url="html/M_SQLitePCL_pretty_DatabaseConnection_RegisterAggregateFunc__1.htm" />
             <HelpTOCNode Title="RegisterAggregateFunc(T) Method (SQLiteDatabaseConnection, String, T, Func(T, T), Func(T, ISQLiteValue))" Url="html/M_SQLitePCL_pretty_DatabaseConnection_RegisterAggregateFunc__1_1.htm" />
             <HelpTOCNode Title="RegisterAggregateFunc(T) Method (SQLiteDatabaseConnection, String, T, Func(T, ISQLiteValue, T), Func(T, ISQLiteValue))" Url="html/M_SQLitePCL_pretty_DatabaseConnection_RegisterAggregateFunc__1_2.htm" />
@@ -136,7 +137,7 @@
             <HelpTOCNode Title="RegisterAggregateFunc(T) Method (SQLiteDatabaseConnection, String, T, Func(T, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, T), Func(T, ISQLiteValue))" Url="html/M_SQLitePCL_pretty_DatabaseConnection_RegisterAggregateFunc__1_8.htm" />
             <HelpTOCNode Title="RegisterAggregateFunc(T) Method (SQLiteDatabaseConnection, String, T, Func(T, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, T), Func(T, ISQLiteValue))" Url="html/M_SQLitePCL_pretty_DatabaseConnection_RegisterAggregateFunc__1_9.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="601d5862-037f-42d4-940f-7ac13738cd35" Title="RegisterScalarFunc Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_RegisterScalarFunc.htm">
+          <HelpTOCNode Id="f4334044-ffe2-4310-bfde-61dfdc8084cf" Title="RegisterScalarFunc Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_RegisterScalarFunc.htm">
             <HelpTOCNode Title="RegisterScalarFunc Method (SQLiteDatabaseConnection, String, Func(ISQLiteValue))" Url="html/M_SQLitePCL_pretty_DatabaseConnection_RegisterScalarFunc.htm" />
             <HelpTOCNode Title="RegisterScalarFunc Method (SQLiteDatabaseConnection, String, Func(ISQLiteValue, ISQLiteValue))" Url="html/M_SQLitePCL_pretty_DatabaseConnection_RegisterScalarFunc_1.htm" />
             <HelpTOCNode Title="RegisterScalarFunc Method (SQLiteDatabaseConnection, String, Func(IReadOnlyList(ISQLiteValue), ISQLiteValue))" Url="html/M_SQLitePCL_pretty_DatabaseConnection_RegisterScalarFunc_2.htm" />
@@ -148,13 +149,13 @@
             <HelpTOCNode Title="RegisterScalarFunc Method (SQLiteDatabaseConnection, String, Func(ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue))" Url="html/M_SQLitePCL_pretty_DatabaseConnection_RegisterScalarFunc_8.htm" />
             <HelpTOCNode Title="RegisterScalarFunc Method (SQLiteDatabaseConnection, String, Func(ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue, ISQLiteValue))" Url="html/M_SQLitePCL_pretty_DatabaseConnection_RegisterScalarFunc_9.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="f976793a-5a4a-4368-829d-5d10ee674db5" Title="RunInTransaction Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_RunInTransaction.htm">
+          <HelpTOCNode Id="02c20e1d-61a5-4235-a411-41e20a95a59c" Title="RunInTransaction Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_RunInTransaction.htm">
             <HelpTOCNode Title="RunInTransaction Method (IDatabaseConnection, Action(IDatabaseConnection))" Url="html/M_SQLitePCL_pretty_DatabaseConnection_RunInTransaction.htm" />
             <HelpTOCNode Title="RunInTransaction(T) Method (IDatabaseConnection, Func(IDatabaseConnection, T))" Url="html/M_SQLitePCL_pretty_DatabaseConnection_RunInTransaction__1.htm" />
             <HelpTOCNode Title="RunInTransaction Method (IDatabaseConnection, Action(IDatabaseConnection), TransactionMode)" Url="html/M_SQLitePCL_pretty_DatabaseConnection_RunInTransaction_1.htm" />
             <HelpTOCNode Title="RunInTransaction(T) Method (IDatabaseConnection, Func(IDatabaseConnection, T), TransactionMode)" Url="html/M_SQLitePCL_pretty_DatabaseConnection_RunInTransaction__1_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="6388aa75-7adc-4108-9e5b-a6f86a298797" Title="TryRunInTransaction Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_TryRunInTransaction.htm">
+          <HelpTOCNode Id="897a43a7-4887-463c-95e5-12f1210eef55" Title="TryRunInTransaction Method " Url="html/Overload_SQLitePCL_pretty_DatabaseConnection_TryRunInTransaction.htm">
             <HelpTOCNode Title="TryRunInTransaction Method (IDatabaseConnection, Action(IDatabaseConnection))" Url="html/M_SQLitePCL_pretty_DatabaseConnection_TryRunInTransaction.htm" />
             <HelpTOCNode Title="TryRunInTransaction Method (IDatabaseConnection, Action(IDatabaseConnection), TransactionMode)" Url="html/M_SQLitePCL_pretty_DatabaseConnection_TryRunInTransaction_1.htm" />
             <HelpTOCNode Title="TryRunInTransaction(T) Method (IDatabaseConnection, Func(IDatabaseConnection, T), T)" Url="html/M_SQLitePCL_pretty_DatabaseConnection_TryRunInTransaction__1_1.htm" />
@@ -163,27 +164,27 @@
           <HelpTOCNode Title="Vacuum Method " Url="html/M_SQLitePCL_pretty_DatabaseConnection_Vacuum.htm" />
           <HelpTOCNode Title="WalCheckPoint Method " Url="html/M_SQLitePCL_pretty_DatabaseConnection_WalCheckPoint.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="86666548-70e3-49e2-840b-9e6f73e31d4d" Title="DatabaseConnection Properties" Url="html/Properties_T_SQLitePCL_pretty_DatabaseConnection.htm">
+        <HelpTOCNode Id="6d534d1c-f2ed-4e48-9218-54d562c60e93" Title="DatabaseConnection Properties" Url="html/Properties_T_SQLitePCL_pretty_DatabaseConnection.htm">
           <HelpTOCNode Title="DefaultScheduler Property " Url="html/P_SQLitePCL_pretty_DatabaseConnection_DefaultScheduler.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="DatabaseConnectionStatusCode Enumeration" Url="html/T_SQLitePCL_pretty_DatabaseConnectionStatusCode.htm" />
-      <HelpTOCNode Id="cd688bec-5e6e-42d1-b989-075d45ec1657" Title="DatabaseProfileEventArgs Class" Url="html/T_SQLitePCL_pretty_DatabaseProfileEventArgs.htm">
+      <HelpTOCNode Id="9f819e11-fe72-470c-b221-e518c47becb2" Title="DatabaseProfileEventArgs Class" Url="html/T_SQLitePCL_pretty_DatabaseProfileEventArgs.htm">
         <HelpTOCNode Title="DatabaseProfileEventArgs Methods" Url="html/Methods_T_SQLitePCL_pretty_DatabaseProfileEventArgs.htm" />
-        <HelpTOCNode Id="eabdc206-b809-47c7-a34c-f387ac904cdd" Title="DatabaseProfileEventArgs Properties" Url="html/Properties_T_SQLitePCL_pretty_DatabaseProfileEventArgs.htm">
+        <HelpTOCNode Id="6ae37158-707a-42e6-852a-d9ec66e93d43" Title="DatabaseProfileEventArgs Properties" Url="html/Properties_T_SQLitePCL_pretty_DatabaseProfileEventArgs.htm">
           <HelpTOCNode Title="ExecutionTime Property " Url="html/P_SQLitePCL_pretty_DatabaseProfileEventArgs_ExecutionTime.htm" />
           <HelpTOCNode Title="Statement Property " Url="html/P_SQLitePCL_pretty_DatabaseProfileEventArgs_Statement.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="28cbed5a-b2ee-431b-8ad9-026db41c2edc" Title="DatabaseTraceEventArgs Class" Url="html/T_SQLitePCL_pretty_DatabaseTraceEventArgs.htm">
+      <HelpTOCNode Id="158f7d28-185f-480f-8e32-72b7ca11e4ea" Title="DatabaseTraceEventArgs Class" Url="html/T_SQLitePCL_pretty_DatabaseTraceEventArgs.htm">
         <HelpTOCNode Title="DatabaseTraceEventArgs Methods" Url="html/Methods_T_SQLitePCL_pretty_DatabaseTraceEventArgs.htm" />
-        <HelpTOCNode Id="466b882d-af10-451e-84d4-fadc98f64c6a" Title="DatabaseTraceEventArgs Properties" Url="html/Properties_T_SQLitePCL_pretty_DatabaseTraceEventArgs.htm">
+        <HelpTOCNode Id="9df8d31e-22e9-4c4a-8ac3-3482586c6be8" Title="DatabaseTraceEventArgs Properties" Url="html/Properties_T_SQLitePCL_pretty_DatabaseTraceEventArgs.htm">
           <HelpTOCNode Title="Statement Property " Url="html/P_SQLitePCL_pretty_DatabaseTraceEventArgs_Statement.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="52879c8f-5163-4f74-a89a-12185deba5dc" Title="DatabaseUpdateEventArgs Class" Url="html/T_SQLitePCL_pretty_DatabaseUpdateEventArgs.htm">
+      <HelpTOCNode Id="d94ca013-a31a-49e8-949b-ae284900800e" Title="DatabaseUpdateEventArgs Class" Url="html/T_SQLitePCL_pretty_DatabaseUpdateEventArgs.htm">
         <HelpTOCNode Title="DatabaseUpdateEventArgs Methods" Url="html/Methods_T_SQLitePCL_pretty_DatabaseUpdateEventArgs.htm" />
-        <HelpTOCNode Id="f0da39ce-457a-45cb-98fb-e04ab210aa4a" Title="DatabaseUpdateEventArgs Properties" Url="html/Properties_T_SQLitePCL_pretty_DatabaseUpdateEventArgs.htm">
+        <HelpTOCNode Id="5d8a5415-6038-478f-9291-74c8c87ab285" Title="DatabaseUpdateEventArgs Properties" Url="html/Properties_T_SQLitePCL_pretty_DatabaseUpdateEventArgs.htm">
           <HelpTOCNode Title="Action Property " Url="html/P_SQLitePCL_pretty_DatabaseUpdateEventArgs_Action.htm" />
           <HelpTOCNode Title="Database Property " Url="html/P_SQLitePCL_pretty_DatabaseUpdateEventArgs_Database.htm" />
           <HelpTOCNode Title="RowId Property " Url="html/P_SQLitePCL_pretty_DatabaseUpdateEventArgs_RowId.htm" />
@@ -191,25 +192,20 @@
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="ErrorCode Enumeration" Url="html/T_SQLitePCL_pretty_ErrorCode.htm" />
-      <HelpTOCNode Id="aafb3168-5dfa-4bdb-a861-2c52f0893918" Title="IAsyncDatabaseConnection Interface" Url="html/T_SQLitePCL_pretty_IAsyncDatabaseConnection.htm">
-        <HelpTOCNode Id="add00ba5-f6fb-4e09-97bb-e69f96c316b6" Title="IAsyncDatabaseConnection Methods" Url="html/Methods_T_SQLitePCL_pretty_IAsyncDatabaseConnection.htm">
+      <HelpTOCNode Id="2dcf59cb-361f-41f1-a3d5-9dd5d663316d" Title="IAsyncDatabaseConnection Interface" Url="html/T_SQLitePCL_pretty_IAsyncDatabaseConnection.htm">
+        <HelpTOCNode Id="e933a9c1-3ed6-4537-90d7-3ac6dd8a6a01" Title="IAsyncDatabaseConnection Methods" Url="html/Methods_T_SQLitePCL_pretty_IAsyncDatabaseConnection.htm">
           <HelpTOCNode Title="DisposeAsync Method " Url="html/M_SQLitePCL_pretty_IAsyncDatabaseConnection_DisposeAsync.htm" />
           <HelpTOCNode Title="Use(T) Method " Url="html/M_SQLitePCL_pretty_IAsyncDatabaseConnection_Use__1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d4dab8b6-a452-4c8d-8b8d-77dbd0d01e0f" Title="IAsyncDatabaseConnection Properties" Url="html/Properties_T_SQLitePCL_pretty_IAsyncDatabaseConnection.htm">
-          <HelpTOCNode Title="Profile Property " Url="html/P_SQLitePCL_pretty_IAsyncDatabaseConnection_Profile.htm" />
-          <HelpTOCNode Title="Trace Property " Url="html/P_SQLitePCL_pretty_IAsyncDatabaseConnection_Trace.htm" />
-          <HelpTOCNode Title="Update Property " Url="html/P_SQLitePCL_pretty_IAsyncDatabaseConnection_Update.htm" />
-        </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="c9b3b080-fcd2-4569-8e62-9a5db9b09ba5" Title="IAsyncStatement Interface" Url="html/T_SQLitePCL_pretty_IAsyncStatement.htm">
-        <HelpTOCNode Id="61313603-cf97-4142-a3af-3d52ea062b43" Title="IAsyncStatement Methods" Url="html/Methods_T_SQLitePCL_pretty_IAsyncStatement.htm">
+      <HelpTOCNode Id="87eb6311-3f19-445c-a2f1-287f6417187b" Title="IAsyncStatement Interface" Url="html/T_SQLitePCL_pretty_IAsyncStatement.htm">
+        <HelpTOCNode Id="dd318700-2ff4-40a0-8d6c-6c4a93efbc31" Title="IAsyncStatement Methods" Url="html/Methods_T_SQLitePCL_pretty_IAsyncStatement.htm">
           <HelpTOCNode Title="Use(T) Method " Url="html/M_SQLitePCL_pretty_IAsyncStatement_Use__1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="3af664e2-6c00-47a1-9250-ae18d14cc4a3" Title="IBindParameter Interface" Url="html/T_SQLitePCL_pretty_IBindParameter.htm">
-        <HelpTOCNode Id="a47cc2cc-1106-4450-a045-b28855e6a142" Title="IBindParameter Methods" Url="html/Methods_T_SQLitePCL_pretty_IBindParameter.htm">
-          <HelpTOCNode Id="cf261550-6198-4e84-be8c-f0580194a3c5" Title="Bind Method " Url="html/Overload_SQLitePCL_pretty_IBindParameter_Bind.htm">
+      <HelpTOCNode Id="90c1e308-43c8-4c8b-b7d7-633c6f4ecf81" Title="IBindParameter Interface" Url="html/T_SQLitePCL_pretty_IBindParameter.htm">
+        <HelpTOCNode Id="2442bfe6-a0e6-4296-b68f-5e02b3978292" Title="IBindParameter Methods" Url="html/Methods_T_SQLitePCL_pretty_IBindParameter.htm">
+          <HelpTOCNode Id="9f5ac86e-f467-4d3a-addd-741b204d46c1" Title="Bind Method " Url="html/Overload_SQLitePCL_pretty_IBindParameter_Bind.htm">
             <HelpTOCNode Title="Bind Method (Byte[])" Url="html/M_SQLitePCL_pretty_IBindParameter_Bind.htm" />
             <HelpTOCNode Title="Bind Method (Double)" Url="html/M_SQLitePCL_pretty_IBindParameter_Bind_1.htm" />
             <HelpTOCNode Title="Bind Method (Int32)" Url="html/M_SQLitePCL_pretty_IBindParameter_Bind_2.htm" />
@@ -219,21 +215,21 @@
           <HelpTOCNode Title="BindNull Method " Url="html/M_SQLitePCL_pretty_IBindParameter_BindNull.htm" />
           <HelpTOCNode Title="BindZeroBlob Method " Url="html/M_SQLitePCL_pretty_IBindParameter_BindZeroBlob.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="f461b271-a3a5-48c5-9a2f-4408ae7671fa" Title="IBindParameter Properties" Url="html/Properties_T_SQLitePCL_pretty_IBindParameter.htm">
+        <HelpTOCNode Id="fffefe76-8c4e-427f-a60b-b20c48759265" Title="IBindParameter Properties" Url="html/Properties_T_SQLitePCL_pretty_IBindParameter.htm">
           <HelpTOCNode Title="Name Property " Url="html/P_SQLitePCL_pretty_IBindParameter_Name.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="324c6b77-d2d9-44fb-9951-7544fbb28dd6" Title="IDatabaseBackup Interface" Url="html/T_SQLitePCL_pretty_IDatabaseBackup.htm">
-        <HelpTOCNode Id="4b2004ec-8638-47ac-b2c3-f2781c3ed6a7" Title="IDatabaseBackup Methods" Url="html/Methods_T_SQLitePCL_pretty_IDatabaseBackup.htm">
+      <HelpTOCNode Id="b6a9203d-69c1-492d-8c04-b9d19aed2e8d" Title="IDatabaseBackup Interface" Url="html/T_SQLitePCL_pretty_IDatabaseBackup.htm">
+        <HelpTOCNode Id="299f5e5c-553a-4d43-93ff-aca3302f90d9" Title="IDatabaseBackup Methods" Url="html/Methods_T_SQLitePCL_pretty_IDatabaseBackup.htm">
           <HelpTOCNode Title="Step Method " Url="html/M_SQLitePCL_pretty_IDatabaseBackup_Step.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="6eda29c0-94f5-409c-998b-b73a7d2dc40e" Title="IDatabaseBackup Properties" Url="html/Properties_T_SQLitePCL_pretty_IDatabaseBackup.htm">
+        <HelpTOCNode Id="59ba53a0-2e4e-498f-856a-5f4ac0c6af6b" Title="IDatabaseBackup Properties" Url="html/Properties_T_SQLitePCL_pretty_IDatabaseBackup.htm">
           <HelpTOCNode Title="PageCount Property " Url="html/P_SQLitePCL_pretty_IDatabaseBackup_PageCount.htm" />
           <HelpTOCNode Title="RemainingPages Property " Url="html/P_SQLitePCL_pretty_IDatabaseBackup_RemainingPages.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="2626070c-795c-487b-924c-d8e7ace63f54" Title="IDatabaseConnection Interface" Url="html/T_SQLitePCL_pretty_IDatabaseConnection.htm">
-        <HelpTOCNode Id="8f35ad15-8eda-4bc5-8235-77381e79fd13" Title="IDatabaseConnection Methods" Url="html/Methods_T_SQLitePCL_pretty_IDatabaseConnection.htm">
+      <HelpTOCNode Id="566f464d-8626-46f3-8a24-de7cbd0db916" Title="IDatabaseConnection Interface" Url="html/T_SQLitePCL_pretty_IDatabaseConnection.htm">
+        <HelpTOCNode Id="377758ad-e3a7-48d5-bb57-06f4a4def3d7" Title="IDatabaseConnection Methods" Url="html/Methods_T_SQLitePCL_pretty_IDatabaseConnection.htm">
           <HelpTOCNode Title="GetTableColumnMetadata Method " Url="html/M_SQLitePCL_pretty_IDatabaseConnection_GetTableColumnMetadata.htm" />
           <HelpTOCNode Title="IsDatabaseReadOnly Method " Url="html/M_SQLitePCL_pretty_IDatabaseConnection_IsDatabaseReadOnly.htm" />
           <HelpTOCNode Title="OpenBlob Method " Url="html/M_SQLitePCL_pretty_IDatabaseConnection_OpenBlob.htm" />
@@ -241,54 +237,47 @@
           <HelpTOCNode Title="Status Method " Url="html/M_SQLitePCL_pretty_IDatabaseConnection_Status.htm" />
           <HelpTOCNode Title="WalCheckPoint Method " Url="html/M_SQLitePCL_pretty_IDatabaseConnection_WalCheckPoint.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5b631499-6873-4d15-b209-ddd667c7477f" Title="IDatabaseConnection Properties" Url="html/Properties_T_SQLitePCL_pretty_IDatabaseConnection.htm">
+        <HelpTOCNode Id="9a1dc01f-38e0-4c70-8447-d72496cc6871" Title="IDatabaseConnection Properties" Url="html/Properties_T_SQLitePCL_pretty_IDatabaseConnection.htm">
           <HelpTOCNode Title="Changes Property " Url="html/P_SQLitePCL_pretty_IDatabaseConnection_Changes.htm" />
           <HelpTOCNode Title="IsAutoCommit Property " Url="html/P_SQLitePCL_pretty_IDatabaseConnection_IsAutoCommit.htm" />
           <HelpTOCNode Title="IsReadOnly Property " Url="html/P_SQLitePCL_pretty_IDatabaseConnection_IsReadOnly.htm" />
           <HelpTOCNode Title="LastInsertedRowId Property " Url="html/P_SQLitePCL_pretty_IDatabaseConnection_LastInsertedRowId.htm" />
-          <HelpTOCNode Title="Statements Property " Url="html/P_SQLitePCL_pretty_IDatabaseConnection_Statements.htm" />
           <HelpTOCNode Title="TotalChanges Property " Url="html/P_SQLitePCL_pretty_IDatabaseConnection_TotalChanges.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="36cfff50-6b20-4d1c-8311-583dcdd3d332" Title="IDatabaseConnection Events" Url="html/Events_T_SQLitePCL_pretty_IDatabaseConnection.htm">
-          <HelpTOCNode Title="Profile Event" Url="html/E_SQLitePCL_pretty_IDatabaseConnection_Profile.htm" />
-          <HelpTOCNode Title="Rollback Event" Url="html/E_SQLitePCL_pretty_IDatabaseConnection_Rollback.htm" />
-          <HelpTOCNode Title="Trace Event" Url="html/E_SQLitePCL_pretty_IDatabaseConnection_Trace.htm" />
-          <HelpTOCNode Title="Update Event" Url="html/E_SQLitePCL_pretty_IDatabaseConnection_Update.htm" />
-        </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="8737e675-cbcc-4416-b52a-e5f5d9d4560f" Title="IReadOnlyOrderedDictionary(TKey, TValue) Interface" Url="html/T_SQLitePCL_pretty_IReadOnlyOrderedDictionary_2.htm">
+      <HelpTOCNode Id="4a24ee13-6f38-49a8-90d7-df7246f661a9" Title="IReadOnlyOrderedDictionary(TKey, TValue) Interface" Url="html/T_SQLitePCL_pretty_IReadOnlyOrderedDictionary_2.htm">
         <HelpTOCNode Title="IReadOnlyOrderedDictionary(TKey, TValue) Methods" Url="html/Methods_T_SQLitePCL_pretty_IReadOnlyOrderedDictionary_2.htm" />
-        <HelpTOCNode Id="9f39a684-6406-4a64-b189-3cdb60ed58f0" Title="IReadOnlyOrderedDictionary(TKey, TValue) Properties" Url="html/Properties_T_SQLitePCL_pretty_IReadOnlyOrderedDictionary_2.htm">
-          <HelpTOCNode Id="f771d7ee-0076-4d90-9ad7-284190ad4caa" Title="Item Property " Url="html/Overload_SQLitePCL_pretty_IReadOnlyOrderedDictionary_2_Item.htm">
+        <HelpTOCNode Id="e7a94a16-87eb-4bd0-b0b9-d11468007670" Title="IReadOnlyOrderedDictionary(TKey, TValue) Properties" Url="html/Properties_T_SQLitePCL_pretty_IReadOnlyOrderedDictionary_2.htm">
+          <HelpTOCNode Id="83ce7ed9-5e63-4fd2-a971-4aa46d81ea6f" Title="Item Property " Url="html/Overload_SQLitePCL_pretty_IReadOnlyOrderedDictionary_2_Item.htm">
             <HelpTOCNode Title="Item Property (Int32)" Url="html/P_SQLitePCL_pretty_IReadOnlyOrderedDictionary_2_Item.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="eb692b33-6ca3-4929-99aa-407c4b113908" Title="IResultSetValue Interface" Url="html/T_SQLitePCL_pretty_IResultSetValue.htm">
+      <HelpTOCNode Id="66793430-1f85-43b5-aaa8-e006d36b4b18" Title="IResultSetValue Interface" Url="html/T_SQLitePCL_pretty_IResultSetValue.htm">
         <HelpTOCNode Title="IResultSetValue Methods" Url="html/Methods_T_SQLitePCL_pretty_IResultSetValue.htm" />
-        <HelpTOCNode Id="72055f51-ce80-4f1d-8fe0-97d224bc0b71" Title="IResultSetValue Properties" Url="html/Properties_T_SQLitePCL_pretty_IResultSetValue.htm">
+        <HelpTOCNode Id="26c2336a-db13-41f0-a35c-7066b5decbde" Title="IResultSetValue Properties" Url="html/Properties_T_SQLitePCL_pretty_IResultSetValue.htm">
           <HelpTOCNode Title="ColumnInfo Property " Url="html/P_SQLitePCL_pretty_IResultSetValue_ColumnInfo.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e408b128-a8ce-4689-8dfc-bccd5467d52b" Title="ISQLiteValue Interface" Url="html/T_SQLitePCL_pretty_ISQLiteValue.htm">
-        <HelpTOCNode Id="eca23edb-c4bd-4b4a-8dc0-b15ad730aaf8" Title="ISQLiteValue Methods" Url="html/Methods_T_SQLitePCL_pretty_ISQLiteValue.htm">
+      <HelpTOCNode Id="dd86dd97-9790-4086-9701-eca60f49acfa" Title="ISQLiteValue Interface" Url="html/T_SQLitePCL_pretty_ISQLiteValue.htm">
+        <HelpTOCNode Id="cbbc7205-471c-42cf-ab8f-c4df04ef9708" Title="ISQLiteValue Methods" Url="html/Methods_T_SQLitePCL_pretty_ISQLiteValue.htm">
           <HelpTOCNode Title="ToBlob Method " Url="html/M_SQLitePCL_pretty_ISQLiteValue_ToBlob.htm" />
           <HelpTOCNode Title="ToDouble Method " Url="html/M_SQLitePCL_pretty_ISQLiteValue_ToDouble.htm" />
           <HelpTOCNode Title="ToInt Method " Url="html/M_SQLitePCL_pretty_ISQLiteValue_ToInt.htm" />
           <HelpTOCNode Title="ToInt64 Method " Url="html/M_SQLitePCL_pretty_ISQLiteValue_ToInt64.htm" />
           <HelpTOCNode Title="ToString Method " Url="html/M_SQLitePCL_pretty_ISQLiteValue_ToString.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="afbbeea0-1c8d-4e21-9caf-c35a6388528d" Title="ISQLiteValue Properties" Url="html/Properties_T_SQLitePCL_pretty_ISQLiteValue.htm">
+        <HelpTOCNode Id="62e458a3-046f-4033-8a90-f652de9aaccc" Title="ISQLiteValue Properties" Url="html/Properties_T_SQLitePCL_pretty_ISQLiteValue.htm">
           <HelpTOCNode Title="Length Property " Url="html/P_SQLitePCL_pretty_ISQLiteValue_Length.htm" />
           <HelpTOCNode Title="SQLiteType Property " Url="html/P_SQLitePCL_pretty_ISQLiteValue_SQLiteType.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b0a7431a-e20d-4e69-8f10-2f7e111d7ede" Title="IStatement Interface" Url="html/T_SQLitePCL_pretty_IStatement.htm">
-        <HelpTOCNode Id="8192ed48-7640-4973-9f97-cb0dd2364950" Title="IStatement Methods" Url="html/Methods_T_SQLitePCL_pretty_IStatement.htm">
+      <HelpTOCNode Id="d4e47a6a-8dd8-4eab-a3d1-86269a6d9850" Title="IStatement Interface" Url="html/T_SQLitePCL_pretty_IStatement.htm">
+        <HelpTOCNode Id="ab536450-1d90-4458-a0c6-1c168114480b" Title="IStatement Methods" Url="html/Methods_T_SQLitePCL_pretty_IStatement.htm">
           <HelpTOCNode Title="ClearBindings Method " Url="html/M_SQLitePCL_pretty_IStatement_ClearBindings.htm" />
           <HelpTOCNode Title="Status Method " Url="html/M_SQLitePCL_pretty_IStatement_Status.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8217d23f-5638-44a6-9d5b-0e358facdfcd" Title="IStatement Properties" Url="html/Properties_T_SQLitePCL_pretty_IStatement.htm">
+        <HelpTOCNode Id="6d045ecb-5d88-4012-915e-7e3241a112f0" Title="IStatement Properties" Url="html/Properties_T_SQLitePCL_pretty_IStatement.htm">
           <HelpTOCNode Title="BindParameters Property " Url="html/P_SQLitePCL_pretty_IStatement_BindParameters.htm" />
           <HelpTOCNode Title="Columns Property " Url="html/P_SQLitePCL_pretty_IStatement_Columns.htm" />
           <HelpTOCNode Title="IsBusy Property " Url="html/P_SQLitePCL_pretty_IStatement_IsBusy.htm" />
@@ -296,92 +285,92 @@
           <HelpTOCNode Title="SQL Property " Url="html/P_SQLitePCL_pretty_IStatement_SQL.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="6b14193e-2ebb-4596-962c-13c3e4f1718c" Title="ResultSet Class" Url="html/T_SQLitePCL_pretty_ResultSet.htm">
-        <HelpTOCNode Id="45937d3a-882a-4f7f-a49f-b6850abf6842" Title="ResultSet Methods" Url="html/Methods_T_SQLitePCL_pretty_ResultSet.htm">
+      <HelpTOCNode Id="d9e8ddcd-7bc6-4ad8-a927-bbd2f24be913" Title="ResultSet Class" Url="html/T_SQLitePCL_pretty_ResultSet.htm">
+        <HelpTOCNode Id="0e49abc7-c3d2-4837-91fb-f740007d7910" Title="ResultSet Methods" Url="html/Methods_T_SQLitePCL_pretty_ResultSet.htm">
           <HelpTOCNode Title="Columns Method " Url="html/M_SQLitePCL_pretty_ResultSet_Columns.htm" />
-          <HelpTOCNode Id="14378dc3-41f0-4821-855e-8fbbec54b63a" Title="SelectScalar Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalar.htm">
+          <HelpTOCNode Id="db82b05c-9b03-4adb-98e3-ca098e7bce52" Title="SelectScalar Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalar.htm">
             <HelpTOCNode Title="SelectScalar Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalar.htm" />
             <HelpTOCNode Title="SelectScalar Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalar_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="3236706c-0251-48da-82b4-fb744536c74b" Title="SelectScalarBlob Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarBlob.htm">
+          <HelpTOCNode Id="42533edb-5f44-4b6e-a4b6-f4073d907af7" Title="SelectScalarBlob Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarBlob.htm">
             <HelpTOCNode Title="SelectScalarBlob Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarBlob.htm" />
             <HelpTOCNode Title="SelectScalarBlob Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarBlob_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="a1f43ba3-9019-4295-9021-089d5cfb5162" Title="SelectScalarBool Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarBool.htm">
+          <HelpTOCNode Id="961ffac5-2331-4efa-8562-66278c815c93" Title="SelectScalarBool Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarBool.htm">
             <HelpTOCNode Title="SelectScalarBool Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarBool.htm" />
             <HelpTOCNode Title="SelectScalarBool Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarBool_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="ad3e89fe-35fd-4c10-bc18-6b706adabfb9" Title="SelectScalarByte Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarByte.htm">
+          <HelpTOCNode Id="928fae68-6ccb-4e4a-b819-3a163ded8a0e" Title="SelectScalarByte Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarByte.htm">
             <HelpTOCNode Title="SelectScalarByte Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarByte.htm" />
             <HelpTOCNode Title="SelectScalarByte Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarByte_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="1676a0ab-e854-4b55-8ffb-5bbb87ea44b0" Title="SelectScalarDateTime Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarDateTime.htm">
+          <HelpTOCNode Id="8566843e-3287-4ca8-adbe-bc1dc595ad77" Title="SelectScalarDateTime Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarDateTime.htm">
             <HelpTOCNode Title="SelectScalarDateTime Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarDateTime.htm" />
             <HelpTOCNode Title="SelectScalarDateTime Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarDateTime_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="548401bf-c1d4-4cb5-ae5e-51cc83f46351" Title="SelectScalarDateTimeOffset Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarDateTimeOffset.htm">
+          <HelpTOCNode Id="4cc444de-2dc1-476a-b3fc-a18fa430dd80" Title="SelectScalarDateTimeOffset Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarDateTimeOffset.htm">
             <HelpTOCNode Title="SelectScalarDateTimeOffset Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarDateTimeOffset.htm" />
             <HelpTOCNode Title="SelectScalarDateTimeOffset Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarDateTimeOffset_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="bce1bc7d-91c9-4a2d-a332-ff5358c4e39b" Title="SelectScalarDecimal Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarDecimal.htm">
+          <HelpTOCNode Id="65485b1c-b323-4847-bb5c-0998201b58b5" Title="SelectScalarDecimal Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarDecimal.htm">
             <HelpTOCNode Title="SelectScalarDecimal Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarDecimal.htm" />
             <HelpTOCNode Title="SelectScalarDecimal Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarDecimal_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="77a161e5-37fd-404d-81b6-060ada7734f3" Title="SelectScalarDouble Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarDouble.htm">
+          <HelpTOCNode Id="21ee1322-cbcf-4ce9-8b34-f2853be27e6f" Title="SelectScalarDouble Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarDouble.htm">
             <HelpTOCNode Title="SelectScalarDouble Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarDouble.htm" />
             <HelpTOCNode Title="SelectScalarDouble Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarDouble_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="a5597db8-3345-4182-948d-5702716d7a71" Title="SelectScalarFloat Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarFloat.htm">
+          <HelpTOCNode Id="2ddd01bc-aeef-4079-b180-588a37b2f002" Title="SelectScalarFloat Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarFloat.htm">
             <HelpTOCNode Title="SelectScalarFloat Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarFloat.htm" />
             <HelpTOCNode Title="SelectScalarFloat Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarFloat_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="72f5299e-2612-410d-afe7-e12ce47c4662" Title="SelectScalarGuid Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarGuid.htm">
+          <HelpTOCNode Id="a5e59805-e2f8-4b82-95cf-a04138b2f295" Title="SelectScalarGuid Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarGuid.htm">
             <HelpTOCNode Title="SelectScalarGuid Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarGuid.htm" />
             <HelpTOCNode Title="SelectScalarGuid Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarGuid_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="c683ddd0-e867-48ce-aa0d-32c130bd261a" Title="SelectScalarInt Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarInt.htm">
+          <HelpTOCNode Id="ef890844-bfd6-4c19-a775-1c51fc7694df" Title="SelectScalarInt Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarInt.htm">
             <HelpTOCNode Title="SelectScalarInt Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarInt.htm" />
             <HelpTOCNode Title="SelectScalarInt Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarInt_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="bc74d946-ac77-4bc8-93c2-5ba4c8b8a2a1" Title="SelectScalarInt64 Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarInt64.htm">
+          <HelpTOCNode Id="f25f2fa1-b523-40ce-9139-94792c597f00" Title="SelectScalarInt64 Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarInt64.htm">
             <HelpTOCNode Title="SelectScalarInt64 Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarInt64.htm" />
             <HelpTOCNode Title="SelectScalarInt64 Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarInt64_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="a5773cba-b08e-4146-8dcd-37253e9bdc0a" Title="SelectScalarSByte Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarSByte.htm">
+          <HelpTOCNode Id="3ded9e79-a46f-405c-afa3-c12c93c558c1" Title="SelectScalarSByte Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarSByte.htm">
             <HelpTOCNode Title="SelectScalarSByte Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarSByte.htm" />
             <HelpTOCNode Title="SelectScalarSByte Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarSByte_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="6ca77750-5c8c-4d2a-8730-25529738d333" Title="SelectScalarShort Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarShort.htm">
+          <HelpTOCNode Id="91715670-3aa6-4f80-87a0-80e43a23bd8d" Title="SelectScalarShort Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarShort.htm">
             <HelpTOCNode Title="SelectScalarShort Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarShort.htm" />
             <HelpTOCNode Title="SelectScalarShort Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarShort_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="5cece80c-3243-4429-a3dc-4bf8b7947d69" Title="SelectScalarString Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarString.htm">
+          <HelpTOCNode Id="515254d6-198c-4832-bd84-d6961e0eb50b" Title="SelectScalarString Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarString.htm">
             <HelpTOCNode Title="SelectScalarString Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarString.htm" />
             <HelpTOCNode Title="SelectScalarString Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarString_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="a0bc5aa1-fede-428c-88dc-db379012c6ee" Title="SelectScalarTimeSpan Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarTimeSpan.htm">
+          <HelpTOCNode Id="0aa821fc-64db-4faa-a6d9-9a795c0dc725" Title="SelectScalarTimeSpan Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarTimeSpan.htm">
             <HelpTOCNode Title="SelectScalarTimeSpan Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarTimeSpan.htm" />
             <HelpTOCNode Title="SelectScalarTimeSpan Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarTimeSpan_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="8a53e480-66b9-4b16-953e-827a27927ee8" Title="SelectScalarUInt16 Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarUInt16.htm">
+          <HelpTOCNode Id="62213ec9-f169-4366-83c2-2a65f836e1ce" Title="SelectScalarUInt16 Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarUInt16.htm">
             <HelpTOCNode Title="SelectScalarUInt16 Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarUInt16.htm" />
             <HelpTOCNode Title="SelectScalarUInt16 Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarUInt16_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="acdd2e6b-cbe9-475f-b2a5-c35ed9c762e8" Title="SelectScalarUInt32 Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarUInt32.htm">
+          <HelpTOCNode Id="05c8e2e8-7cff-4ece-9cd8-6f5d35dc29ad" Title="SelectScalarUInt32 Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarUInt32.htm">
             <HelpTOCNode Title="SelectScalarUInt32 Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarUInt32.htm" />
             <HelpTOCNode Title="SelectScalarUInt32 Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarUInt32_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="585616e4-c19c-465b-90e2-504e3ee3bd1b" Title="SelectScalarUri Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarUri.htm">
+          <HelpTOCNode Id="c6a16b2a-03a8-4a6a-99bf-a9c85b120d02" Title="SelectScalarUri Method " Url="html/Overload_SQLitePCL_pretty_ResultSet_SelectScalarUri.htm">
             <HelpTOCNode Title="SelectScalarUri Method (IObservable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarUri.htm" />
             <HelpTOCNode Title="SelectScalarUri Method (IEnumerable(IReadOnlyList(IResultSetValue)))" Url="html/M_SQLitePCL_pretty_ResultSet_SelectScalarUri_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bc1ff9f3-a1df-4a32-8970-dcee15a50a52" Title="SQLite3 Class" Url="html/T_SQLitePCL_pretty_SQLite3.htm">
-        <HelpTOCNode Id="301f8f40-b7fe-4a5f-bc0b-f4390356303e" Title="SQLite3 Methods" Url="html/Methods_T_SQLitePCL_pretty_SQLite3.htm">
+      <HelpTOCNode Id="03b517bd-287c-420b-b876-4be98ce16829" Title="SQLite3 Class" Url="html/T_SQLitePCL_pretty_SQLite3.htm">
+        <HelpTOCNode Id="61bbc48c-58dd-4121-8d05-117944b41687" Title="SQLite3 Methods" Url="html/Methods_T_SQLitePCL_pretty_SQLite3.htm">
           <HelpTOCNode Title="CompileOptionUsed Method " Url="html/M_SQLitePCL_pretty_SQLite3_CompileOptionUsed.htm" />
           <HelpTOCNode Title="IsCompleteStatement Method " Url="html/M_SQLitePCL_pretty_SQLite3_IsCompleteStatement.htm" />
-          <HelpTOCNode Id="3afa0161-0dab-45dd-bb26-4a9d8d60e627" Title="Open Method " Url="html/Overload_SQLitePCL_pretty_SQLite3_Open.htm">
+          <HelpTOCNode Id="bc3c934f-dbfa-46e3-8ff3-60cf7beeabce" Title="Open Method " Url="html/Overload_SQLitePCL_pretty_SQLite3_Open.htm">
             <HelpTOCNode Title="Open Method (String)" Url="html/M_SQLitePCL_pretty_SQLite3_Open.htm" />
             <HelpTOCNode Title="Open Method (String, ConnectionFlags, String)" Url="html/M_SQLitePCL_pretty_SQLite3_Open_1.htm" />
           </HelpTOCNode>
@@ -389,7 +378,7 @@
           <HelpTOCNode Title="ResetMemoryHighWater Method " Url="html/M_SQLitePCL_pretty_SQLite3_ResetMemoryHighWater.htm" />
           <HelpTOCNode Title="Status Method " Url="html/M_SQLitePCL_pretty_SQLite3_Status.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="dbc4139d-8a5e-455d-90f9-04d2c1e00a85" Title="SQLite3 Properties" Url="html/Properties_T_SQLitePCL_pretty_SQLite3.htm">
+        <HelpTOCNode Id="dfe4a55f-dec5-4ed6-9b1e-39d845575807" Title="SQLite3 Properties" Url="html/Properties_T_SQLitePCL_pretty_SQLite3.htm">
           <HelpTOCNode Title="CompilerOptions Property " Url="html/P_SQLitePCL_pretty_SQLite3_CompilerOptions.htm" />
           <HelpTOCNode Title="EnableSharedCache Property " Url="html/P_SQLitePCL_pretty_SQLite3_EnableSharedCache.htm" />
           <HelpTOCNode Title="MemoryHighWater Property " Url="html/P_SQLitePCL_pretty_SQLite3_MemoryHighWater.htm" />
@@ -398,8 +387,8 @@
           <HelpTOCNode Title="Version Property " Url="html/P_SQLitePCL_pretty_SQLite3_Version.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="29346ea3-9517-41fb-b877-9c21453851d1" Title="SQLiteDatabaseConnection Class" Url="html/T_SQLitePCL_pretty_SQLiteDatabaseConnection.htm">
-        <HelpTOCNode Id="bca64228-01cb-4cde-8f87-14ddb1dee057" Title="SQLiteDatabaseConnection Methods" Url="html/Methods_T_SQLitePCL_pretty_SQLiteDatabaseConnection.htm">
+      <HelpTOCNode Id="241d588f-cb71-471c-9895-c4180549d022" Title="SQLiteDatabaseConnection Class" Url="html/T_SQLitePCL_pretty_SQLiteDatabaseConnection.htm">
+        <HelpTOCNode Id="1e8952d1-5c4f-440b-9d25-b0f556871530" Title="SQLiteDatabaseConnection Methods" Url="html/Methods_T_SQLitePCL_pretty_SQLiteDatabaseConnection.htm">
           <HelpTOCNode Title="BackupInit Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_BackupInit.htm" />
           <HelpTOCNode Title="DisableAutoCheckPoint Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_DisableAutoCheckPoint.htm" />
           <HelpTOCNode Title="Dispose Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_Dispose.htm" />
@@ -410,10 +399,12 @@
           <HelpTOCNode Title="OpenBlob Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_OpenBlob.htm" />
           <HelpTOCNode Title="PrepareStatement Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_PrepareStatement.htm" />
           <HelpTOCNode Title="RegisterAggregateFunc(T) Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_RegisterAggregateFunc__1.htm" />
+          <HelpTOCNode Title="RegisterAuthorizer Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_RegisterAuthorizer.htm" />
           <HelpTOCNode Title="RegisterCollation Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_RegisterCollation.htm" />
           <HelpTOCNode Title="RegisterCommitHook Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_RegisterCommitHook.htm" />
           <HelpTOCNode Title="RegisterProgressHandler Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_RegisterProgressHandler.htm" />
           <HelpTOCNode Title="RegisterScalarFunc Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_RegisterScalarFunc.htm" />
+          <HelpTOCNode Title="RemoveAuthorizer Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_RemoveAuthorizer.htm" />
           <HelpTOCNode Title="RemoveCollation Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_RemoveCollation.htm" />
           <HelpTOCNode Title="RemoveCommitHook Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_RemoveCommitHook.htm" />
           <HelpTOCNode Title="RemoveFunc Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_RemoveFunc.htm" />
@@ -422,7 +413,7 @@
           <HelpTOCNode Title="TryGetFileName Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_TryGetFileName.htm" />
           <HelpTOCNode Title="WalCheckPoint Method " Url="html/M_SQLitePCL_pretty_SQLiteDatabaseConnection_WalCheckPoint.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b801fce9-1d0b-4afb-a722-9db614140a23" Title="SQLiteDatabaseConnection Properties" Url="html/Properties_T_SQLitePCL_pretty_SQLiteDatabaseConnection.htm">
+        <HelpTOCNode Id="b00ee89e-e7be-4775-a3c0-05a9f064e968" Title="SQLiteDatabaseConnection Properties" Url="html/Properties_T_SQLitePCL_pretty_SQLiteDatabaseConnection.htm">
           <HelpTOCNode Title="BusyTimeout Property " Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_BusyTimeout.htm" />
           <HelpTOCNode Title="Changes Property " Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_Changes.htm" />
           <HelpTOCNode Title="IsAutoCommit Property " Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_IsAutoCommit.htm" />
@@ -431,26 +422,26 @@
           <HelpTOCNode Title="Statements Property " Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_Statements.htm" />
           <HelpTOCNode Title="TotalChanges Property " Url="html/P_SQLitePCL_pretty_SQLiteDatabaseConnection_TotalChanges.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="1afbab18-0613-42ab-91d5-17da38b25fd3" Title="SQLiteDatabaseConnection Events" Url="html/Events_T_SQLitePCL_pretty_SQLiteDatabaseConnection.htm">
+        <HelpTOCNode Id="0c16eda8-34ae-473b-8d9a-db236bc27994" Title="SQLiteDatabaseConnection Events" Url="html/Events_T_SQLitePCL_pretty_SQLiteDatabaseConnection.htm">
           <HelpTOCNode Title="Profile Event" Url="html/E_SQLitePCL_pretty_SQLiteDatabaseConnection_Profile.htm" />
           <HelpTOCNode Title="Rollback Event" Url="html/E_SQLitePCL_pretty_SQLiteDatabaseConnection_Rollback.htm" />
           <HelpTOCNode Title="Trace Event" Url="html/E_SQLitePCL_pretty_SQLiteDatabaseConnection_Trace.htm" />
           <HelpTOCNode Title="Update Event" Url="html/E_SQLitePCL_pretty_SQLiteDatabaseConnection_Update.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="be216719-7725-4d33-b230-44eb0a6585e4" Title="SQLiteException Class" Url="html/T_SQLitePCL_pretty_SQLiteException.htm">
-        <HelpTOCNode Id="15247a51-ef25-4568-9e31-afafb3e776a3" Title="SQLiteException Methods" Url="html/Methods_T_SQLitePCL_pretty_SQLiteException.htm">
+      <HelpTOCNode Id="c6464d69-0e86-4a52-bfbb-275098ac012e" Title="SQLiteException Class" Url="html/T_SQLitePCL_pretty_SQLiteException.htm">
+        <HelpTOCNode Id="b79f1d8a-ead9-420e-af0e-3f8c940276f9" Title="SQLiteException Methods" Url="html/Methods_T_SQLitePCL_pretty_SQLiteException.htm">
           <HelpTOCNode Title="ToString Method " Url="html/M_SQLitePCL_pretty_SQLiteException_ToString.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="85258b50-8338-45d8-aba4-8e577ff5728f" Title="SQLiteException Properties" Url="html/Properties_T_SQLitePCL_pretty_SQLiteException.htm">
+        <HelpTOCNode Id="8793a71c-228f-4cf5-8359-3c2962954416" Title="SQLiteException Properties" Url="html/Properties_T_SQLitePCL_pretty_SQLiteException.htm">
           <HelpTOCNode Title="ErrorCode Property " Url="html/P_SQLitePCL_pretty_SQLiteException_ErrorCode.htm" />
           <HelpTOCNode Title="ExtendedErrorCode Property " Url="html/P_SQLitePCL_pretty_SQLiteException_ExtendedErrorCode.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="SQLiteStatusCode Enumeration" Url="html/T_SQLitePCL_pretty_SQLiteStatusCode.htm" />
       <HelpTOCNode Title="SQLiteType Enumeration" Url="html/T_SQLitePCL_pretty_SQLiteType.htm" />
-      <HelpTOCNode Id="65e4ca0f-4a09-420d-bca4-f622d0fb4b21" Title="SQLiteValue Class" Url="html/T_SQLitePCL_pretty_SQLiteValue.htm">
-        <HelpTOCNode Id="cbd140a0-e6ac-4f8e-b7d1-bbb68dddd48f" Title="SQLiteValue Methods" Url="html/Methods_T_SQLitePCL_pretty_SQLiteValue.htm">
+      <HelpTOCNode Id="3b4409a6-685e-49eb-a95b-847a1115844c" Title="SQLiteValue Class" Url="html/T_SQLitePCL_pretty_SQLiteValue.htm">
+        <HelpTOCNode Id="dada7823-ca73-4809-9135-fe23d36ade1a" Title="SQLiteValue Methods" Url="html/Methods_T_SQLitePCL_pretty_SQLiteValue.htm">
           <HelpTOCNode Title="ToBool Method " Url="html/M_SQLitePCL_pretty_SQLiteValue_ToBool.htm" />
           <HelpTOCNode Title="ToByte Method " Url="html/M_SQLitePCL_pretty_SQLiteValue_ToByte.htm" />
           <HelpTOCNode Title="ToDateTime Method " Url="html/M_SQLitePCL_pretty_SQLiteValue_ToDateTime.htm" />
@@ -460,7 +451,7 @@
           <HelpTOCNode Title="ToGuid Method " Url="html/M_SQLitePCL_pretty_SQLiteValue_ToGuid.htm" />
           <HelpTOCNode Title="ToSByte Method " Url="html/M_SQLitePCL_pretty_SQLiteValue_ToSByte.htm" />
           <HelpTOCNode Title="ToShort Method " Url="html/M_SQLitePCL_pretty_SQLiteValue_ToShort.htm" />
-          <HelpTOCNode Id="a4eb2c8e-eb70-4938-ae46-b50f869aa511" Title="ToSQLiteValue Method " Url="html/Overload_SQLitePCL_pretty_SQLiteValue_ToSQLiteValue.htm">
+          <HelpTOCNode Id="36a666e0-9829-4846-ad80-780431520c90" Title="ToSQLiteValue Method " Url="html/Overload_SQLitePCL_pretty_SQLiteValue_ToSQLiteValue.htm">
             <HelpTOCNode Title="ToSQLiteValue Method (Boolean)" Url="html/M_SQLitePCL_pretty_SQLiteValue_ToSQLiteValue.htm" />
             <HelpTOCNode Title="ToSQLiteValue Method (Byte)" Url="html/M_SQLitePCL_pretty_SQLiteValue_ToSQLiteValue_1.htm" />
             <HelpTOCNode Title="ToSQLiteValue Method (Byte[])" Url="html/M_SQLitePCL_pretty_SQLiteValue_ToSQLiteValue_2.htm" />
@@ -487,17 +478,17 @@
           <HelpTOCNode Title="ToUri Method " Url="html/M_SQLitePCL_pretty_SQLiteValue_ToUri.htm" />
           <HelpTOCNode Title="ZeroBlob Method " Url="html/M_SQLitePCL_pretty_SQLiteValue_ZeroBlob.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a0216a39-3c2b-46ab-bf57-ffd84f9c92a3" Title="SQLiteValue Properties" Url="html/Properties_T_SQLitePCL_pretty_SQLiteValue.htm">
+        <HelpTOCNode Id="e90fb1c1-1f07-426f-bd7e-683e4aff6a76" Title="SQLiteValue Properties" Url="html/Properties_T_SQLitePCL_pretty_SQLiteValue.htm">
           <HelpTOCNode Title="Null Property " Url="html/P_SQLitePCL_pretty_SQLiteValue_Null.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="4bbae469-6de8-47ab-bd92-6c588c73e87a" Title="SQLiteVersion Structure" Url="html/T_SQLitePCL_pretty_SQLiteVersion.htm">
-        <HelpTOCNode Id="06654d5e-6fdf-43c6-bc68-205b5d25f226" Title="SQLiteVersion Methods" Url="html/Methods_T_SQLitePCL_pretty_SQLiteVersion.htm">
-          <HelpTOCNode Id="24b950b4-37d0-47fb-9de1-8f77c98328da" Title="CompareTo Method " Url="html/Overload_SQLitePCL_pretty_SQLiteVersion_CompareTo.htm">
+      <HelpTOCNode Id="dbd79369-efcf-4a10-b9cf-8c8e42b7958b" Title="SQLiteVersion Structure" Url="html/T_SQLitePCL_pretty_SQLiteVersion.htm">
+        <HelpTOCNode Id="eca174dd-9af8-4692-9197-2c45776f40ad" Title="SQLiteVersion Methods" Url="html/Methods_T_SQLitePCL_pretty_SQLiteVersion.htm">
+          <HelpTOCNode Id="8aa4bef1-7b9e-4967-8494-9e1b7964219e" Title="CompareTo Method " Url="html/Overload_SQLitePCL_pretty_SQLiteVersion_CompareTo.htm">
             <HelpTOCNode Title="CompareTo Method (Object)" Url="html/M_SQLitePCL_pretty_SQLiteVersion_CompareTo_1.htm" />
             <HelpTOCNode Title="CompareTo Method (SQLiteVersion)" Url="html/M_SQLitePCL_pretty_SQLiteVersion_CompareTo.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="eca8cae9-69f3-49f8-bfe9-e81bf22d429f" Title="Equals Method " Url="html/Overload_SQLitePCL_pretty_SQLiteVersion_Equals.htm">
+          <HelpTOCNode Id="ff670fb6-6cb8-4812-bf49-b1523da73579" Title="Equals Method " Url="html/Overload_SQLitePCL_pretty_SQLiteVersion_Equals.htm">
             <HelpTOCNode Title="Equals Method (Object)" Url="html/M_SQLitePCL_pretty_SQLiteVersion_Equals_1.htm" />
             <HelpTOCNode Title="Equals Method (SQLiteVersion)" Url="html/M_SQLitePCL_pretty_SQLiteVersion_Equals.htm" />
           </HelpTOCNode>
@@ -505,7 +496,7 @@
           <HelpTOCNode Title="ToInt Method " Url="html/M_SQLitePCL_pretty_SQLiteVersion_ToInt.htm" />
           <HelpTOCNode Title="ToString Method " Url="html/M_SQLitePCL_pretty_SQLiteVersion_ToString.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="085c7ed8-a4a2-496b-8491-3b36978b9bdd" Title="SQLiteVersion Operators" Url="html/Operators_T_SQLitePCL_pretty_SQLiteVersion.htm">
+        <HelpTOCNode Id="ebb2dffa-24ab-49db-bdae-ec7be5faf718" Title="SQLiteVersion Operators" Url="html/Operators_T_SQLitePCL_pretty_SQLiteVersion.htm">
           <HelpTOCNode Title="Equality Operator " Url="html/M_SQLitePCL_pretty_SQLiteVersion_op_Equality.htm" />
           <HelpTOCNode Title="GreaterThan Operator " Url="html/M_SQLitePCL_pretty_SQLiteVersion_op_GreaterThan.htm" />
           <HelpTOCNode Title="GreaterThanOrEqual Operator " Url="html/M_SQLitePCL_pretty_SQLiteVersion_op_GreaterThanOrEqual.htm" />
@@ -513,37 +504,37 @@
           <HelpTOCNode Title="LessThan Operator " Url="html/M_SQLitePCL_pretty_SQLiteVersion_op_LessThan.htm" />
           <HelpTOCNode Title="LessThanOrEqual Operator " Url="html/M_SQLitePCL_pretty_SQLiteVersion_op_LessThanOrEqual.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="87d84803-e7d1-4b82-a023-1f6fcb2c5d5c" Title="SQLiteVersion Properties" Url="html/Properties_T_SQLitePCL_pretty_SQLiteVersion.htm">
+        <HelpTOCNode Id="aaa4dcf4-e614-4805-990a-faec0ab38810" Title="SQLiteVersion Properties" Url="html/Properties_T_SQLitePCL_pretty_SQLiteVersion.htm">
           <HelpTOCNode Title="Major Property " Url="html/P_SQLitePCL_pretty_SQLiteVersion_Major.htm" />
           <HelpTOCNode Title="Minor Property " Url="html/P_SQLitePCL_pretty_SQLiteVersion_Minor.htm" />
           <HelpTOCNode Title="Release Property " Url="html/P_SQLitePCL_pretty_SQLiteVersion_Release.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="5f57809f-3249-4bb5-936f-a4209113b0cb" Title="Statement Class" Url="html/T_SQLitePCL_pretty_Statement.htm">
-        <HelpTOCNode Id="6ac64f6b-c28a-40f2-8c19-978cd9b746c2" Title="Statement Methods" Url="html/Methods_T_SQLitePCL_pretty_Statement.htm">
+      <HelpTOCNode Id="18a04085-2292-41a5-aa21-5fa00310830c" Title="Statement Class" Url="html/T_SQLitePCL_pretty_Statement.htm">
+        <HelpTOCNode Id="20226e83-98a4-4de0-ab63-0f0c4c490351" Title="Statement Methods" Url="html/Methods_T_SQLitePCL_pretty_Statement.htm">
           <HelpTOCNode Title="Bind Method " Url="html/M_SQLitePCL_pretty_Statement_Bind.htm" />
           <HelpTOCNode Title="Execute Method " Url="html/M_SQLitePCL_pretty_Statement_Execute.htm" />
-          <HelpTOCNode Id="eabe36f8-ec33-421b-9ea5-4e56c9c2234e" Title="Query Method " Url="html/Overload_SQLitePCL_pretty_Statement_Query.htm">
+          <HelpTOCNode Id="529798a0-00c7-42e2-8088-5d7e93649fc4" Title="Query Method " Url="html/Overload_SQLitePCL_pretty_Statement_Query.htm">
             <HelpTOCNode Title="Query Method (IStatement)" Url="html/M_SQLitePCL_pretty_Statement_Query.htm" />
             <HelpTOCNode Title="Query Method (IStatement, Object[])" Url="html/M_SQLitePCL_pretty_Statement_Query_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="StatementStatusCode Enumeration" Url="html/T_SQLitePCL_pretty_StatementStatusCode.htm" />
-      <HelpTOCNode Id="e95812a4-bd5a-4659-84a2-06c6ca951c48" Title="TableColumnMetadata Class" Url="html/T_SQLitePCL_pretty_TableColumnMetadata.htm">
-        <HelpTOCNode Id="0b6581de-da07-4b6f-9a8e-fcdac0ae0b6e" Title="TableColumnMetadata Methods" Url="html/Methods_T_SQLitePCL_pretty_TableColumnMetadata.htm">
-          <HelpTOCNode Id="305550ed-a2e1-4d78-bac9-e95d5695d728" Title="CompareTo Method " Url="html/Overload_SQLitePCL_pretty_TableColumnMetadata_CompareTo.htm">
+      <HelpTOCNode Id="3543d601-4970-426a-86ce-6ad3f27483c6" Title="TableColumnMetadata Class" Url="html/T_SQLitePCL_pretty_TableColumnMetadata.htm">
+        <HelpTOCNode Id="2a947ea2-74c2-4ab6-ab9d-5385fc7a57b3" Title="TableColumnMetadata Methods" Url="html/Methods_T_SQLitePCL_pretty_TableColumnMetadata.htm">
+          <HelpTOCNode Id="b8d9c51c-a477-40dc-8aa0-a8278c525a7d" Title="CompareTo Method " Url="html/Overload_SQLitePCL_pretty_TableColumnMetadata_CompareTo.htm">
             <HelpTOCNode Title="CompareTo Method (Object)" Url="html/M_SQLitePCL_pretty_TableColumnMetadata_CompareTo_1.htm" />
             <HelpTOCNode Title="CompareTo Method (TableColumnMetadata)" Url="html/M_SQLitePCL_pretty_TableColumnMetadata_CompareTo.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="6e3c42e0-e454-40d6-8d57-32d1f23c9d07" Title="Equals Method " Url="html/Overload_SQLitePCL_pretty_TableColumnMetadata_Equals.htm">
+          <HelpTOCNode Id="bc43030d-df5c-476a-94eb-d5cb7e41e29f" Title="Equals Method " Url="html/Overload_SQLitePCL_pretty_TableColumnMetadata_Equals.htm">
             <HelpTOCNode Title="Equals Method (Object)" Url="html/M_SQLitePCL_pretty_TableColumnMetadata_Equals_1.htm" />
             <HelpTOCNode Title="Equals Method (TableColumnMetadata)" Url="html/M_SQLitePCL_pretty_TableColumnMetadata_Equals.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="GetHashCode Method " Url="html/M_SQLitePCL_pretty_TableColumnMetadata_GetHashCode.htm" />
           <HelpTOCNode Title="ToString Method " Url="html/M_SQLitePCL_pretty_TableColumnMetadata_ToString.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="95ddcfab-042a-4bbc-a89b-d96a75221f79" Title="TableColumnMetadata Operators" Url="html/Operators_T_SQLitePCL_pretty_TableColumnMetadata.htm">
+        <HelpTOCNode Id="feb34a6e-d3d1-4847-b5d4-23e9c1dc5d4e" Title="TableColumnMetadata Operators" Url="html/Operators_T_SQLitePCL_pretty_TableColumnMetadata.htm">
           <HelpTOCNode Title="Equality Operator " Url="html/M_SQLitePCL_pretty_TableColumnMetadata_op_Equality.htm" />
           <HelpTOCNode Title="GreaterThan Operator " Url="html/M_SQLitePCL_pretty_TableColumnMetadata_op_GreaterThan.htm" />
           <HelpTOCNode Title="GreaterThanOrEqual Operator " Url="html/M_SQLitePCL_pretty_TableColumnMetadata_op_GreaterThanOrEqual.htm" />
@@ -551,7 +542,7 @@
           <HelpTOCNode Title="LessThan Operator " Url="html/M_SQLitePCL_pretty_TableColumnMetadata_op_LessThan.htm" />
           <HelpTOCNode Title="LessThanOrEqual Operator " Url="html/M_SQLitePCL_pretty_TableColumnMetadata_op_LessThanOrEqual.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e7c4a654-650b-402b-9f03-524bae9e750b" Title="TableColumnMetadata Properties" Url="html/Properties_T_SQLitePCL_pretty_TableColumnMetadata.htm">
+        <HelpTOCNode Id="ed01722b-e946-470a-a6cb-0850fca45495" Title="TableColumnMetadata Properties" Url="html/Properties_T_SQLitePCL_pretty_TableColumnMetadata.htm">
           <HelpTOCNode Title="CollationSequence Property " Url="html/P_SQLitePCL_pretty_TableColumnMetadata_CollationSequence.htm" />
           <HelpTOCNode Title="DeclaredType Property " Url="html/P_SQLitePCL_pretty_TableColumnMetadata_DeclaredType.htm" />
           <HelpTOCNode Title="HasNotNullConstraint Property " Url="html/P_SQLitePCL_pretty_TableColumnMetadata_HasNotNullConstraint.htm" />
@@ -562,41 +553,41 @@
       <HelpTOCNode Title="TransactionMode Enumeration" Url="html/T_SQLitePCL_pretty_TransactionMode.htm" />
       <HelpTOCNode Title="WalCheckPointMode Enumeration" Url="html/T_SQLitePCL_pretty_WalCheckPointMode.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="f8111574-fd78-4781-bc53-5487fe1f0062" Title="SQLitePCL.pretty.Orm" Url="html/N_SQLitePCL_pretty_Orm.htm">
-      <HelpTOCNode Id="43d8c2f3-91f9-4e3f-8795-d640a0fa291c" Title="AsyncDatabaseConnection Class" Url="html/T_SQLitePCL_pretty_Orm_AsyncDatabaseConnection.htm">
-        <HelpTOCNode Id="8143a02d-19df-4fd0-bf5c-f8410aa2f767" Title="AsyncDatabaseConnection Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_AsyncDatabaseConnection.htm">
-          <HelpTOCNode Id="5e480071-9cc1-4f31-b804-e6181179c667" Title="DeleteAllAsync Method " Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DeleteAllAsync.htm">
+    <HelpTOCNode Id="87b5f779-992b-48e5-89cd-06e195671535" Title="SQLitePCL.pretty.Orm" Url="html/N_SQLitePCL_pretty_Orm.htm">
+      <HelpTOCNode Id="77a14f09-1c12-4193-a793-b711198b632c" Title="AsyncDatabaseConnection Class" Url="html/T_SQLitePCL_pretty_Orm_AsyncDatabaseConnection.htm">
+        <HelpTOCNode Id="8f9f3d81-7860-4a1c-84d3-abc414ad9803" Title="AsyncDatabaseConnection Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_AsyncDatabaseConnection.htm">
+          <HelpTOCNode Id="224aae46-b7a8-40ce-8eae-e3bf5a690918" Title="DeleteAllAsync Method " Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DeleteAllAsync.htm">
             <HelpTOCNode Title="DeleteAllAsync(T) Method (IAsyncDatabaseConnection, IEnumerable(Int64), Func(IReadOnlyList(IResultSetValue), T))" Url="html/M_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DeleteAllAsync__1.htm" />
             <HelpTOCNode Title="DeleteAllAsync(T) Method (IAsyncDatabaseConnection, IEnumerable(Int64), Func(IReadOnlyList(IResultSetValue), T), CancellationToken)" Url="html/M_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DeleteAllAsync__1_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="628cd8ef-c1af-431f-99b4-7b357c0d003c" Title="DeleteAllRowsAsync Method " Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DeleteAllRowsAsync.htm">
+          <HelpTOCNode Id="b73348a0-df5d-47f3-8ffb-5bbcf66bcc2b" Title="DeleteAllRowsAsync Method " Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DeleteAllRowsAsync.htm">
             <HelpTOCNode Title="DeleteAllRowsAsync(T) Method (IAsyncDatabaseConnection)" Url="html/M_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DeleteAllRowsAsync__1.htm" />
             <HelpTOCNode Title="DeleteAllRowsAsync(T) Method (IAsyncDatabaseConnection, CancellationToken)" Url="html/M_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DeleteAllRowsAsync__1_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="22570e2e-c89c-4367-ac5a-53a2930ac138" Title="DropTableIfExistsAsync Method " Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DropTableIfExistsAsync.htm">
+          <HelpTOCNode Id="021a8b13-5d5c-49a4-ae63-22b14f589c17" Title="DropTableIfExistsAsync Method " Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DropTableIfExistsAsync.htm">
             <HelpTOCNode Title="DropTableIfExistsAsync(T) Method (IAsyncDatabaseConnection)" Url="html/M_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DropTableIfExistsAsync__1.htm" />
             <HelpTOCNode Title="DropTableIfExistsAsync(T) Method (IAsyncDatabaseConnection, CancellationToken)" Url="html/M_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_DropTableIfExistsAsync__1_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="57b8aba9-0358-486f-a48c-b4d28472043a" Title="FindAllAsync Method " Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_FindAllAsync.htm">
+          <HelpTOCNode Id="6d41e98d-3d06-48e5-b91c-40780e92e5dc" Title="FindAllAsync Method " Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_FindAllAsync.htm">
             <HelpTOCNode Title="FindAllAsync(T) Method (IAsyncDatabaseConnection, IEnumerable(Int64), Func(IReadOnlyList(IResultSetValue), T))" Url="html/M_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_FindAllAsync__1.htm" />
             <HelpTOCNode Title="FindAllAsync(T) Method (IAsyncDatabaseConnection, IEnumerable(Int64), Func(IReadOnlyList(IResultSetValue), T), CancellationToken)" Url="html/M_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_FindAllAsync__1_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="1c08b873-63cb-4669-ac75-e2857b3c0bf6" Title="InitTableAsync Method " Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_InitTableAsync.htm">
+          <HelpTOCNode Id="d1642100-ac7e-49e6-9454-6994bee3c711" Title="InitTableAsync Method " Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_InitTableAsync.htm">
             <HelpTOCNode Title="InitTableAsync(T) Method (IAsyncDatabaseConnection)" Url="html/M_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_InitTableAsync__1.htm" />
             <HelpTOCNode Title="InitTableAsync(T) Method (IAsyncDatabaseConnection, CancellationToken)" Url="html/M_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_InitTableAsync__1_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="6f8da400-4836-46ee-8328-e6225682b1a7" Title="InsertOrReplaceAllAsync Method " Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_InsertOrReplaceAllAsync.htm">
+          <HelpTOCNode Id="5dee82d0-fa8a-4637-9b4f-3291bbd9cfc7" Title="InsertOrReplaceAllAsync Method " Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_InsertOrReplaceAllAsync.htm">
             <HelpTOCNode Title="InsertOrReplaceAllAsync(T) Method (IAsyncDatabaseConnection, IEnumerable(T), Func(IReadOnlyList(IResultSetValue), T))" Url="html/M_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_InsertOrReplaceAllAsync__1.htm" />
             <HelpTOCNode Title="InsertOrReplaceAllAsync(T) Method (IAsyncDatabaseConnection, IEnumerable(T), Func(IReadOnlyList(IResultSetValue), T), CancellationToken)" Url="html/M_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_InsertOrReplaceAllAsync__1_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="9c3d45f8-4b7f-49cc-b39e-0fd6bd087d90" Title="Query Method " Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_Query.htm">
+          <HelpTOCNode Id="b4ccf99b-3220-4429-8121-8fa90771f800" Title="Query Method " Url="html/Overload_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_Query.htm">
             <HelpTOCNode Title="Query Method (IAsyncDatabaseConnection, ISqlQuery)" Url="html/M_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_Query.htm" />
             <HelpTOCNode Title="Query Method (IAsyncDatabaseConnection, ISqlQuery, Object[])" Url="html/M_SQLitePCL_pretty_Orm_AsyncDatabaseConnection_Query_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="8e85829b-6931-493c-96ff-5152bd8b97a8" Title="DatabaseConnection Class" Url="html/T_SQLitePCL_pretty_Orm_DatabaseConnection.htm">
-        <HelpTOCNode Id="5d179df0-750d-4bda-a022-01c1e07934b7" Title="DatabaseConnection Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_DatabaseConnection.htm">
+      <HelpTOCNode Id="d2068401-ab50-4207-889c-29e9099bf89a" Title="DatabaseConnection Class" Url="html/T_SQLitePCL_pretty_Orm_DatabaseConnection.htm">
+        <HelpTOCNode Id="5f943814-e067-40e5-ae7f-96f10863f896" Title="DatabaseConnection Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_DatabaseConnection.htm">
           <HelpTOCNode Title="DeleteAll(T) Method " Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_DeleteAll__1.htm" />
           <HelpTOCNode Title="DeleteAllRows(T) Method " Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_DeleteAllRows__1.htm" />
           <HelpTOCNode Title="DropTableIfExists(T) Method " Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_DropTableIfExists__1.htm" />
@@ -608,7 +599,7 @@
           <HelpTOCNode Title="PrepareFindStatement(T) Method " Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareFindStatement__1.htm" />
           <HelpTOCNode Title="PrepareInsertOrReplaceStatement(T) Method " Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareInsertOrReplaceStatement__1.htm" />
           <HelpTOCNode Title="PrepareStatement Method " Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_PrepareStatement.htm" />
-          <HelpTOCNode Id="d387e7ac-b07a-4207-8cbc-bfe4a84f4a3d" Title="Query Method " Url="html/Overload_SQLitePCL_pretty_Orm_DatabaseConnection_Query.htm">
+          <HelpTOCNode Id="527b99b5-51d5-490c-b086-5934305adc7c" Title="Query Method " Url="html/Overload_SQLitePCL_pretty_Orm_DatabaseConnection_Query.htm">
             <HelpTOCNode Title="Query Method (IDatabaseConnection, ISqlQuery)" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_Query.htm" />
             <HelpTOCNode Title="Query Method (IDatabaseConnection, ISqlQuery, Object[])" Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_Query_1.htm" />
           </HelpTOCNode>
@@ -616,29 +607,29 @@
           <HelpTOCNode Title="TryFind(T) Method " Url="html/M_SQLitePCL_pretty_Orm_DatabaseConnection_TryFind__1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="55574fed-3b08-438d-83e0-cd7ffb9e7475" Title="ResultSet Class" Url="html/T_SQLitePCL_pretty_Orm_ResultSet.htm">
-        <HelpTOCNode Id="9c793e84-f42a-4869-86e5-2ce08a502c0a" Title="ResultSet Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_ResultSet.htm">
-          <HelpTOCNode Id="095b09bf-46d1-4696-8234-483631441222" Title="RowToObject Method " Url="html/Overload_SQLitePCL_pretty_Orm_ResultSet_RowToObject.htm">
+      <HelpTOCNode Id="ebd348bd-1906-48c1-ab68-5bcaf2eca12b" Title="ResultSet Class" Url="html/T_SQLitePCL_pretty_Orm_ResultSet.htm">
+        <HelpTOCNode Id="3de66c6f-50a1-4ae7-82eb-699e3b4203a9" Title="ResultSet Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_ResultSet.htm">
+          <HelpTOCNode Id="5353e6b4-dcd5-425e-a288-8766cfd0062d" Title="RowToObject Method " Url="html/Overload_SQLitePCL_pretty_Orm_ResultSet_RowToObject.htm">
             <HelpTOCNode Title="RowToObject(T) Method " Url="html/M_SQLitePCL_pretty_Orm_ResultSet_RowToObject__1.htm" />
             <HelpTOCNode Title="RowToObject(TBuilder, T) Method (Func(TBuilder), Func(TBuilder, T))" Url="html/M_SQLitePCL_pretty_Orm_ResultSet_RowToObject__2.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="be29a643-15ba-464b-9e99-a81c5896d254" Title="SqlMethods Class" Url="html/T_SQLitePCL_pretty_Orm_SqlMethods.htm">
-        <HelpTOCNode Id="3661812d-9fb3-4dae-849f-29c120e9dbe4" Title="SqlMethods Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_SqlMethods.htm">
-          <HelpTOCNode Id="8d8fdb6f-6b79-4f21-967e-55eb24824cf7" Title="Is Method " Url="html/Overload_SQLitePCL_pretty_Orm_SqlMethods_Is.htm">
+      <HelpTOCNode Id="60f6fe08-beb4-4bb6-a377-33cd8b3632bf" Title="SqlMethods Class" Url="html/T_SQLitePCL_pretty_Orm_SqlMethods.htm">
+        <HelpTOCNode Id="b3b71823-b277-4c5d-b28c-cb32f6828276" Title="SqlMethods Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_SqlMethods.htm">
+          <HelpTOCNode Id="0bba6fb1-460a-432b-814a-95ee4acdb4fe" Title="Is Method " Url="html/Overload_SQLitePCL_pretty_Orm_SqlMethods_Is.htm">
             <HelpTOCNode Title="Is(T) Method (Nullable(T), Nullable(T))" Url="html/M_SQLitePCL_pretty_Orm_SqlMethods_Is__1.htm" />
             <HelpTOCNode Title="Is(T) Method (T, T)" Url="html/M_SQLitePCL_pretty_Orm_SqlMethods_Is__1_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="449848a0-fae1-4dbd-99d1-284c7f00a8aa" Title="IsNot Method " Url="html/Overload_SQLitePCL_pretty_Orm_SqlMethods_IsNot.htm">
+          <HelpTOCNode Id="4171443e-7583-4641-ba03-4d46396024fe" Title="IsNot Method " Url="html/Overload_SQLitePCL_pretty_Orm_SqlMethods_IsNot.htm">
             <HelpTOCNode Title="IsNot(T) Method (Nullable(T), Nullable(T))" Url="html/M_SQLitePCL_pretty_Orm_SqlMethods_IsNot__1.htm" />
             <HelpTOCNode Title="IsNot(T) Method (T, T)" Url="html/M_SQLitePCL_pretty_Orm_SqlMethods_IsNot__1_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="2dce88c9-26ca-48df-a539-640aa5d097ba" Title="SqlQuery Class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery.htm">
-        <HelpTOCNode Id="df1c0e73-094d-4270-b0f6-e2d32a715733" Title="SqlQuery Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_SqlQuery.htm">
-          <HelpTOCNode Id="0247d926-484b-4f19-8533-11e22ad3104a" Title="From Method " Url="html/Overload_SQLitePCL_pretty_Orm_SqlQuery_From.htm">
+      <HelpTOCNode Id="afe31665-9e4d-4cd8-8259-9ee4aba7e396" Title="SqlQuery Class" Url="html/T_SQLitePCL_pretty_Orm_SqlQuery.htm">
+        <HelpTOCNode Id="033dcefb-bfee-4edf-b4df-5913ad04feb2" Title="SqlQuery Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_SqlQuery.htm">
+          <HelpTOCNode Id="4e561f16-8cc7-405f-8946-c531b0da0873" Title="From Method " Url="html/Overload_SQLitePCL_pretty_Orm_SqlQuery_From.htm">
             <HelpTOCNode Title="From(T) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_From__1.htm" />
             <HelpTOCNode Title="From(T1, T2) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_From__2.htm" />
             <HelpTOCNode Title="From(T1, T2, T3) Method " Url="html/M_SQLitePCL_pretty_Orm_SqlQuery_From__3.htm" />
@@ -646,163 +637,200 @@
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="53949ae3-0a95-4fd6-bc8a-c098b1b00f73" Title="Statement Class" Url="html/T_SQLitePCL_pretty_Orm_Statement.htm">
-        <HelpTOCNode Id="9e4b5c08-5c05-4167-a619-065901cfc663" Title="Statement Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Statement.htm">
+      <HelpTOCNode Id="40750e5c-5c91-4f57-8179-0bf6aa9fd19a" Title="Statement Class" Url="html/T_SQLitePCL_pretty_Orm_Statement.htm">
+        <HelpTOCNode Id="fef5e2c8-6ac9-445e-add1-5a45e1e661d2" Title="Statement Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Statement.htm">
           <HelpTOCNode Title="BindProperties(T) Method " Url="html/M_SQLitePCL_pretty_Orm_Statement_BindProperties__1.htm" />
           <HelpTOCNode Title="ExecuteWithProperties(T) Method " Url="html/M_SQLitePCL_pretty_Orm_Statement_ExecuteWithProperties__1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="28cebd41-3680-4ffb-b10a-b0f887dcea85" Title="SQLitePCL.pretty.Orm.Attributes" Url="html/N_SQLitePCL_pretty_Orm_Attributes.htm">
-      <HelpTOCNode Id="75028ed7-c1f4-4485-a6c5-35c3f003ed4b" Title="CollationAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_CollationAttribute.htm">
+    <HelpTOCNode Id="a150f910-eaa4-4b5b-b40c-93573087c8c3" Title="SQLitePCL.pretty.Orm.Attributes" Url="html/N_SQLitePCL_pretty_Orm_Attributes.htm">
+      <HelpTOCNode Id="595cfe80-bf7c-4c54-8ac0-84fa4abe7016" Title="CollationAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_CollationAttribute.htm">
         <HelpTOCNode Title="CollationAttribute Constructor " Url="html/M_SQLitePCL_pretty_Orm_Attributes_CollationAttribute__ctor.htm" />
         <HelpTOCNode Title="CollationAttribute Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Attributes_CollationAttribute.htm" />
-        <HelpTOCNode Id="6936b7d1-c76f-4a47-ac3f-dbb773be6498" Title="CollationAttribute Properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_CollationAttribute.htm">
+        <HelpTOCNode Id="f59f7ed2-3647-497f-91e7-188b7eb97c46" Title="CollationAttribute Properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_CollationAttribute.htm">
           <HelpTOCNode Title="Name Property " Url="html/P_SQLitePCL_pretty_Orm_Attributes_CollationAttribute_Name.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="61685eb0-74c9-49b1-8767-18212136d013" Title="ColumnAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_ColumnAttribute.htm">
+      <HelpTOCNode Id="d48d55d0-7ec7-44cf-ab3f-c5307bd411a4" Title="ColumnAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_ColumnAttribute.htm">
         <HelpTOCNode Title="ColumnAttribute Constructor " Url="html/M_SQLitePCL_pretty_Orm_Attributes_ColumnAttribute__ctor.htm" />
         <HelpTOCNode Title="ColumnAttribute Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Attributes_ColumnAttribute.htm" />
-        <HelpTOCNode Id="19716eb6-5996-4784-9609-b3a9a0c569d3" Title="ColumnAttribute Properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_ColumnAttribute.htm">
+        <HelpTOCNode Id="92fed915-a029-4eae-8c55-efce7cfe4636" Title="ColumnAttribute Properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_ColumnAttribute.htm">
           <HelpTOCNode Title="Name Property " Url="html/P_SQLitePCL_pretty_Orm_Attributes_ColumnAttribute_Name.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="6bb048ad-766b-48b6-b0b9-3af0e2d299e2" Title="CompositeIndexAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_CompositeIndexAttribute.htm">
-        <HelpTOCNode Id="776c76da-b929-45c0-af98-be314f142a8c" Title="CompositeIndexAttribute Constructor " Url="html/Overload_SQLitePCL_pretty_Orm_Attributes_CompositeIndexAttribute__ctor.htm">
+      <HelpTOCNode Id="6de64f24-b331-484e-9386-cbd4e49b6514" Title="CompositeIndexAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_CompositeIndexAttribute.htm">
+        <HelpTOCNode Id="48c17425-3e4e-4b4e-94a0-af74600a0fbc" Title="CompositeIndexAttribute Constructor " Url="html/Overload_SQLitePCL_pretty_Orm_Attributes_CompositeIndexAttribute__ctor.htm">
           <HelpTOCNode Title="CompositeIndexAttribute Constructor (String[])" Url="html/M_SQLitePCL_pretty_Orm_Attributes_CompositeIndexAttribute__ctor_2.htm" />
           <HelpTOCNode Title="CompositeIndexAttribute Constructor (Boolean, String[])" Url="html/M_SQLitePCL_pretty_Orm_Attributes_CompositeIndexAttribute__ctor.htm" />
           <HelpTOCNode Title="CompositeIndexAttribute Constructor (String, Boolean, String[])" Url="html/M_SQLitePCL_pretty_Orm_Attributes_CompositeIndexAttribute__ctor_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="CompositeIndexAttribute Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Attributes_CompositeIndexAttribute.htm" />
-        <HelpTOCNode Id="4860881a-ad0f-4169-900c-b0316ad137bc" Title="CompositeIndexAttribute Properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_CompositeIndexAttribute.htm">
+        <HelpTOCNode Id="143c075d-22bc-4102-839a-4ea37d9359bc" Title="CompositeIndexAttribute Properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_CompositeIndexAttribute.htm">
           <HelpTOCNode Title="Columns Property " Url="html/P_SQLitePCL_pretty_Orm_Attributes_CompositeIndexAttribute_Columns.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_SQLitePCL_pretty_Orm_Attributes_CompositeIndexAttribute_Name.htm" />
           <HelpTOCNode Title="Unique Property " Url="html/P_SQLitePCL_pretty_Orm_Attributes_CompositeIndexAttribute_Unique.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e4f83e2d-c79c-407b-80fa-57dbcb0c062e" Title="ForeignKeyAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute.htm">
-        <HelpTOCNode Id="1d32ccb6-c7b0-4868-b614-cdd2e0083f3b" Title="ForeignKeyAttribute Constructor " Url="html/Overload_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute__ctor.htm">
+      <HelpTOCNode Id="f500b279-c206-41ef-84c6-5b706bbabab0" Title="ForeignKeyAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute.htm">
+        <HelpTOCNode Id="b6fd319f-327f-499e-bbb5-9fda57bc9799" Title="ForeignKeyAttribute Constructor " Url="html/Overload_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute__ctor.htm">
           <HelpTOCNode Title="ForeignKeyAttribute Constructor (Type)" Url="html/M_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute__ctor_1.htm" />
           <HelpTOCNode Title="ForeignKeyAttribute Constructor (String, String)" Url="html/M_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute__ctor.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ForeignKeyAttribute Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute.htm" />
-        <HelpTOCNode Id="6617559e-f47c-4cdf-97fa-09b779f5f40b" Title="ForeignKeyAttribute Properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute.htm">
+        <HelpTOCNode Id="b07944c8-66c2-4323-a20f-53fe45406ea6" Title="ForeignKeyAttribute Properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute.htm">
           <HelpTOCNode Title="ColumnName Property " Url="html/P_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute_ColumnName.htm" />
           <HelpTOCNode Title="TableName Property " Url="html/P_SQLitePCL_pretty_Orm_Attributes_ForeignKeyAttribute_TableName.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="89575789-3346-4876-89a7-312cfca50368" Title="IgnoreAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_IgnoreAttribute.htm">
+      <HelpTOCNode Id="bbe6c541-cff6-43fe-a6ac-a499ba394d79" Title="IgnoreAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_IgnoreAttribute.htm">
         <HelpTOCNode Title="IgnoreAttribute Constructor " Url="html/M_SQLitePCL_pretty_Orm_Attributes_IgnoreAttribute__ctor.htm" />
         <HelpTOCNode Title="IgnoreAttribute Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Attributes_IgnoreAttribute.htm" />
         <HelpTOCNode Title="IgnoreAttribute Properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_IgnoreAttribute.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="2a9797f1-59b0-40ef-be07-7bc76ee3f615" Title="IndexedAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_IndexedAttribute.htm">
-        <HelpTOCNode Id="a55bc507-34f3-4c63-92b2-7b81360a950c" Title="IndexedAttribute Constructor " Url="html/Overload_SQLitePCL_pretty_Orm_Attributes_IndexedAttribute__ctor.htm">
+      <HelpTOCNode Id="fdba0625-cc94-4d72-9a08-9ac5cd8c3b2c" Title="IndexedAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_IndexedAttribute.htm">
+        <HelpTOCNode Id="e5bd111c-b8fc-4a63-90b3-614c0a57a834" Title="IndexedAttribute Constructor " Url="html/Overload_SQLitePCL_pretty_Orm_Attributes_IndexedAttribute__ctor.htm">
           <HelpTOCNode Title="IndexedAttribute Constructor " Url="html/M_SQLitePCL_pretty_Orm_Attributes_IndexedAttribute__ctor.htm" />
           <HelpTOCNode Title="IndexedAttribute Constructor (Boolean)" Url="html/M_SQLitePCL_pretty_Orm_Attributes_IndexedAttribute__ctor_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="IndexedAttribute Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Attributes_IndexedAttribute.htm" />
-        <HelpTOCNode Id="25afbbab-b59b-47e1-a716-6e748c456c12" Title="IndexedAttribute Properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_IndexedAttribute.htm">
+        <HelpTOCNode Id="1cb69cfd-43f7-4f0a-8c44-77598b8f894f" Title="IndexedAttribute Properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_IndexedAttribute.htm">
           <HelpTOCNode Title="Unique Property " Url="html/P_SQLitePCL_pretty_Orm_Attributes_IndexedAttribute_Unique.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="5c6f43a7-8058-4b6c-bf19-6c1d777dcfea" Title="NotNullAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_NotNullAttribute.htm">
+      <HelpTOCNode Id="be50d2e3-2dbd-4f2b-945e-03db3e733abe" Title="NotNullAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_NotNullAttribute.htm">
         <HelpTOCNode Title="NotNullAttribute Constructor " Url="html/M_SQLitePCL_pretty_Orm_Attributes_NotNullAttribute__ctor.htm" />
         <HelpTOCNode Title="NotNullAttribute Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Attributes_NotNullAttribute.htm" />
-        <HelpTOCNode Id="74e1c875-41b2-419b-b412-c8c609797629" Title="NotNullAttribute Properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_NotNullAttribute.htm">
+        <HelpTOCNode Id="d4a1701b-2101-4719-a683-bcd22450eb2d" Title="NotNullAttribute Properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_NotNullAttribute.htm">
           <HelpTOCNode Title="DefaultValue Property " Url="html/P_SQLitePCL_pretty_Orm_Attributes_NotNullAttribute_DefaultValue.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="c5af7c14-ad4d-4f5f-bb9a-ce070bcb90ce" Title="PrimaryKeyAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_PrimaryKeyAttribute.htm">
+      <HelpTOCNode Id="d9a055e1-f5ab-41ab-b907-21ea6e7f1133" Title="PrimaryKeyAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_PrimaryKeyAttribute.htm">
         <HelpTOCNode Title="PrimaryKeyAttribute Constructor " Url="html/M_SQLitePCL_pretty_Orm_Attributes_PrimaryKeyAttribute__ctor.htm" />
         <HelpTOCNode Title="PrimaryKeyAttribute Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Attributes_PrimaryKeyAttribute.htm" />
         <HelpTOCNode Title="PrimaryKeyAttribute Properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_PrimaryKeyAttribute.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="9c697f14-27df-4256-86c7-34463bfd09da" Title="TableAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_TableAttribute.htm">
+      <HelpTOCNode Id="24f170d2-f0a0-4ac5-8ada-dedd1b2beb3a" Title="TableAttribute Class" Url="html/T_SQLitePCL_pretty_Orm_Attributes_TableAttribute.htm">
         <HelpTOCNode Title="TableAttribute Constructor " Url="html/M_SQLitePCL_pretty_Orm_Attributes_TableAttribute__ctor.htm" />
         <HelpTOCNode Title="TableAttribute Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Attributes_TableAttribute.htm" />
-        <HelpTOCNode Id="47caadc1-5b8b-4a38-9d41-f79d1082f8cf" Title="TableAttribute Properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_TableAttribute.htm">
+        <HelpTOCNode Id="a54e1e81-5d48-41c6-8250-cb5bd119f820" Title="TableAttribute Properties" Url="html/Properties_T_SQLitePCL_pretty_Orm_Attributes_TableAttribute.htm">
           <HelpTOCNode Title="Name Property " Url="html/P_SQLitePCL_pretty_Orm_Attributes_TableAttribute_Name.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="f04f7253-f6ba-4c51-a51c-168a511bf2a5" Title="SQLitePCL.pretty.Orm.Sql" Url="html/N_SQLitePCL_pretty_Orm_Sql.htm">
-      <HelpTOCNode Id="afee94c3-1285-405d-9ea7-914a72cfe0f0" Title="FromClause Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_FromClause.htm">
-        <HelpTOCNode Id="faf7a57a-1d89-4592-8f54-29575446794a" Title="FromClause Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_FromClause.htm">
+    <HelpTOCNode Id="b70f65cf-57d1-4246-9077-433867f2365e" Title="SQLitePCL.pretty.Orm.Sql" Url="html/N_SQLitePCL_pretty_Orm_Sql.htm">
+      <HelpTOCNode Id="d5c400c0-63fe-4939-89f0-22c6d3010853" Title="FromClause Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_FromClause.htm">
+        <HelpTOCNode Id="08cfbaa4-44d8-4886-85b0-da54631e0b39" Title="FromClause Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_FromClause.htm">
           <HelpTOCNode Title="ToString Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_FromClause_ToString.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="0e791a81-5d23-44c5-b7c5-161fb65d3073" Title="FromClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_FromClause_1.htm">
-        <HelpTOCNode Id="12326559-fb97-4c57-919c-1f2aa645623d" Title="FromClause(T) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_FromClause_1.htm">
+      <HelpTOCNode Id="dcbd74e4-9682-409b-9383-837a6c89ac22" Title="FromClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_FromClause_1.htm">
+        <HelpTOCNode Id="ee9b9133-9ad6-4a49-88c1-2ae7d915ee9c" Title="FromClause(T) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_FromClause_1.htm">
+          <HelpTOCNode Title="Join(T2) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_FromClause_1_Join__1.htm" />
+          <HelpTOCNode Title="LeftJoin(T2) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_FromClause_1_LeftJoin__1.htm" />
           <HelpTOCNode Title="Select Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_FromClause_1_Select.htm" />
+          <HelpTOCNode Title="SelectDistinct Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_FromClause_1_SelectDistinct.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="7f36d73b-9857-41a6-ae84-6354840cbcf6" Title="FromClause(T1, T2) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_FromClause_2.htm">
-        <HelpTOCNode Id="da69f8ed-29c0-415c-a240-92b058a90250" Title="FromClause(T1, T2) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_FromClause_2.htm">
+      <HelpTOCNode Id="bcc7fcce-1e27-43fe-9660-3c124cf46646" Title="FromClause(T1, T2) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_FromClause_2.htm">
+        <HelpTOCNode Id="070f37ce-801c-4fc2-b8fe-bb2f54e2295a" Title="FromClause(T1, T2) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_FromClause_2.htm">
+          <HelpTOCNode Title="Join(T3) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_FromClause_2_Join__1.htm" />
+          <HelpTOCNode Title="LeftJoin(T3) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_FromClause_2_LeftJoin__1.htm" />
           <HelpTOCNode Title="Select Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_FromClause_2_Select.htm" />
+          <HelpTOCNode Title="SelectDistinct Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_FromClause_2_SelectDistinct.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="97913dfb-8dcb-4cd7-80e6-7e3da259cddf" Title="FromClause(T1, T2, T3) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_FromClause_3.htm">
-        <HelpTOCNode Id="ac24e735-7431-47dc-bca8-b920fa9cf774" Title="FromClause(T1, T2, T3) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_FromClause_3.htm">
+      <HelpTOCNode Id="5c076603-15f7-451c-8b59-d8d048b1ad8a" Title="FromClause(T1, T2, T3) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_FromClause_3.htm">
+        <HelpTOCNode Id="17a01d71-b9fe-4f96-87e3-94be0b4ae72f" Title="FromClause(T1, T2, T3) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_FromClause_3.htm">
+          <HelpTOCNode Title="Join(T4) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_FromClause_3_Join__1.htm" />
+          <HelpTOCNode Title="LeftJoin(T4) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_FromClause_3_LeftJoin__1.htm" />
           <HelpTOCNode Title="Select Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_FromClause_3_Select.htm" />
+          <HelpTOCNode Title="SelectDistinct Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_FromClause_3_SelectDistinct.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bbca4b65-bdc5-4fb9-9216-d04266998a05" Title="FromClause(T1, T2, T3, T4) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_FromClause_4.htm">
-        <HelpTOCNode Id="e0a79f3e-17ae-4957-b2a9-d14b296efdb1" Title="FromClause(T1, T2, T3, T4) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_FromClause_4.htm">
+      <HelpTOCNode Id="b51071ac-32e4-497e-bbc4-332bd2ad3fa5" Title="FromClause(T1, T2, T3, T4) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_FromClause_4.htm">
+        <HelpTOCNode Id="5e8e386f-add4-459f-99fa-88dcbde72639" Title="FromClause(T1, T2, T3, T4) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_FromClause_4.htm">
           <HelpTOCNode Title="Select Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_FromClause_4_Select.htm" />
+          <HelpTOCNode Title="SelectDistinct Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_FromClause_4_SelectDistinct.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="ISqlQuery Interface" Url="html/T_SQLitePCL_pretty_Orm_Sql_ISqlQuery.htm" />
-      <HelpTOCNode Id="3ee43bb4-7d46-4dd5-854f-e7fcd9583ba4" Title="LimitClause Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_LimitClause.htm">
-        <HelpTOCNode Id="28d45ca6-8509-428c-a5cd-99074ae6c0c4" Title="LimitClause Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_LimitClause.htm">
+      <HelpTOCNode Id="020b9535-4b4a-4233-b567-92d44ab69ae1" Title="JoinClause Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_JoinClause.htm">
+        <HelpTOCNode Id="ca6a56e7-7ad8-4057-9881-6a72fc5e1967" Title="JoinClause Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_JoinClause.htm">
+          <HelpTOCNode Title="ToString Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_JoinClause_ToString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="321e636b-d2ca-494d-a369-4916bf613fde" Title="JoinClause(T1, T2) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_JoinClause_2.htm">
+        <HelpTOCNode Id="bc1b9742-ec33-44d2-ab6f-f60b197c0167" Title="JoinClause(T1, T2) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_JoinClause_2.htm">
+          <HelpTOCNode Title="Join(T3) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_JoinClause_2_Join__1.htm" />
+          <HelpTOCNode Title="LeftJoin(T3) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_JoinClause_2_LeftJoin__1.htm" />
+          <HelpTOCNode Title="Select Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_JoinClause_2_Select.htm" />
+          <HelpTOCNode Title="SelectDistinct Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_JoinClause_2_SelectDistinct.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ef80fd32-d3e2-4d00-adaf-ab376a08d6da" Title="JoinClause(T1, T2, T3) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_JoinClause_3.htm">
+        <HelpTOCNode Id="360215b5-28b5-47cc-9e3a-c4955d759742" Title="JoinClause(T1, T2, T3) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_JoinClause_3.htm">
+          <HelpTOCNode Title="Join(T4) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_JoinClause_3_Join__1.htm" />
+          <HelpTOCNode Title="LeftJoin(T4) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_JoinClause_3_LeftJoin__1.htm" />
+          <HelpTOCNode Title="Select Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_JoinClause_3_Select.htm" />
+          <HelpTOCNode Title="SelectDistinct Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_JoinClause_3_SelectDistinct.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="55b64d1b-e43b-4445-bf36-912707bb02bb" Title="JoinClause(T1, T2, T3, T4) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_JoinClause_4.htm">
+        <HelpTOCNode Id="c3aa0833-2e4e-4cb6-997d-07bf139fb037" Title="JoinClause(T1, T2, T3, T4) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_JoinClause_4.htm">
+          <HelpTOCNode Title="Select Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_JoinClause_4_Select.htm" />
+          <HelpTOCNode Title="SelectDistinct Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_JoinClause_4_SelectDistinct.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e60b3b08-e2db-4c94-bcaf-2597242a73a0" Title="LimitClause Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_LimitClause.htm">
+        <HelpTOCNode Id="31edefd3-6dd8-4c17-9439-0303c33ab2a9" Title="LimitClause Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_LimitClause.htm">
           <HelpTOCNode Title="ToString Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_LimitClause_ToString.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="5f2a24d7-8180-4ca3-889b-4e8bf72355f1" Title="LimitClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_LimitClause_1.htm">
-        <HelpTOCNode Id="9603d50d-3453-4d41-9922-f6953b73f3a2" Title="LimitClause(T) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_LimitClause_1.htm">
+      <HelpTOCNode Id="82a5b657-850e-4710-a0f2-a8f1f73ee82d" Title="LimitClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_LimitClause_1.htm">
+        <HelpTOCNode Id="e424188e-f268-476a-9503-0ae64d24511a" Title="LimitClause(T) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_LimitClause_1.htm">
           <HelpTOCNode Title="Skip Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_LimitClause_1_Skip.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b72276d4-f4e8-4a30-919d-8b1a41ccf840" Title="LimitClause(T1, T2) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_LimitClause_2.htm">
-        <HelpTOCNode Id="2191ae87-12be-4e60-85f8-26e11041ce31" Title="LimitClause(T1, T2) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_LimitClause_2.htm">
+      <HelpTOCNode Id="8ad8b3e2-4366-43d1-954e-015986481622" Title="LimitClause(T1, T2) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_LimitClause_2.htm">
+        <HelpTOCNode Id="8ebc637c-f50e-487f-936e-2b8155378a70" Title="LimitClause(T1, T2) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_LimitClause_2.htm">
           <HelpTOCNode Title="Skip Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_LimitClause_2_Skip.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f13c1f3d-f83b-4624-bfe3-7a94476e204e" Title="LimitClause(T1, T2, T3) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_LimitClause_3.htm">
-        <HelpTOCNode Id="e07a4a16-3177-4000-bbad-b5e75e41a944" Title="LimitClause(T1, T2, T3) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_LimitClause_3.htm">
+      <HelpTOCNode Id="b94a51d0-3ff8-478c-acdb-cdb4f81996b0" Title="LimitClause(T1, T2, T3) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_LimitClause_3.htm">
+        <HelpTOCNode Id="250e51cb-2d64-4986-8cc8-36b0035016d6" Title="LimitClause(T1, T2, T3) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_LimitClause_3.htm">
           <HelpTOCNode Title="Skip Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_LimitClause_3_Skip.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="7c285de1-f706-4f9f-9592-cc185a1af392" Title="LimitClause(T1, T2, T3, T4) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_LimitClause_4.htm">
-        <HelpTOCNode Id="9e901d0f-5258-40ec-af5b-1b901914b326" Title="LimitClause(T1, T2, T3, T4) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_LimitClause_4.htm">
+      <HelpTOCNode Id="4a69d1b7-187c-41af-9d7a-58d547ab92a9" Title="LimitClause(T1, T2, T3, T4) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_LimitClause_4.htm">
+        <HelpTOCNode Id="fe461e77-abf0-407b-b31d-1062c4a14d18" Title="LimitClause(T1, T2, T3, T4) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_LimitClause_4.htm">
           <HelpTOCNode Title="Skip Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_LimitClause_4_Skip.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="dfdbaabd-1907-4ce4-9fd9-f1e8afdb4a88" Title="OffsetClause Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OffsetClause.htm">
-        <HelpTOCNode Id="9e995e7b-44f6-411f-9377-c7a783f6a6ea" Title="OffsetClause Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_OffsetClause.htm">
+      <HelpTOCNode Id="22510c98-e8d2-4508-9813-d356f5b20935" Title="OffsetClause Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OffsetClause.htm">
+        <HelpTOCNode Id="d077753a-3f41-41d9-8dee-1e456f57208c" Title="OffsetClause Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_OffsetClause.htm">
           <HelpTOCNode Title="ToString Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OffsetClause_ToString.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="5496dd5f-bdb1-4a41-8b1e-2dbcda8e8570" Title="OffsetClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OffsetClause_1.htm">
+      <HelpTOCNode Id="7b75b52f-ce28-4568-88cc-d73c3aeb08ff" Title="OffsetClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OffsetClause_1.htm">
         <HelpTOCNode Title="OffsetClause(T) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_OffsetClause_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="92592710-d53b-47f0-8f35-48c3841a1b3a" Title="OffsetClause(T1, T2) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OffsetClause_2.htm">
+      <HelpTOCNode Id="750094d1-1973-4ba2-a537-5eeddd00a33a" Title="OffsetClause(T1, T2) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OffsetClause_2.htm">
         <HelpTOCNode Title="OffsetClause(T1, T2) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_OffsetClause_2.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="88f00e9b-a827-4ef3-a418-8d1cb384ca08" Title="OffsetClause(T1, T2, T3) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OffsetClause_3.htm">
+      <HelpTOCNode Id="2999d02d-0abf-4fbb-a1ca-124e5e3f34ed" Title="OffsetClause(T1, T2, T3) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OffsetClause_3.htm">
         <HelpTOCNode Title="OffsetClause(T1, T2, T3) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_OffsetClause_3.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3f78dc80-8254-4e2d-b64a-19b396676f05" Title="OffsetClause(T1, T2, T3, T4) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OffsetClause_4.htm">
+      <HelpTOCNode Id="a4203657-ab1f-4d37-9328-9e763481be74" Title="OffsetClause(T1, T2, T3, T4) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OffsetClause_4.htm">
         <HelpTOCNode Title="OffsetClause(T1, T2, T3, T4) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_OffsetClause_4.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="efdfdb78-314b-4e83-b1f7-e832e853c461" Title="OrderByClause Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OrderByClause.htm">
-        <HelpTOCNode Id="10a971a7-9997-4d81-b07f-ac1a5edf3926" Title="OrderByClause Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_OrderByClause.htm">
+      <HelpTOCNode Id="73a65f4d-46de-4fb8-bac2-469cec72c473" Title="OrderByClause Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OrderByClause.htm">
+        <HelpTOCNode Id="59fe21dd-a209-422a-8abf-e065697e0236" Title="OrderByClause Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_OrderByClause.htm">
           <HelpTOCNode Title="ToString Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_ToString.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ce1ac577-3e88-44e0-b838-14b36009a68e" Title="OrderByClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OrderByClause_1.htm">
-        <HelpTOCNode Id="b6119eda-4295-4486-83a6-5898ebbab027" Title="OrderByClause(T) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_OrderByClause_1.htm">
+      <HelpTOCNode Id="6fd2d024-1979-4184-87de-5d2597fec101" Title="OrderByClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OrderByClause_1.htm">
+        <HelpTOCNode Id="ed9c28ee-7cbb-45f8-8629-8e842e22129d" Title="OrderByClause(T) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_OrderByClause_1.htm">
           <HelpTOCNode Title="ElementAt Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_1_ElementAt.htm" />
           <HelpTOCNode Title="Skip Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_1_Skip.htm" />
           <HelpTOCNode Title="Take Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_1_Take.htm" />
@@ -810,8 +838,8 @@
           <HelpTOCNode Title="ThenByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_1_ThenByDescending__1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="90147cfd-f490-477b-83e6-a4f3937cfcfe" Title="OrderByClause(T1, T2) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OrderByClause_2.htm">
-        <HelpTOCNode Id="473f95b9-f99a-4435-bfd8-540ac4b7d679" Title="OrderByClause(T1, T2) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_OrderByClause_2.htm">
+      <HelpTOCNode Id="d756e716-000c-4a10-b8f2-5ad81ed639a2" Title="OrderByClause(T1, T2) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OrderByClause_2.htm">
+        <HelpTOCNode Id="5c7c35c8-4a6d-46a0-81f3-b08d52d397df" Title="OrderByClause(T1, T2) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_OrderByClause_2.htm">
           <HelpTOCNode Title="ElementAt Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_2_ElementAt.htm" />
           <HelpTOCNode Title="Skip Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_2_Skip.htm" />
           <HelpTOCNode Title="Take Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_2_Take.htm" />
@@ -819,8 +847,8 @@
           <HelpTOCNode Title="ThenByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_2_ThenByDescending__1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="c2568261-820d-4f76-a1c0-5a5a741a2da1" Title="OrderByClause(T1, T2, T3) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OrderByClause_3.htm">
-        <HelpTOCNode Id="fc651bbc-c048-4231-a41c-a5155d9e33d9" Title="OrderByClause(T1, T2, T3) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_OrderByClause_3.htm">
+      <HelpTOCNode Id="39fe6d16-0de4-4de8-99a2-bb3a4742b1e8" Title="OrderByClause(T1, T2, T3) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OrderByClause_3.htm">
+        <HelpTOCNode Id="e61d641d-4ddd-40a8-80e4-d8411bf53d32" Title="OrderByClause(T1, T2, T3) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_OrderByClause_3.htm">
           <HelpTOCNode Title="ElementAt Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_3_ElementAt.htm" />
           <HelpTOCNode Title="Skip Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_3_Skip.htm" />
           <HelpTOCNode Title="Take Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_3_Take.htm" />
@@ -828,8 +856,8 @@
           <HelpTOCNode Title="ThenByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_3_ThenByDescending__1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="abaf301f-af2c-4f16-904e-cac497269800" Title="OrderByClause(T1, T2, T3, T4) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OrderByClause_4.htm">
-        <HelpTOCNode Id="10de0706-5dbf-4e2d-b0e0-5e8a9e48cf10" Title="OrderByClause(T1, T2, T3, T4) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_OrderByClause_4.htm">
+      <HelpTOCNode Id="374be6d8-c9dd-4775-88ac-4e674a357170" Title="OrderByClause(T1, T2, T3, T4) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_OrderByClause_4.htm">
+        <HelpTOCNode Id="ad167407-33fc-4982-b3ce-1c270de2b13f" Title="OrderByClause(T1, T2, T3, T4) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_OrderByClause_4.htm">
           <HelpTOCNode Title="ElementAt Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_4_ElementAt.htm" />
           <HelpTOCNode Title="Skip Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_4_Skip.htm" />
           <HelpTOCNode Title="Take Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_4_Take.htm" />
@@ -837,19 +865,19 @@
           <HelpTOCNode Title="ThenByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_OrderByClause_4_ThenByDescending__1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b4da056b-a0cb-4378-8ec7-8f350f9db01d" Title="SelectClause Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_SelectClause.htm">
-        <HelpTOCNode Id="c5b4503f-f178-44d2-a896-40e122df2cbc" Title="SelectClause Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_SelectClause.htm">
+      <HelpTOCNode Id="a2441425-7457-49b7-88d5-30cdb0359e19" Title="SelectClause Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_SelectClause.htm">
+        <HelpTOCNode Id="50de0374-fd9d-4494-a021-c7731f9c52e6" Title="SelectClause Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_SelectClause.htm">
           <HelpTOCNode Title="ToString Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_ToString.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="1cbd7b22-0c7a-40bf-8fa1-922e69802363" Title="SelectClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_SelectClause_1.htm">
-        <HelpTOCNode Id="aa99a7c5-b7d8-4bbf-9352-8737745ac15e" Title="SelectClause(T) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_SelectClause_1.htm">
+      <HelpTOCNode Id="c5cdb562-3d04-4a50-9e3a-9af90ab6f18e" Title="SelectClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_SelectClause_1.htm">
+        <HelpTOCNode Id="04f992ce-7a26-4b2e-80a1-2fac2f3ebe6f" Title="SelectClause(T) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_SelectClause_1.htm">
           <HelpTOCNode Title="ElementAt Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_1_ElementAt.htm" />
           <HelpTOCNode Title="OrderBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_1_OrderBy__1.htm" />
           <HelpTOCNode Title="OrderByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_1_OrderByDescending__1.htm" />
           <HelpTOCNode Title="Skip Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_1_Skip.htm" />
           <HelpTOCNode Title="Take Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_1_Take.htm" />
-          <HelpTOCNode Id="54f6b99e-b7f7-45d8-84bd-fc25bc48673d" Title="Where Method " Url="html/Overload_SQLitePCL_pretty_Orm_Sql_SelectClause_1_Where.htm">
+          <HelpTOCNode Id="12afb788-6488-4dc5-8e0f-5aa2cbc54672" Title="Where Method " Url="html/Overload_SQLitePCL_pretty_Orm_Sql_SelectClause_1_Where.htm">
             <HelpTOCNode Title="Where Method (Expression(Func(T, Boolean)))" Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_1_Where.htm" />
             <HelpTOCNode Title="Where(U) Method (Expression(Func(T, U, Boolean)))" Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_1_Where__1.htm" />
             <HelpTOCNode Title="Where(U, V) Method (Expression(Func(T, U, V, Boolean)))" Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_1_Where__2.htm" />
@@ -860,14 +888,14 @@
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f45cb160-c9dd-4b93-ad80-b17cc805dea7" Title="SelectClause(T1, T2) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_SelectClause_2.htm">
-        <HelpTOCNode Id="add8faa7-12ef-42fa-a646-68bd765d1a49" Title="SelectClause(T1, T2) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_SelectClause_2.htm">
+      <HelpTOCNode Id="cc287e09-cc22-4e90-9888-25287621a2fe" Title="SelectClause(T1, T2) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_SelectClause_2.htm">
+        <HelpTOCNode Id="2fc473e6-b095-4767-8ece-74c011b0b7a1" Title="SelectClause(T1, T2) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_SelectClause_2.htm">
           <HelpTOCNode Title="ElementAt Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_2_ElementAt.htm" />
           <HelpTOCNode Title="OrderBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_2_OrderBy__1.htm" />
           <HelpTOCNode Title="OrderByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_2_OrderByDescending__1.htm" />
           <HelpTOCNode Title="Skip Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_2_Skip.htm" />
           <HelpTOCNode Title="Take Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_2_Take.htm" />
-          <HelpTOCNode Id="cb452d7a-17a5-4225-8c0e-f2377b3aef17" Title="Where Method " Url="html/Overload_SQLitePCL_pretty_Orm_Sql_SelectClause_2_Where.htm">
+          <HelpTOCNode Id="ab3a98e5-72fb-48c4-9acb-df9d4b11c09e" Title="Where Method " Url="html/Overload_SQLitePCL_pretty_Orm_Sql_SelectClause_2_Where.htm">
             <HelpTOCNode Title="Where Method (Expression(Func(T1, T2, Boolean)))" Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_2_Where.htm" />
             <HelpTOCNode Title="Where(U) Method (Expression(Func(T1, T2, U, Boolean)))" Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_2_Where__1.htm" />
             <HelpTOCNode Title="Where(U, V) Method (Expression(Func(T1, T2, U, V, Boolean)))" Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_2_Where__2.htm" />
@@ -878,14 +906,14 @@
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ff9743e3-5512-401a-888c-e5e1385fd9b0" Title="SelectClause(T1, T2, T3) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_SelectClause_3.htm">
-        <HelpTOCNode Id="e885cd61-8ae7-496d-82c8-a32e8b25ec69" Title="SelectClause(T1, T2, T3) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_SelectClause_3.htm">
+      <HelpTOCNode Id="4d250005-0c87-459c-a042-82a8fe1da257" Title="SelectClause(T1, T2, T3) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_SelectClause_3.htm">
+        <HelpTOCNode Id="3160e1d5-4ba2-4a93-aee5-20c3db333d71" Title="SelectClause(T1, T2, T3) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_SelectClause_3.htm">
           <HelpTOCNode Title="ElementAt Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_3_ElementAt.htm" />
           <HelpTOCNode Title="OrderBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_3_OrderBy__1.htm" />
           <HelpTOCNode Title="OrderByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_3_OrderByDescending__1.htm" />
           <HelpTOCNode Title="Skip Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_3_Skip.htm" />
           <HelpTOCNode Title="Take Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_3_Take.htm" />
-          <HelpTOCNode Id="9752fe40-8574-4d11-9c7a-cb83a2813aca" Title="Where Method " Url="html/Overload_SQLitePCL_pretty_Orm_Sql_SelectClause_3_Where.htm">
+          <HelpTOCNode Id="b21d75eb-d412-49d7-b334-e47b27381682" Title="Where Method " Url="html/Overload_SQLitePCL_pretty_Orm_Sql_SelectClause_3_Where.htm">
             <HelpTOCNode Title="Where(U, V, W, X, Y, Z) Method (Expression(Func(T1, T2, T3, U, V, W, X, Y, Z, Boolean)))" Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_3_Where__6.htm" />
             <HelpTOCNode Title="Where Method (Expression(Func(T1, T2, T3, Boolean)))" Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_3_Where.htm" />
             <HelpTOCNode Title="Where(U) Method (Expression(Func(T1, T2, T3, U, Boolean)))" Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_3_Where__1.htm" />
@@ -896,14 +924,14 @@
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="5c5d9220-34b5-4032-91d3-563b6c9c39a4" Title="SelectClause(T1, T2, T3, T4) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_SelectClause_4.htm">
-        <HelpTOCNode Id="fdd9f737-7cd1-49fc-81db-a555fdbaf84e" Title="SelectClause(T1, T2, T3, T4) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_SelectClause_4.htm">
+      <HelpTOCNode Id="226a4052-f254-4bba-9249-82b31d29af8f" Title="SelectClause(T1, T2, T3, T4) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_SelectClause_4.htm">
+        <HelpTOCNode Id="57ffdbb6-9a14-4807-acbe-499676f3044e" Title="SelectClause(T1, T2, T3, T4) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_SelectClause_4.htm">
           <HelpTOCNode Title="ElementAt Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_4_ElementAt.htm" />
           <HelpTOCNode Title="OrderBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_4_OrderBy__1.htm" />
           <HelpTOCNode Title="OrderByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_4_OrderByDescending__1.htm" />
           <HelpTOCNode Title="Skip Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_4_Skip.htm" />
           <HelpTOCNode Title="Take Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_4_Take.htm" />
-          <HelpTOCNode Id="30a70367-50ea-4c38-972e-fb5a3c59ad08" Title="Where Method " Url="html/Overload_SQLitePCL_pretty_Orm_Sql_SelectClause_4_Where.htm">
+          <HelpTOCNode Id="6bf85fe9-f9e2-4512-a542-8f9f334f07e8" Title="Where Method " Url="html/Overload_SQLitePCL_pretty_Orm_Sql_SelectClause_4_Where.htm">
             <HelpTOCNode Title="Where(U, V, W, X, Y) Method (Expression(Func(T1, T2, T3, T4, U, V, W, X, Y, Boolean)))" Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_4_Where__5.htm" />
             <HelpTOCNode Title="Where(U, V, W, X, Y, Z) Method (Expression(Func(T1, T2, T3, T4, U, V, W, X, Y, Z, Boolean)))" Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_4_Where__6.htm" />
             <HelpTOCNode Title="Where Method (Expression(Func(T1, T2, T3, T4, Boolean)))" Url="html/M_SQLitePCL_pretty_Orm_Sql_SelectClause_4_Where.htm" />
@@ -914,13 +942,13 @@
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="13ea76aa-1fdb-49ea-97cf-f00713f932c3" Title="WhereClause Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_WhereClause.htm">
-        <HelpTOCNode Id="5817a380-a81c-42d2-a841-656cb832cff5" Title="WhereClause Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_WhereClause.htm">
+      <HelpTOCNode Id="ed577ac0-23f7-47ee-bd85-fa3f0304a1d4" Title="WhereClause Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_WhereClause.htm">
+        <HelpTOCNode Id="341f2d1c-7403-4dc8-80a3-6257b9af8e74" Title="WhereClause Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_WhereClause.htm">
           <HelpTOCNode Title="ToString Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_WhereClause_ToString.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="87a793db-6dc2-426f-afb6-72a4fa3d9723" Title="WhereClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_WhereClause_1.htm">
-        <HelpTOCNode Id="7ab9ec4e-3054-4edc-9ab3-e115c1eb5712" Title="WhereClause(T) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_WhereClause_1.htm">
+      <HelpTOCNode Id="7738aa96-0a5d-4861-9e82-06c911676412" Title="WhereClause(T) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_WhereClause_1.htm">
+        <HelpTOCNode Id="4d7401ce-e3ad-4079-8ca9-12006823729a" Title="WhereClause(T) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_WhereClause_1.htm">
           <HelpTOCNode Title="ElementAt Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_WhereClause_1_ElementAt.htm" />
           <HelpTOCNode Title="OrderBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_WhereClause_1_OrderBy__1.htm" />
           <HelpTOCNode Title="OrderByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_WhereClause_1_OrderByDescending__1.htm" />
@@ -928,8 +956,8 @@
           <HelpTOCNode Title="Take Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_WhereClause_1_Take.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ba024b3e-b09f-4ec9-bb32-f9210be97924" Title="WhereClause(T1, T2) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_WhereClause_2.htm">
-        <HelpTOCNode Id="7f7ef51e-2796-4b54-b556-010e0591c559" Title="WhereClause(T1, T2) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_WhereClause_2.htm">
+      <HelpTOCNode Id="427350c4-5a65-4f94-af34-3069251f6eff" Title="WhereClause(T1, T2) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_WhereClause_2.htm">
+        <HelpTOCNode Id="044fbddb-3a62-4c02-9539-d387c30ee017" Title="WhereClause(T1, T2) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_WhereClause_2.htm">
           <HelpTOCNode Title="ElementAt Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_WhereClause_2_ElementAt.htm" />
           <HelpTOCNode Title="OrderBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_WhereClause_2_OrderBy__1.htm" />
           <HelpTOCNode Title="OrderByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_WhereClause_2_OrderByDescending__1.htm" />
@@ -937,8 +965,8 @@
           <HelpTOCNode Title="Take Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_WhereClause_2_Take.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="41e302b4-f83e-434d-bf59-36c166eee19d" Title="WhereClause(T1, T2, T3) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_WhereClause_3.htm">
-        <HelpTOCNode Id="563444f4-520e-4d8d-8667-72624ef25862" Title="WhereClause(T1, T2, T3) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_WhereClause_3.htm">
+      <HelpTOCNode Id="0e4e9e64-0cb6-434e-bba3-d05fb4038a96" Title="WhereClause(T1, T2, T3) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_WhereClause_3.htm">
+        <HelpTOCNode Id="8e6033f4-df12-4cf1-b918-dd05096d1bfe" Title="WhereClause(T1, T2, T3) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_WhereClause_3.htm">
           <HelpTOCNode Title="ElementAt Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_WhereClause_3_ElementAt.htm" />
           <HelpTOCNode Title="OrderBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_WhereClause_3_OrderBy__1.htm" />
           <HelpTOCNode Title="OrderByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_WhereClause_3_OrderByDescending__1.htm" />
@@ -946,8 +974,8 @@
           <HelpTOCNode Title="Take Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_WhereClause_3_Take.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="4b1221fb-2b6f-43d7-a714-1542953fe11c" Title="WhereClause(T1, T2, T3, T4) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_WhereClause_4.htm">
-        <HelpTOCNode Id="469f7658-cd3f-4b18-913b-00585baa2dfa" Title="WhereClause(T1, T2, T3, T4) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_WhereClause_4.htm">
+      <HelpTOCNode Id="2be2fcfc-9504-4fa3-8028-a82f8e876f88" Title="WhereClause(T1, T2, T3, T4) Class" Url="html/T_SQLitePCL_pretty_Orm_Sql_WhereClause_4.htm">
+        <HelpTOCNode Id="49e97cab-4b0e-4765-9f71-242f3026cd60" Title="WhereClause(T1, T2, T3, T4) Methods" Url="html/Methods_T_SQLitePCL_pretty_Orm_Sql_WhereClause_4.htm">
           <HelpTOCNode Title="ElementAt Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_WhereClause_4_ElementAt.htm" />
           <HelpTOCNode Title="OrderBy(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_WhereClause_4_OrderBy__1.htm" />
           <HelpTOCNode Title="OrderByDescending(TValue) Method " Url="html/M_SQLitePCL_pretty_Orm_Sql_WhereClause_4_OrderByDescending__1.htm" />
